@@ -1,0 +1,1 @@
+val occorre : int -> bool

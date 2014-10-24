@@ -1,0 +1,129 @@
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 4 40 44 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 4 40 59
+type(
+  unit -> int
+)
+ident(
+  def num_di_stringhe "EsercitazioniOCaml/modulo 3/2e/gric.ml" 10 155 163 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 4 40 60 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 4 40 62
+type(
+  unit
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 75 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 78
+type(
+  int -> int
+)
+ident(
+  def aux "EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 67 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 10 155 163
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 79 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 80
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 85 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 154
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 89 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 90
+type(
+  string
+)
+ident(
+  def s "EsercitazioniOCaml/modulo 3/2e/gric.ml" 7 105 110 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 154
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 93 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 102
+type(
+  unit -> string
+)
+ident(
+  ext_ref Pervasives.read_line
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 102 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 104
+type(
+  unit
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 93 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 104
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 7 105 116 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 7 105 117
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 89 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 90
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 8 123 127 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 8 123 130
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 8 123 134 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 8 123 135
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 79 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 80
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 140 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 141
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 145 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 148
+type(
+  int -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 75 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 78
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 150 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 151
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 79 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 80
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 151 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 152
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 152 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 153
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 149 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 154
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 145 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 154
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 7 105 110 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 154
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 6 83 85 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 9 136 154
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 10 155 158 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 10 155 161
+type(
+  int -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 75 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 78
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 10 155 162 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 10 155 163
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 10 155 158 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 10 155 163
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/2e/gric.ml" 5 66 67 "EsercitazioniOCaml/modulo 3/2e/gric.ml" 10 155 163
+type(
+  int
+)

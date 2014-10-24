@@ -1,0 +1,1 @@
+val maxstring : string -> char

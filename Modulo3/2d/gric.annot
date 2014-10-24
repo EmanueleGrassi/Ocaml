@@ -1,0 +1,153 @@
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 3 20 24 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 3 20 31
+type(
+  int -> bool
+)
+ident(
+  def occorre "EsercitazioniOCaml/modulo 3/2d/gric.ml" 8 135 148 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 3 20 32 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 3 20 33
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 38 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 8 135 148
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 46 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 49
+type(
+  bool -> bool
+)
+ident(
+  def aux "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 38 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 8 135 148
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 50 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 51
+type(
+  bool
+)
+ident(
+  def v "EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 57 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 7 120 134
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 65 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 66
+type(
+  int
+)
+ident(
+  def b "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 103 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 119
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 69 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 82
+type(
+  string -> int
+)
+ident(
+  ext_ref Pervasives.int_of_string
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 83 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 92
+type(
+  unit -> string
+)
+ident(
+  ext_ref Pervasives.read_line
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 92 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 94
+type(
+  unit
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 82 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 95
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 69 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 95
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 103 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 106
+type(
+  bool -> bool
+)
+ident(
+  int_ref aux "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 46 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 49
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 109 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 110
+type(
+  int
+)
+ident(
+  int_ref b "EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 65 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 66
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 110 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 111
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 111 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 112
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml/modulo 3/2d/gric.ml" 3 20 32 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 3 20 33
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 108 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 113
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 114 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 116
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 117 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 118
+type(
+  bool
+)
+ident(
+  int_ref v "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 50 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 51
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 107 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 119
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 103 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 119
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 61 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 6 96 119
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 7 120 128 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 7 120 129
+type(
+  exn
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 7 120 133 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 7 120 134
+type(
+  bool
+)
+ident(
+  int_ref v "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 50 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 51
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 5 55 57 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 7 120 134
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 8 135 139 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 8 135 142
+type(
+  bool -> bool
+)
+ident(
+  int_ref aux "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 46 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 49
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 8 135 143 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 8 135 148
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 8 135 139 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 8 135 148
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 3/2d/gric.ml" 4 37 38 "EsercitazioniOCaml/modulo 3/2d/gric.ml" 8 135 148
+type(
+  bool
+)
