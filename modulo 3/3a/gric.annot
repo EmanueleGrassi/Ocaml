@@ -1,0 +1,118 @@
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 158 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 168
+type(
+  int -> int -> int
+)
+ident(
+  def sumbetween "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 150 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 169 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 170
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 171 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 228
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 171 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 172
+type(
+  int
+)
+ident(
+  def m "EsercitazioniOCaml/modulo 3/3a/gric.ml" 7 176 177 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 228
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 7 176 180 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 7 176 181
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 171 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 172
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 7 176 182 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 7 176 183
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 7 176 184 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 7 176 185
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 169 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 170
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 7 176 180 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 7 176 185
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 8 187 193 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 8 187 194
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 171 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 172
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 202 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 203
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 169 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 170
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 204 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 205
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 207 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 217
+type(
+  int -> int -> int
+)
+ident(
+  int_ref sumbetween "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 158 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 168
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 219 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 220
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 169 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 170
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 221 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 222
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 223 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 224
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 218 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 225
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 226 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 227
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 171 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 6 150 172
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 206 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 228
+call(
+  stack
+)
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 202 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 228
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 3/3a/gric.ml" 7 176 177 "EsercitazioniOCaml/modulo 3/3a/gric.ml" 9 196 228
+type(
+  int
+)

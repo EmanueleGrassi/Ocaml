@@ -1,0 +1,138 @@
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 6 161 169 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 6 161 175
+type(
+  'a list -> bool
+)
+ident(
+  def nondec "EsercitazioniOCaml/modulo 4/2b/gric.ml" 6 161 161 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 7 188 191 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 7 188 193
+type(
+  'a list
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 7 188 197 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 7 188 201
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 206 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 207
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 220 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 246
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 209 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 210
+type(
+  'a
+)
+ident(
+  def y "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 220 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 246
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 212 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 216
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 220 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 246
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 209 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 216
+type(
+  'a list
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 206 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 216
+type(
+  'a list
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 220 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 221
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 206 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 207
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 222 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 224
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 225 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 226
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 209 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 210
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 220 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 226
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 227 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 229
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 230 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 236
+type(
+  'a list -> bool
+)
+ident(
+  int_ref nondec "EsercitazioniOCaml/modulo 4/2b/gric.ml" 6 161 169 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 6 161 175
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 238 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 239
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 209 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 210
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 241 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 245
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 212 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 216
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 237 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 246
+type(
+  'a list
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 230 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 246
+call(
+  tail
+)
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 220 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 8 203 246
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 251 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 252
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 262 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 266
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 254 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 258
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 262 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 266
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 251 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 258
+type(
+  'a list
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 262 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 266
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 4/2b/gric.ml" 6 161 178 "EsercitazioniOCaml/modulo 4/2b/gric.ml" 9 248 266
+type(
+  'a list -> bool
+)

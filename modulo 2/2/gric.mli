@@ -1,0 +1,1 @@
+val bello : int -> bool

@@ -1,0 +1,190 @@
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 8 246 250 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 8 246 257
+type(
+  'a list -> 'a
+)
+ident(
+  def maxlist "EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 451 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 10 273 277 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 10 273 279
+type(
+  'a list
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 10 273 283 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 10 273 288
+type(
+  exn -> 'a
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 10 273 289 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 10 273 299
+type(
+  exn
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 10 273 283 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 10 273 299
+type(
+  'a
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 11 301 305 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 11 301 306
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 325 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 451
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 11 301 310 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 11 301 314
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 325 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 451
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 11 301 305 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 11 301 314
+type(
+  'a list
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 333 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 336
+type(
+  'b -> 'b list -> 'b
+)
+ident(
+  def aux "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 325 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 451
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 337 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 338
+type(
+  'b
+)
+ident(
+  def x "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 339 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 430
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 339 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 343
+type(
+  'b list
+)
+ident(
+  def rest "EsercitazioniOCaml/modulo 4/1c/gric.ml" 13 347 355 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 430
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 13 347 361 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 13 347 365
+type(
+  'b list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 339 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 343
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 14 373 379 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 14 373 381
+type(
+  'b list
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 14 373 385 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 14 373 386
+type(
+  'b
+)
+ident(
+  int_ref x "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 337 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 338
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 395 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 397
+type(
+  'b
+)
+ident(
+  def x1 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 410 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 430
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 401 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 406
+type(
+  'b list
+)
+ident(
+  def rest1 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 410 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 430
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 395 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 406
+type(
+  'b list
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 410 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 413
+type(
+  'b -> 'b list -> 'b
+)
+ident(
+  int_ref aux "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 333 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 336
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 415 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 418
+type(
+  'b -> 'b -> 'b
+)
+ident(
+  ext_ref Pervasives.max
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 419 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 420
+type(
+  'b
+)
+ident(
+  int_ref x "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 337 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 338
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 421 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 423
+type(
+  'b
+)
+ident(
+  int_ref x1 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 395 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 397
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 414 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 424
+call(
+  stack
+)
+type(
+  'b
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 425 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 430
+type(
+  'b list
+)
+ident(
+  int_ref rest1 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 401 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 406
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 410 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 430
+call(
+  tail
+)
+type(
+  'b
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 13 347 355 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 15 389 430
+type(
+  'b
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 441 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 444
+type(
+  'a -> 'a list -> 'a
+)
+ident(
+  int_ref aux "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 333 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 336
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 445 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 446
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml/modulo 4/1c/gric.ml" 11 301 305 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 11 301 306
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 447 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 451
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml/modulo 4/1c/gric.ml" 11 301 310 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 11 301 314
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 441 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 451
+call(
+  tail
+)
+type(
+  'a
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 12 319 325 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 451
+type(
+  'a
+)
+"EsercitazioniOCaml/modulo 4/1c/gric.ml" 9 261 263 "EsercitazioniOCaml/modulo 4/1c/gric.ml" 16 432 451
+type(
+  'a list -> 'a
+)

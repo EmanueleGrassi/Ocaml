@@ -1,0 +1,194 @@
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 383 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 387
+type(
+  int * string -> bool
+)
+ident(
+  def data "EsercitazioniOCaml/modulo 2/esercizio3.ml" 14 598 612 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 1 0 -1
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 389 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 390
+type(
+  int
+)
+ident(
+  def d "EsercitazioniOCaml/modulo 2/esercizio3.ml" 10 398 400 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 14 598 612
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 392 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 393
+type(
+  string
+)
+ident(
+  def m "EsercitazioniOCaml/modulo 2/esercizio3.ml" 10 398 400 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 14 598 612
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 388 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 394
+type(
+  int * string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 10 398 406 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 10 398 407
+type(
+  string
+)
+ident(
+  int_ref m "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 392 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 393
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 418 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 427
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 430 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 437
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 418 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 437
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 440 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 448
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 418 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 448
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 451 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 459
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 418 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 459
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 462 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 470
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 418 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 470
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 473 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 482
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 418 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 482
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 485 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 495
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 418 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 495
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 499 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 500
+type(
+  int
+)
+ident(
+  int_ref d "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 389 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 390
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 501 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 503
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 504 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 506
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 499 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 11 414 506
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 512 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 520
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 523 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 531
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 512 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 531
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 534 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 545
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 512 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 545
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 548 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 558
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 512 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 558
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 562 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 563
+type(
+  int
+)
+ident(
+  int_ref d "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 389 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 390
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 564 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 566
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 567 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 569
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 562 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 12 508 569
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 13 571 575 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 13 571 585
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 13 571 589 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 13 571 590
+type(
+  int
+)
+ident(
+  int_ref d "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 389 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 9 379 390
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 13 571 591 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 13 571 593
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 13 571 594 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 13 571 596
+type(
+  int
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 13 571 589 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 13 571 596
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 14 598 602 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 14 598 603
+type(
+  string
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 14 598 607 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 14 598 612
+type(
+  bool
+)
+"EsercitazioniOCaml/modulo 2/esercizio3.ml" 10 398 400 "EsercitazioniOCaml/modulo 2/esercizio3.ml" 14 598 612
+type(
+  bool
+)
