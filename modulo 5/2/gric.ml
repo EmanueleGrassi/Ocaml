@@ -1,4 +1,17 @@
 (* Esercizio 2 *)
+(* le funzioni unione, intersezione e differenza sono funzioni*)
+(* 'a list -> 'a list -> 'a list *)
+(* che eseguono le omonime operazioni della teoria degli insiemi*)
+(* sono state definite inoltre delle funzioni di supporto*)
+(* cancella: 'a -> 'a list -> 'a list*)
+(* che elimina ogni elemento della lista parametro uguale all'elemento*)
+(* 'a passato come parametro*)
+(* contenuto_in: 'a -> 'a list -> bool *)
+(* che verifica se l'elemento parametro è presente nella lista parametro *)
+(* la funzione subset*)
+(* subset: 'a list -> 'a list -> bool *)
+(* verifica che una lista sia un sottoinsieme (proprio o improprio)*)
+(* di un'altra lista *)
 
 let rec cancella elem = function
 	| [] -> []

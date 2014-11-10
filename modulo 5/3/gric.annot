@@ -1,309 +1,327 @@
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 3 19 23 "EsercitazioniOCaml/modulo 5/3/gric.ml" 3 19 30
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 18 729 733 "EsercitazioniOCaml/modulo 5/3/gric.ml" 18 729 740
 type(
   string -> char list
 )
 ident(
-  def explode "EsercitazioniOCaml/modulo 5/3/gric.ml" 9 153 153 "EsercitazioniOCaml/modulo 5/3/gric.ml" 1 0 -1
+  def explode "EsercitazioniOCaml/modulo 5/3/gric.ml" 24 863 863 "EsercitazioniOCaml/modulo 5/3/gric.ml" 1 0 -1
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 3 19 31 "EsercitazioniOCaml/modulo 5/3/gric.ml" 3 19 34
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 18 729 741 "EsercitazioniOCaml/modulo 5/3/gric.ml" 18 729 744
 type(
   string
 )
 ident(
-  def str "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 38 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 150
+  def str "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 748 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 860
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 46 "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 49
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 756 "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 759
 type(
   char list -> int -> char list
 )
 ident(
-  def aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 38 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 150
+  def aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 748 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 860
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 50 "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 53
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 760 "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 763
 type(
   char list
 )
 ident(
-  def tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 56 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 114
+  def tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 766 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 824
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 5 65 69 "EsercitazioniOCaml/modulo 5/3/gric.ml" 5 65 73
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 20 775 779 "EsercitazioniOCaml/modulo 5/3/gric.ml" 20 775 783
 type(
   int
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 5 65 77 "EsercitazioniOCaml/modulo 5/3/gric.ml" 5 65 80
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 20 775 787 "EsercitazioniOCaml/modulo 5/3/gric.ml" 20 775 790
 type(
   char list
 )
 ident(
-  int_ref tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 50 "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 53
+  int_ref tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 760 "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 763
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 85 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 86
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 795 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 796
 type(
   int
 )
 ident(
-  def n "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 90 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 114
+  def n "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 800 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 824
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 90 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 93
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 800 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 803
 type(
   char list -> int -> char list
 )
 ident(
-  int_ref aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 46 "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 49
+  int_ref aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 756 "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 759
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 95 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 98
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 805 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 808
 type(
   string
 )
 ident(
-  int_ref str "EsercitazioniOCaml/modulo 5/3/gric.ml" 3 19 31 "EsercitazioniOCaml/modulo 5/3/gric.ml" 3 19 34
+  int_ref str "EsercitazioniOCaml/modulo 5/3/gric.ml" 18 729 741 "EsercitazioniOCaml/modulo 5/3/gric.ml" 18 729 744
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 100 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 101
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 810 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 811
 type(
   int
 )
 ident(
-  int_ref n "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 85 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 86
+  int_ref n "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 795 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 796
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 95 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 102
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 805 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 812
 type(
   char
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 104 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 107
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 814 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 817
 type(
   char list
 )
 ident(
-  int_ref tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 50 "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 53
+  int_ref tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 760 "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 763
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 94 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 108
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 804 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 818
 type(
   char list
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 110 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 111
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 820 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 821
 type(
   int
 )
 ident(
-  int_ref n "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 85 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 86
+  int_ref n "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 795 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 796
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 111 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 112
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 821 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 822
 type(
   int -> int -> int
 )
 ident(
   ext_ref Pervasives.( - )
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 112 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 113
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 822 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 823
 type(
   int
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 109 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 114
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 819 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 824
 type(
   int
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 90 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 114
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 800 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 824
+call(
+  tail
+)
 type(
   char list
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 56 "EsercitazioniOCaml/modulo 5/3/gric.ml" 6 81 114
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 766 "EsercitazioniOCaml/modulo 5/3/gric.ml" 21 791 824
 type(
   int -> char list
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 119 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 122
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 829 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 832
 type(
   char list -> int -> char list
 )
 ident(
-  int_ref aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 46 "EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 49
+  int_ref aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 756 "EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 759
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 123 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 125
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 833 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 835
 type(
   char list
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 128 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 141
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 838 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 851
 type(
   string -> int
 )
 ident(
   ext_ref String.length
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 142 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 145
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 852 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 855
 type(
   string
 )
 ident(
-  int_ref str "EsercitazioniOCaml/modulo 5/3/gric.ml" 3 19 31 "EsercitazioniOCaml/modulo 5/3/gric.ml" 3 19 34
+  int_ref str "EsercitazioniOCaml/modulo 5/3/gric.ml" 18 729 741 "EsercitazioniOCaml/modulo 5/3/gric.ml" 18 729 744
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 127 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 146
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 837 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 856
 type(
   int
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 147 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 148
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 857 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 858
 type(
   int -> int -> int
 )
 ident(
   ext_ref Pervasives.( - )
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 148 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 149
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 858 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 859
 type(
   int
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 126 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 150
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 836 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 860
 type(
   int
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 119 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 150
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 829 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 860
+call(
+  tail
+)
 type(
   char list
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 4 37 38 "EsercitazioniOCaml/modulo 5/3/gric.ml" 7 115 150
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 19 747 748 "EsercitazioniOCaml/modulo 5/3/gric.ml" 22 825 860
 type(
   char list
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 9 153 157 "EsercitazioniOCaml/modulo 5/3/gric.ml" 9 153 164
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 24 863 867 "EsercitazioniOCaml/modulo 5/3/gric.ml" 24 863 874
 type(
   char list -> string
 )
 ident(
-  def implode "EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 278 "EsercitazioniOCaml/modulo 5/3/gric.ml" 1 0 -1
+  def implode "EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 988 "EsercitazioniOCaml/modulo 5/3/gric.ml" 1 0 -1
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 9 153 165 "EsercitazioniOCaml/modulo 5/3/gric.ml" 9 153 168
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 24 863 875 "EsercitazioniOCaml/modulo 5/3/gric.ml" 24 863 878
 type(
   char list
 )
 ident(
-  def lst "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 172 "EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 278
+  def lst "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 882 "EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 988
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 180 "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 183
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 890 "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 893
 type(
   string -> char list -> string
 )
 ident(
-  def aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 172 "EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 278
+  def aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 882 "EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 988
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 184 "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 187
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 894 "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 897
 type(
   string
 )
 ident(
-  def tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 190 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 263
+  def tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 900 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 973
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 11 199 203 "EsercitazioniOCaml/modulo 5/3/gric.ml" 11 199 205
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 26 909 913 "EsercitazioniOCaml/modulo 5/3/gric.ml" 26 909 915
 type(
   char list
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 11 199 209 "EsercitazioniOCaml/modulo 5/3/gric.ml" 11 199 212
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 26 909 919 "EsercitazioniOCaml/modulo 5/3/gric.ml" 26 909 922
 type(
   string
 )
 ident(
-  int_ref tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 184 "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 187
+  int_ref tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 894 "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 897
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 217 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 218
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 927 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 928
 type(
   char
 )
 ident(
-  def x "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 228 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 263
+  def x "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 938 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 973
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 220 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 224
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 930 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 934
 type(
   char list
 )
 ident(
-  def rest "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 228 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 263
+  def rest "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 938 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 973
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 217 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 224
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 927 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 934
 type(
   char list
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 228 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 231
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 938 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 941
 type(
   string -> char list -> string
 )
 ident(
-  int_ref aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 180 "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 183
+  int_ref aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 890 "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 893
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 233 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 236
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 943 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 946
 type(
   string
 )
 ident(
-  int_ref tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 184 "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 187
+  int_ref tmp "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 894 "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 897
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 237 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 238
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 947 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 948
 type(
   string -> string -> string
 )
 ident(
   ext_ref Pervasives.( ^ )
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 240 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 251
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 950 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 961
 type(
   int -> char -> string
 )
 ident(
   ext_ref String.make
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 252 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 253
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 962 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 963
 type(
   int
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 254 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 255
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 964 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 965
 type(
   char
 )
 ident(
-  int_ref x "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 217 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 218
+  int_ref x "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 927 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 928
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 239 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 256
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 949 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 966
+call(
+  stack
+)
 type(
   string
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 232 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 258
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 942 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 968
+call(
+  stack
+)
 type(
   string
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 259 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 263
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 969 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 973
 type(
   char list
 )
 ident(
-  int_ref rest "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 220 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 224
+  int_ref rest "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 930 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 934
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 228 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 263
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 938 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 973
+call(
+  tail
+)
 type(
   string
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 190 "EsercitazioniOCaml/modulo 5/3/gric.ml" 12 213 263
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 900 "EsercitazioniOCaml/modulo 5/3/gric.ml" 27 923 973
 type(
   char list -> string
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 268 "EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 271
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 978 "EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 981
 type(
   string -> char list -> string
 )
 ident(
-  int_ref aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 180 "EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 183
+  int_ref aux "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 890 "EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 893
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 272 "EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 274
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 982 "EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 984
 type(
   string
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 275 "EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 278
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 985 "EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 988
 type(
   char list
 )
 ident(
-  int_ref lst "EsercitazioniOCaml/modulo 5/3/gric.ml" 9 153 165 "EsercitazioniOCaml/modulo 5/3/gric.ml" 9 153 168
+  int_ref lst "EsercitazioniOCaml/modulo 5/3/gric.ml" 24 863 875 "EsercitazioniOCaml/modulo 5/3/gric.ml" 24 863 878
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 268 "EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 278
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 978 "EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 988
+call(
+  tail
+)
 type(
   string
 )
-"EsercitazioniOCaml/modulo 5/3/gric.ml" 10 171 172 "EsercitazioniOCaml/modulo 5/3/gric.ml" 13 264 278
+"EsercitazioniOCaml/modulo 5/3/gric.ml" 25 881 882 "EsercitazioniOCaml/modulo 5/3/gric.ml" 28 974 988
 type(
   string
 )
