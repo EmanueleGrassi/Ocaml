@@ -1,0 +1,71 @@
+"EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 293 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 301
+type(
+  'a -> 'b list -> ('a * 'b) list
+)
+ident(
+  def pairwith "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 350 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 302 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 306
+type(
+  'a
+)
+ident(
+  def elem "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 307 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 350
+)
+"EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 307 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 310
+type(
+  'b list
+)
+ident(
+  def lst "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 313 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 350
+)
+"EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 313 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 321
+type(
+  ('b -> 'a * 'b) -> 'b list -> ('a * 'b) list
+)
+ident(
+  ext_ref List.map
+)
+"EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 332 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 333
+type(
+  'b
+)
+ident(
+  def x "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 337 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 345
+)
+"EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 338 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 342
+type(
+  'a
+)
+ident(
+  int_ref elem "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 302 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 306
+)
+"EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 343 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 344
+type(
+  'b
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 332 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 333
+)
+"EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 337 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 345
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 322 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 346
+type(
+  'b -> 'a * 'b
+)
+"EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 347 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 350
+type(
+  'b list
+)
+ident(
+  int_ref lst "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 307 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 310
+)
+"EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 313 "EsercitazioniOCaml\\modulo 6\\1e\\gric.ml" 8 289 350
+call(
+  tail
+)
+type(
+  ('a * 'b) list
+)

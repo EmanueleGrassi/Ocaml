@@ -1,0 +1,165 @@
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 240 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 247
+type(
+  'a * (('b * 'c) * 'd) list -> 'b -> 'd -> bool
+)
+ident(
+  def in_riga "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 340 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 248 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 257
+type(
+  'a * (('b * 'c) * 'd) list
+)
+ident(
+  def labirinto "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 258 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 340
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 258 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 259
+type(
+  'b
+)
+ident(
+  def n "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 260 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 340
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 260 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 261
+type(
+  'd
+)
+ident(
+  def x "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 266 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 340
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 266 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 277
+type(
+  (('b * 'c) * 'd -> bool) -> (('b * 'c) * 'd) list -> bool
+)
+ident(
+  ext_ref List.exists
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 288 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 289
+type(
+  ('b * 'c) * 'd
+)
+ident(
+  def y "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 293 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 322
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 293 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 296
+type(
+  'b * 'c -> 'b
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 297 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 300
+type(
+  ('b * 'c) * 'd -> 'b * 'c
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 301 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 302
+type(
+  ('b * 'c) * 'd
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 288 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 289
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 296 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 303
+type(
+  'b * 'c
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 293 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 303
+type(
+  'b
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 304 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 305
+type(
+  'b -> 'b -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 306 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 307
+type(
+  'b
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 258 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 259
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 293 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 307
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 308 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 310
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 312 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 315
+type(
+  ('b * 'c) * 'd -> 'd
+)
+ident(
+  ext_ref Pervasives.snd
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 316 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 317
+type(
+  ('b * 'c) * 'd
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 288 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 289
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 311 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 318
+type(
+  'd
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 319 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 320
+type(
+  'd -> 'd -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 321 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 322
+type(
+  'd
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 260 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 261
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 311 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 322
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 293 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 322
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 278 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 324
+type(
+  ('b * 'c) * 'd -> bool
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 326 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 329
+type(
+  'a * (('b * 'c) * 'd) list -> (('b * 'c) * 'd) list
+)
+ident(
+  ext_ref Pervasives.snd
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 330 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 339
+type(
+  'a * (('b * 'c) * 'd) list
+)
+ident(
+  int_ref labirinto "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 248 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 7 236 257
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 325 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 340
+type(
+  (('b * 'c) * 'd) list
+)
+"EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 266 "EsercitazioniOCaml\\modulo 6\\2a\\gric.ml" 8 264 340
+call(
+  tail
+)
+type(
+  bool
+)

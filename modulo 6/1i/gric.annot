@@ -1,0 +1,68 @@
+"EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 129 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 136
+type(
+  int list -> int list
+)
+ident(
+  def duplica "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 171 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 137 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 138
+type(
+  int list
+)
+ident(
+  def l "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 141 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 171
+)
+"EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 141 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 149
+type(
+  (int -> int) -> int list -> int list
+)
+ident(
+  ext_ref List.map
+)
+"EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 160 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 161
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 165 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 168
+)
+"EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 165 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 166
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 160 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 161
+)
+"EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 166 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 167
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 167 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 168
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 165 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 168
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 150 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 169
+type(
+  int -> int
+)
+"EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 170 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 171
+type(
+  int list
+)
+ident(
+  int_ref l "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 137 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 138
+)
+"EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 141 "EsercitazioniOCaml\\modulo 6\\1i\\gric.ml" 5 125 171
+call(
+  tail
+)
+type(
+  int list
+)

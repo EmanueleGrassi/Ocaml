@@ -1,0 +1,28 @@
+"EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 7 284 292 "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 7 284 300
+type(
+  '_a -> '_b -> '_c
+)
+ident(
+  def prodotto "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 7 284 284 "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 7 284 301 "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 7 284 302
+type(
+  '_a
+)
+ident(
+  def n "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 7 284 303 "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 11 356 391
+)
+"EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 7 284 303 "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 7 284 304
+type(
+  '_b
+)
+ident(
+  def m "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 8 307 308 "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 11 356 391
+)
+"EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 8 307 314 "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 8 307 315
+type(
+  '_b
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 7 284 303 "EsercitazioniOCaml\\modulo 7\\2\\gric.ml" 7 284 304
+)
