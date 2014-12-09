@@ -1,4 +1,5 @@
 (* Esercizio 10 *)
+(* NB FARE DUE FILE*)
 
 type 'a tree = Empty | Tr of 'a * 'a tree * 'a tree
 
@@ -16,12 +17,9 @@ let rec crea_lista t1 t2 =
 	| Empty -> []
 	| Tr(x,a,b) -> (match t2 with
 	                | Empty ->  []
-									| Tr(xx,aa,bb) -> if x = xx
-									                  then (crea_lista a aa) @ (crea_lista b bb) 
-																		else (x,xx)::(crea_lista a aa)@(crea_lista b bb))	
+									| Tr(xx,aa,bb) -> (x,xx)::(crea_lista a aa)@(crea_lista b bb))	
 
-let esiste_mapping t1 t2 =
-	if stessa_struttura t1 t2
-	then let lista = crea_lista t1 t2
-	     in List.for_all (function (x,y) -> not(List.exists (function (xx,yy) ->  (x = xx && y <> yy) || (x<>xx && y=yy)) lista) ) lista
-	else false
+let esiste_mapping t1 t2 = stessa_struttura t1 t2 && 
+		 let lista = crea_lista t1 t2
+     in (List.for_all (function (x,y) -> 
+  		not(List.exists (function (xx,yy) ->  (x = xx && y <> yy)) lista) )) lista

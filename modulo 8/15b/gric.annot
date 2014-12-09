@@ -1,0 +1,283 @@
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 102 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 112
+type(
+  ('a * 'b) ntree -> 'a -> 'b
+)
+ident(
+  def abr_search "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 94 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 113 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 117
+type(
+  ('a * 'b) ntree
+)
+ident(
+  def tree "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 118 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 374
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 118 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 119
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 7 123 124 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 374
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 7 123 130 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 7 123 134
+type(
+  ('a * 'b) ntree
+)
+ident(
+  int_ref tree "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 113 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 117
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 8 141 144 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 8 141 149
+type(
+  ('a * 'b) ntree
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 8 141 153 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 8 141 158
+type(
+  exn -> 'b
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 8 141 159 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 8 141 160
+type(
+  exn
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 8 141 153 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 8 141 160
+type(
+  'b
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 169 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 170
+type(
+  'a
+)
+ident(
+  def k "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 190 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 218
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 171 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 172
+type(
+  'b
+)
+ident(
+  def v "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 190 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 218
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 168 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 173
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 174 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 179
+type(
+  ('a * 'b) ntree
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 180 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 185
+type(
+  ('a * 'b) ntree
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 165 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 186
+type(
+  ('a * 'b) ntree
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 193 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 194
+type(
+  'a
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 169 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 170
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 195 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 196
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 197 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 198
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 118 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 119
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 193 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 198
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 204 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 205
+type(
+  'b
+)
+ident(
+  int_ref v "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 171 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 172
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 211 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 216
+type(
+  exn -> 'b
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 217 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 218
+type(
+  exn
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 211 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 218
+type(
+  'b
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 190 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 9 162 218
+type(
+  'b
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 227 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 228
+type(
+  'a
+)
+ident(
+  def k "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 240 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 374
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 229 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 230
+type(
+  'b
+)
+ident(
+  def v "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 240 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 374
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 226 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 231
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 232 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 233
+type(
+  ('a * 'b) ntree
+)
+ident(
+  def a "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 240 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 374
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 234 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 235
+type(
+  ('a * 'b) ntree
+)
+ident(
+  def b "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 240 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 374
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 223 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 236
+type(
+  ('a * 'b) ntree
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 243 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 244
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 118 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 119
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 245 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 246
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 247 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 248
+type(
+  'a
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 227 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 228
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 243 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 248
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 11 251 276 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 11 251 286
+type(
+  ('a * 'b) ntree -> 'a -> 'b
+)
+ident(
+  int_ref abr_search "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 102 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 112
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 11 251 287 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 11 251 288
+type(
+  ('a * 'b) ntree
+)
+ident(
+  int_ref b "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 234 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 235
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 11 251 289 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 11 251 290
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 118 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 119
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 11 251 276 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 11 251 290
+type(
+  'b
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 12 292 311 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 12 292 312
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 118 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 119
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 12 292 313 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 12 292 314
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 12 292 315 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 12 292 316
+type(
+  'a
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 227 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 228
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 12 292 311 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 12 292 316
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 13 318 339 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 13 318 340
+type(
+  'b
+)
+ident(
+  int_ref v "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 229 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 230
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 360 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 370
+type(
+  ('a * 'b) ntree -> 'a -> 'b
+)
+ident(
+  int_ref abr_search "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 102 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 112
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 371 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 372
+type(
+  ('a * 'b) ntree
+)
+ident(
+  int_ref a "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 232 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 233
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 373 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 374
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 118 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 6 94 119
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 360 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 374
+type(
+  'b
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 12 292 308 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 374
+type(
+  'b
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 10 220 240 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 374
+type(
+  'b
+)
+"EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 7 123 124 "EsercitazioniOCaml\\modulo 8\\15b\\gric.ml" 14 342 374
+type(
+  'b
+)
