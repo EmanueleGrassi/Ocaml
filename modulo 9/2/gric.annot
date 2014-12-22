@@ -1,0 +1,58 @@
+"EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 7 223 231 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 7 223 236
+type(
+  '_a list -> '_b
+)
+ident(
+  def mkand "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 7 223 223 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 8 249 252 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 8 249 254
+type(
+  '_a list
+)
+"EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 267 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 268
+type(
+  '_a
+)
+ident(
+  def x "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 281 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 304
+)
+"EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 270 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 271
+type(
+  '_a
+)
+ident(
+  def y "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 281 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 304
+)
+"EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 273 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 277
+type(
+  '_a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 281 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 304
+)
+"EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 270 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 277
+type(
+  '_a list
+)
+"EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 267 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 9 264 277
+type(
+  '_a list
+)
+"EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 10 306 309 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 10 306 310
+type(
+  '_a
+)
+ident(
+  def x "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 10 306 320 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 10 306 321
+)
+"EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 10 306 312 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 10 306 316
+type(
+  '_a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 10 306 320 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 10 306 321
+)
+"EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 10 306 309 "EsercitazioniOCaml\\modulo 9\\2\\gric.ml" 10 306 316
+type(
+  '_a list
+)

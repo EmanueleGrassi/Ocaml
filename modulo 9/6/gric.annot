@@ -1,0 +1,21 @@
+"EsercitazioniOCaml\\modulo 9\\6\\gric.ml" 16 576 580 "EsercitazioniOCaml\\modulo 9\\6\\gric.ml" 16 576 585
+type(
+  '_a -> '_b
+)
+ident(
+  def duale "EsercitazioniOCaml\\modulo 9\\6\\gric.ml" 23 768 780 "EsercitazioniOCaml\\modulo 9\\6\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 9\\6\\gric.ml" 16 576 586 "EsercitazioniOCaml\\modulo 9\\6\\gric.ml" 16 576 587
+type(
+  '_a
+)
+ident(
+  def f "EsercitazioniOCaml\\modulo 9\\6\\gric.ml" 17 591 592 "EsercitazioniOCaml\\modulo 9\\6\\gric.ml" 23 768 780
+)
+"EsercitazioniOCaml\\modulo 9\\6\\gric.ml" 17 591 595 "EsercitazioniOCaml\\modulo 9\\6\\gric.ml" 17 591 598
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)

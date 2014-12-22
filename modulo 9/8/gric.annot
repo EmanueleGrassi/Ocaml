@@ -1,0 +1,21 @@
+"EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 10 421 425 "EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 10 421 440
+type(
+  '_a -> '_b
+)
+ident(
+  def satxand_of_lits "EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 13 518 572 "EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 10 421 441 "EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 10 421 442
+type(
+  '_a
+)
+ident(
+  def f "EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 11 446 447 "EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 13 518 572
+)
+"EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 11 446 451 "EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 11 446 452
+type(
+  '_c
+)
+ident(
+  def l "EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 12 467 472 "EsercitazioniOCaml\\modulo 9\\8\\gric.ml" 13 518 572
+)

@@ -1,0 +1,58 @@
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 8 230 238 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 8 230 242
+type(
+  '_a list -> '_b
+)
+ident(
+  def mkor "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 8 230 230 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 255 258 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 255 260
+type(
+  '_a list
+)
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 274 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 275
+type(
+  '_a
+)
+ident(
+  def x "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 288 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 309
+)
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 277 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 278
+type(
+  '_a
+)
+ident(
+  def y "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 288 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 309
+)
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 280 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 284
+type(
+  '_a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 288 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 309
+)
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 277 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 284
+type(
+  '_a list
+)
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 274 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 284
+type(
+  '_a list
+)
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 314 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 315
+type(
+  '_a
+)
+ident(
+  def x "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 325 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 326
+)
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 317 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 321
+type(
+  '_a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 325 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 326
+)
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 314 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 321
+type(
+  '_a list
+)

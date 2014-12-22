@@ -1,0 +1,7 @@
+"EsercitazioniOCaml\\modulo 9\\5\\gric.ml" 6 171 179 "EsercitazioniOCaml\\modulo 9\\5\\gric.ml" 6 171 187
+type(
+  '_a -> '_b
+)
+ident(
+  def test_nnf "EsercitazioniOCaml\\modulo 9\\5\\gric.ml" 6 171 171 "EsercitazioniOCaml\\modulo 9\\5\\gric.ml" 1 0 -1
+)
