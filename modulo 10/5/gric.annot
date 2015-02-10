@@ -1,0 +1,14 @@
+"EsercitazioniOCaml\\modulo 10\\5\\gric.ml" 11 408 416 "EsercitazioniOCaml\\modulo 10\\5\\gric.ml" 11 408 426
+type(
+  '_a -> '_b -> '_c
+)
+ident(
+  def listaGuida "EsercitazioniOCaml\\modulo 10\\5\\gric.ml" 11 408 408 "EsercitazioniOCaml\\modulo 10\\5\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 10\\5\\gric.ml" 11 408 427 "EsercitazioniOCaml\\modulo 10\\5\\gric.ml" 11 408 428
+type(
+  '_a
+)
+ident(
+  def l "EsercitazioniOCaml\\modulo 10\\5\\gric.ml" 11 408 429 "EsercitazioniOCaml\\modulo 10\\5\\gric.ml" 17 662 730
+)

@@ -1,0 +1,192 @@
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 11 453 457 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 11 453 464
+type(
+  int -> bool
+)
+ident(
+  def isPrime "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 16 588 588 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 11 453 465 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 11 453 466
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 472 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 14 551 568
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 480 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 490
+type(
+  int -> bool
+)
+ident(
+  def noDivisors "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 472 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 14 551 568
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 491 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 492
+type(
+  int
+)
+ident(
+  def m "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 500 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 549
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 500 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 501
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 491 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 492
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 502 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 503
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 504 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 505
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 491 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 492
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 500 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 505
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 506 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 507
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 508 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 509
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 11 453 465 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 11 453 466
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 500 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 509
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 510 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 512
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 514 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 515
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 11 453 465 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 11 453 466
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 516 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 519
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 520 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 521
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 491 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 492
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 514 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 521
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 522 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 524
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( != )
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 525 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 526
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 514 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 526
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 527 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 529
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 530 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 540
+type(
+  int -> bool
+)
+ident(
+  int_ref noDivisors "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 480 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 490
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 542 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 543
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 491 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 492
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 544 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 545
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 546 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 547
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 541 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 548
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 530 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 548
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 513 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 549
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 500 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 13 496 549
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 14 551 556 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 14 551 566
+type(
+  int -> bool
+)
+ident(
+  int_ref noDivisors "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 480 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 490
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 14 551 567 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 14 551 568
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 14 551 556 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 14 551 568
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 12 470 472 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 14 551 568
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 16 588 596 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 16 588 609
+type(
+  '_a -> '_b
+)
+ident(
+  def ramo_di_primi "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 16 588 588 "EsercitazioniOCaml\\modulo 10\\9\\gric.ml" 1 0 -1
+)

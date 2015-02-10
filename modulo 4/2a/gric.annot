@@ -1,140 +1,140 @@
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 8 333 337 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 8 333 341
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 8 333 337 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 8 333 341
 type(
   int -> 'a -> 'a list
 )
 ident(
-  def copy "EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 439 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 1 0 -1
+  def copy "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 439 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 1 0 -1
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 8 333 342 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 8 333 343
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 8 333 342 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 8 333 343
 type(
   int
 )
 ident(
-  def n "EsercitazioniOCaml/modulo 4/2a/gric.ml" 8 333 344 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 439
+  def n "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 8 333 344 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 439
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 8 333 344 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 8 333 348
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 8 333 344 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 8 333 348
 type(
   'a
 )
 ident(
-  def elem "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 353 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 439
+  def elem "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 353 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 439
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 361 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 364
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 361 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 364
 type(
   'a list -> int -> 'a list
 )
 ident(
-  def aux "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 353 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 439
+  def aux "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 353 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 439
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 365 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 368
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 365 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 368
 type(
   'a list
 )
 ident(
-  def lst "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 371 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 425
+  def lst "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 371 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 425
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 10 381 385 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 10 381 386
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 10 381 385 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 10 381 386
 type(
   int
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 10 381 390 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 10 381 393
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 10 381 390 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 10 381 393
 type(
   'a list
 )
 ident(
-  int_ref lst "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 365 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 368
+  int_ref lst "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 365 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 368
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 399 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 400
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 399 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 400
 type(
   int
 )
 ident(
-  def n "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 404 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 425
+  def n "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 404 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 425
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 404 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 407
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 404 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 407
 type(
   'a list -> int -> 'a list
 )
 ident(
-  int_ref aux "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 361 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 364
+  int_ref aux "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 361 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 364
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 409 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 413
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 409 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 413
 type(
   'a
 )
 ident(
-  int_ref elem "EsercitazioniOCaml/modulo 4/2a/gric.ml" 8 333 344 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 8 333 348
+  int_ref elem "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 8 333 344 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 8 333 348
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 415 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 418
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 415 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 418
 type(
   'a list
 )
 ident(
-  int_ref lst "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 365 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 368
+  int_ref lst "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 365 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 368
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 408 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 419
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 408 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 419
 type(
   'a list
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 421 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 422
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 421 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 422
 type(
   int
 )
 ident(
-  int_ref n "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 399 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 400
+  int_ref n "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 399 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 400
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 422 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 423
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 422 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 423
 type(
   int -> int -> int
 )
 ident(
   ext_ref Pervasives.( - )
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 423 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 424
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 423 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 424
 type(
   int
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 420 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 425
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 420 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 425
 type(
   int
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 404 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 425
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 404 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 425
 call(
   tail
 )
 type(
   'a list
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 371 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 11 395 425
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 371 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 11 395 425
 type(
   int -> 'a list
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 431 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 434
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 431 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 434
 type(
   'a list -> int -> 'a list
 )
 ident(
-  int_ref aux "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 361 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 364
+  int_ref aux "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 361 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 364
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 435 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 437
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 435 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 437
 type(
   'a list
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 438 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 439
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 438 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 439
 type(
   int
 )
 ident(
-  int_ref n "EsercitazioniOCaml/modulo 4/2a/gric.ml" 8 333 342 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 8 333 343
+  int_ref n "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 8 333 342 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 8 333 343
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 431 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 439
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 431 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 439
 call(
   tail
 )
 type(
   'a list
 )
-"EsercitazioniOCaml/modulo 4/2a/gric.ml" 9 352 353 "EsercitazioniOCaml/modulo 4/2a/gric.ml" 12 427 439
+"EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 9 352 353 "EsercitazioniOCaml\\modulo 4\\2a\\gric.ml" 12 427 439
 type(
   'a list
 )

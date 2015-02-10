@@ -1,7 +1,7 @@
-(* Esercizio 10 *)
-(* NB FARE DUE FILE*)
-
-type 'a tree = Empty | Tr of 'a * 'a tree * 'a tree
+(* Esercizio 10a *)
+(* stessa_struttura: 'a tree -> 'a tree -> bool *)
+(* questa funzione verifica che due alberi abbiano la stessa struttura *)
+(* ovvero sono identici ad eccezione delle etichette.*)
 
 let rec stessa_struttura t1 t2 = 
 	match t1 with
@@ -11,15 +11,3 @@ let rec stessa_struttura t1 t2 =
 	| Tr(x,a,b) -> (match t2 with
 	                | Empty -> false
 									| Tr(xx,aa,bb) -> stessa_struttura a aa && stessa_struttura b bb)
-
-let rec crea_lista t1 t2 = 
-	match t1 with
-	| Empty -> []
-	| Tr(x,a,b) -> (match t2 with
-	                | Empty ->  []
-									| Tr(xx,aa,bb) -> (x,xx)::(crea_lista a aa)@(crea_lista b bb))	
-
-let esiste_mapping t1 t2 = stessa_struttura t1 t2 && 
-		 let lista = crea_lista t1 t2
-     in (List.for_all (function (x,y) -> 
-  		not(List.exists (function (xx,yy) ->  (x = xx && y <> yy)) lista) )) lista

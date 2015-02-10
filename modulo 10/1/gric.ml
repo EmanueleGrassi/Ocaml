@@ -6,15 +6,6 @@
 (* è una funzione che data una espressione e1, una stringa s, ed un'espressione e2*)
 (* sostituisce ogni occorrenza di Multivar s in e1 con e2 *)
 
-type multi_expr =
-  | MultiInt of int
-  | MultiVar of string
-  | MultiDiff of multi_expr * multi_expr
-  | MultiDiv of multi_expr * multi_expr
-  | MultiSum of multi_expr list
-  | MultiMult of multi_expr list
-
-
 let rec subexpr e1 e2 = 
 	match e1 with
 	| MultiInt _ -> e1 = e2

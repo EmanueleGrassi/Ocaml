@@ -1,0 +1,134 @@
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 873 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 879
+type(
+  'a -> ('b * 'a list) list -> 'b
+)
+ident(
+  def colore "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 865 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 880 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 881
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 884 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1027
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 18 894 897 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 18 894 899
+type(
+  ('b * 'a list) list
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 18 894 903 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 18 894 908
+type(
+  exn -> 'b
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 18 894 909 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 18 894 921
+type(
+  exn
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 18 894 903 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 18 894 921
+type(
+  'b
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 927 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 930
+type(
+  'b
+)
+ident(
+  def col "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 945 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1027
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 931 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 934
+type(
+  'a list
+)
+ident(
+  def lst "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 945 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1027
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 926 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 935
+type(
+  'b * 'a list
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 937 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 941
+type(
+  ('b * 'a list) list
+)
+ident(
+  def rest "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 945 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1027
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 926 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 941
+type(
+  ('b * 'a list) list
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 948 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 956
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 957 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 958
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 880 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 881
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 959 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 962
+type(
+  'a list
+)
+ident(
+  int_ref lst "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 931 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 934
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 948 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 962
+type(
+  bool
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 20 964 992 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 20 964 995
+type(
+  'b
+)
+ident(
+  int_ref col "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 927 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 930
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1014 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1020
+type(
+  'a -> ('b * 'a list) list -> 'b
+)
+ident(
+  int_ref colore "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 873 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 879
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1021 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1022
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 880 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 881
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1023 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1027
+type(
+  ('b * 'a list) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 937 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 941
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1014 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1027
+type(
+  'b
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 19 923 945 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1027
+type(
+  'b
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 17 865 884 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 21 997 1027
+type(
+  ('b * 'a list) list -> 'b
+)
+"EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 23 1043 1047 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 23 1043 1054
+type(
+  '_a -> '_b
+)
+ident(
+  def getinfo "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 26 1108 1108 "EsercitazioniOCaml\\modulo 10\\12\\gric.ml" 1 0 -1
+)

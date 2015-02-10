@@ -1,116 +1,116 @@
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 122 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 127
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 122 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 127
 type(
   int -> int -> int
 )
 ident(
-  def power "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 114 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 1 0 -1
+  def power "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 114 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 1 0 -1
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 128 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 129
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 128 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 129
 type(
   int
 )
 ident(
-  def e "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 130 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 185
+  def e "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 130 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 185
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 130 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 131
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 130 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 131
 type(
   int
 )
 ident(
-  def n "EsercitazioniOCaml/modulo 3/3c/gric.ml" 6 134 135 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 185
+  def n "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 6 134 135 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 185
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 6 134 141 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 6 134 142
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 6 134 141 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 6 134 142
 type(
   int
 )
 ident(
-  int_ref n "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 130 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 131
+  int_ref n "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 130 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 131
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 7 148 149 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 7 148 150
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 7 148 149 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 7 148 150
 type(
   int
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 7 148 153 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 7 148 154
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 7 148 153 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 7 148 154
 type(
   int
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 7 148 149 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 7 148 154
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 7 148 149 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 7 148 154
 type(
   int
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 7 148 158 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 7 148 159
-type(
-  int
-)
-ident(
-  int_ref e "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 128 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 129
-)
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 163 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 164
-type(
-  int
-)
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 168 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 169
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 7 148 158 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 7 148 159
 type(
   int
 )
 ident(
-  int_ref e "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 128 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 129
+  int_ref e "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 128 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 129
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 170 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 171
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 163 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 164
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 168 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 169
+type(
+  int
+)
+ident(
+  int_ref e "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 128 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 129
+)
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 170 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 171
 type(
   int -> int -> int
 )
 ident(
   ext_ref Pervasives.( * )
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 172 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 177
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 172 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 177
 type(
   int -> int -> int
 )
 ident(
-  int_ref power "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 122 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 127
+  int_ref power "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 122 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 127
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 178 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 179
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 178 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 179
 type(
   int
 )
 ident(
-  int_ref e "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 128 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 129
+  int_ref e "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 128 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 129
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 181 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 182
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 181 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 182
 type(
   int
 )
 ident(
-  int_ref n "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 130 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 5 114 131
+  int_ref n "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 130 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 5 114 131
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 182 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 183
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 182 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 183
 type(
   int -> int -> int
 )
 ident(
   ext_ref Pervasives.( - )
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 183 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 184
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 183 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 184
 type(
   int
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 180 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 185
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 180 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 185
 type(
   int
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 172 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 185
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 172 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 185
 call(
   stack
 )
 type(
   int
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 168 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 185
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 168 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 185
 type(
   int
 )
-"EsercitazioniOCaml/modulo 3/3c/gric.ml" 6 134 135 "EsercitazioniOCaml/modulo 3/3c/gric.ml" 8 160 185
+"EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 6 134 135 "EsercitazioniOCaml\\modulo 3\\3c\\gric.ml" 8 160 185
 type(
   int
 )

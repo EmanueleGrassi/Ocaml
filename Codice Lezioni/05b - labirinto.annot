@@ -1,0 +1,2820 @@
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 21 627 631 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 21 627 634
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 640 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 21 627 637 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 21 627 638
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 644 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 654
+type(
+  (int * int) list
+)
+ident(
+  def con_mostro "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 933 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 659 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 660
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 661 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 662
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 658 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 663
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 665 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 666
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 667 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 668
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 664 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 669
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 671 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 672
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 673 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 674
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 670 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 675
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 677 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 678
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 679 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 680
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 676 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 681
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 683 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 684
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 685 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 686
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 682 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 687
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 689 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 690
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 691 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 692
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 688 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 693
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 657 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 22 640 694
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 937 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 949
+type(
+  int -> int * int -> bool
+)
+ident(
+  def in_labirinto "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 35 1225 1225 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 950 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 953
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 954 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 1003
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 955 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 956
+type(
+  int
+)
+ident(
+  def r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 965 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 1003
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 957 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 958
+type(
+  int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 965 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 1003
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 954 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 959
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 965 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 966
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 955 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 956
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 967 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 969
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 970 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 971
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 965 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 971
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 972 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 974
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 975 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 976
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 957 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 958
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 977 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 979
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 980 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 981
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 975 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 981
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 982 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 984
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 985 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 986
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 955 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 956
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 987 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 988
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 989 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 992
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 950 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 953
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 985 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 992
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 995
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 996 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 997
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 957 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 958
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 998 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 999
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 1000 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 1003
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 950 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 953
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 996 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 1003
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 985 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 1003
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 975 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 1003
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 965 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 29 963 1003
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 35 1225 1229 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 35 1225 1240
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  def has_monster "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 47 1702 1702 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 35 1225 1243 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 35 1225 1251
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1729 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1734
+type(
+  int -> (int * int) list -> int * int -> int * int -> (int * int) list
+)
+ident(
+  def path1 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3093 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1735 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1738
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1739 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2455
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1739 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1745
+type(
+  (int * int) list
+)
+ident(
+  def mostri "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1746 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2455
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1746 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1754
+type(
+  int * int
+)
+ident(
+  def ingresso "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1755 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2455
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1755 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1761
+type(
+  int * int
+)
+ident(
+  def uscita "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1814 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2455
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1822 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1830
+type(
+  int * int -> (int * int) list
+)
+ident(
+  def cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1814 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2455
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1833 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1834
+type(
+  int
+)
+ident(
+  def r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1923 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2431
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1835 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1836
+type(
+  int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1923 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2431
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1832 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1837
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1841 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1848
+ident(
+  def casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1923 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2431
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1831 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1849
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1926 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1929
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1931 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1943
+type(
+  int -> int * int -> bool
+)
+ident(
+  int_ref in_labirinto "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 937 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 949
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1944 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1947
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1735 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1738
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1948 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1955
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1831 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1849
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1930 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1956
+call(
+  stack
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1926 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1956
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 54 1958 1967 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 54 1958 1969
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 54 1958 1970 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 54 1958 1978
+type(
+  int * int -> (int * int) list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 54 1958 1979 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 54 1958 1986
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1831 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1849
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 54 1958 1987 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 54 1958 1993
+type(
+  (int * int) list
+)
+ident(
+  int_ref mostri "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1739 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1745
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 54 1958 1970 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 54 1958 1993
+call(
+  stack
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1926 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 54 1958 1993
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 55 1995 2004 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 55 1995 2009
+type(
+  exn -> (int * int) list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 55 1995 2010 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 55 1995 2018
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 55 1995 2004 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 55 1995 2018
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 57 2052 2061 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 57 2052 2068
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1831 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1849
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 57 2052 2069 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 57 2052 2070
+type(
+  int * int -> int * int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 57 2052 2071 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 57 2052 2077
+type(
+  int * int
+)
+ident(
+  int_ref uscita "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1755 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1761
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 57 2052 2061 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 57 2052 2077
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 58 2080 2092 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 58 2080 2099
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1831 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1849
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 58 2080 2091 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 58 2080 2100
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 61 2246 2247 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 61 2246 2254
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1831 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1849
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2322 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2330
+type(
+  int * int -> (int * int) list
+)
+ident(
+  int_ref cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1822 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1830
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2332 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2333
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1833 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1834
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2334 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2335
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1835 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1836
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2335 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2336
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2336 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2337
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2334 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2337
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2331 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2338
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2322 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2338
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 63 2340 2346 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 63 2340 2354
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2366 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2374
+type(
+  int * int -> (int * int) list
+)
+ident(
+  int_ref cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1822 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1830
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2376 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2377
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1833 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1834
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2377 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2378
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2378 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2379
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2376 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2379
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2380 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2381
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1835 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1836
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2381 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2382
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2382 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2383
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2380 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2383
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2375 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2384
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2366 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2384
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 65 2386 2394 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 65 2386 2402
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2413 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2421
+type(
+  int * int -> (int * int) list
+)
+ident(
+  int_ref cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1822 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1830
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2423 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2424
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1833 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1834
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2424 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2425
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2425 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2426
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2423 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2426
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2427 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2428
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1835 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1836
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2428 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2429
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2429 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2430
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2427 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2430
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2422 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2431
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2413 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2431
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 64 2359 2362 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2431
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 62 2317 2318 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2431
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 61 2246 2247 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2431
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 57 2052 2058 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2431
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 53 1919 1923 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 66 2408 2431
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2438 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2446
+type(
+  int * int -> (int * int) list
+)
+ident(
+  int_ref cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1822 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1830
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2447 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2455
+type(
+  int * int
+)
+ident(
+  int_ref ingresso "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1746 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 49 1725 1754
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2438 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2455
+call(
+  tail
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 51 1812 1814 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 67 2433 2455
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3101 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3114
+type(
+  int -> (int * int) list -> (int * int) list
+)
+ident(
+  def filter_vicini "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3093 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3115 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3118
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3121 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3279
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 86 3131 3135 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 86 3131 3137
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 86 3131 3141 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 86 3131 3143
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3149 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3156
+type(
+  int * int
+)
+ident(
+  def casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 88 3167 3173 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3279
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3158 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3162
+type(
+  (int * int) list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 88 3167 3173 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3279
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3149 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3162
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 88 3167 3176 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 88 3167 3188
+type(
+  int -> int * int -> bool
+)
+ident(
+  int_ref in_labirinto "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 937 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 949
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 88 3167 3189 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 88 3167 3192
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3115 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3118
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 88 3167 3193 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 88 3167 3200
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3149 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3156
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 88 3167 3176 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 88 3167 3200
+call(
+  stack
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3213 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3220
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3149 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3156
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3222 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3235
+type(
+  int -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref filter_vicini "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3101 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3114
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3236 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3239
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3115 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3118
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3240 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3244
+type(
+  (int * int) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3158 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3162
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3222 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3244
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3213 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 89 3202 3244
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3257 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3270
+type(
+  int -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref filter_vicini "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3101 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3114
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3271 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3274
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3115 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3118
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3275 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3279
+type(
+  (int * int) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3158 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 87 3145 3162
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3257 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3279
+call(
+  tail
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 88 3167 3173 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3279
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3121 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 90 3246 3279
+type(
+  (int * int) list -> (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3547 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3553
+type(
+  int -> int * int -> (int * int) list
+)
+ident(
+  def vicini "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4752 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3554 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3557
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3558 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 100 3652 3673
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3559 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3560
+type(
+  int
+)
+ident(
+  def r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3569 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 100 3652 3673
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3561 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3562
+type(
+  int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3569 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 100 3652 3673
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3558 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3563
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3572 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3584
+type(
+  int -> int * int -> bool
+)
+ident(
+  int_ref in_labirinto "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 937 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 949
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3585 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3588
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3554 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3557
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3590 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3591
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3559 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3560
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3592 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3593
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3561 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3562
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3589 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3594
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3572 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3594
+call(
+  stack
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3603 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3616
+type(
+  int -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref filter_vicini "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3101 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3114
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3617 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3620
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3554 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3557
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3623 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3624
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3559 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3560
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3625 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3626
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3561 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3562
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3626 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3627
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3627 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3628
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3625 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3628
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3622 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3629
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3631 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3632
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3559 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3560
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3632 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3633
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3633 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3634
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3631 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3634
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3635 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3636
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3561 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3562
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3636 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3637
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3637 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3638
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3635 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3638
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3630 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3639
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3641 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3642
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3559 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3560
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3642 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3643
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3643 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3644
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3641 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3644
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3645 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3646
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3561 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3562
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3646 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3647
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3647 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3648
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3645 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3648
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3640 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3649
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3621 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3650
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3603 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 99 3596 3650
+call(
+  tail
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 100 3652 3659 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 100 3652 3664
+type(
+  exn -> (int * int) list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 100 3652 3665 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 100 3652 3673
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 100 3652 3659 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 100 3652 3673
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 98 3567 3569 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 100 3652 3673
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4760 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4764
+type(
+  int -> bool
+)
+ident(
+  def pari "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4752 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4765 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4766
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4773 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4803
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4773 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4774
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4765 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4766
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4774 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4776
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4776 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4777
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4773 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4777
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4778 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4780
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4782 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4783
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4765 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4766
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4783 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4784
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4784 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4785
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4782 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4785
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4786 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4788
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4789 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4796
+type(
+  int -> bool
+)
+ident(
+  int_ref dispari "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4809 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4816
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4798 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4799
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4765 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4766
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4799 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4800
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4800 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4801
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4797 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4802
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4789 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4802
+call(
+  tail
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4781 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4803
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4773 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 131 4771 4803
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4809 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4816
+type(
+  int -> bool
+)
+ident(
+  def dispari "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4752 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4817 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4818
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4824 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4851
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4824 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4825
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4817 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4818
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4825 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4827
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4827 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4828
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4824 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4828
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4829 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4831
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4833 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4834
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4817 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4818
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4834 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4835
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4835 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4836
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4833 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4836
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4837 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4839
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4840 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4844
+type(
+  int -> bool
+)
+ident(
+  int_ref pari "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4760 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 130 4752 4764
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4846 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4847
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4817 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 132 4805 4818
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4847 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4848
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4848 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4849
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4845 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4850
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4840 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4850
+call(
+  tail
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4832 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4851
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4824 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 133 4822 4851
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4975 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4980
+type(
+  int -> (int * int) list -> int * int -> int * int -> (int * int) list
+)
+ident(
+  def path2 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5974 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4981 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4984
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4985 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5627
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4985 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4991
+type(
+  (int * int) list
+)
+ident(
+  def mostri "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4992 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5627
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4992 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 5000
+type(
+  int * int
+)
+ident(
+  def ingresso "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 5001 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5627
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 5001 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 5007
+type(
+  int * int
+)
+ident(
+  def uscita "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5079 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5627
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5087 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5095
+type(
+  int * int -> (int * int) list
+)
+ident(
+  def cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5079 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5627
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5096 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5103
+type(
+  int * int
+)
+ident(
+  def casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 142 5158 5162 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5332
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 142 5158 5165 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 142 5158 5173
+type(
+  int * int -> (int * int) list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 142 5158 5174 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 142 5158 5181
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5096 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 142 5158 5182 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 142 5158 5188
+type(
+  (int * int) list
+)
+ident(
+  int_ref mostri "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4985 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4991
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 142 5158 5165 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 142 5158 5188
+call(
+  stack
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 143 5190 5199 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 143 5190 5204
+type(
+  exn -> (int * int) list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 143 5190 5205 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 143 5190 5213
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 143 5190 5199 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 143 5190 5213
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 145 5226 5235 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 145 5226 5242
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5096 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 145 5226 5243 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 145 5226 5244
+type(
+  int * int -> int * int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 145 5226 5245 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 145 5226 5251
+type(
+  int * int
+)
+ident(
+  int_ref uscita "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 5001 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 5007
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 145 5226 5235 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 145 5226 5251
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 146 5254 5266 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 146 5254 5273
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5096 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 146 5254 5265 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 146 5254 5274
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5288 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5295
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5096 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5297 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5311
+type(
+  (int * int) list -> (int * int) list
+)
+ident(
+  int_ref cerca_da_lista "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 148 5335 5341 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 148 5335 5355
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5313 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5319
+type(
+  int -> int * int -> (int * int) list
+)
+ident(
+  int_ref vicini "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3547 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 97 3543 3553
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5320 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5323
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4981 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4984
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5324 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5331
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5096 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5312 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5332
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5297 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5332
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5288 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5332
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 145 5226 5232 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5332
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 142 5158 5162 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 147 5277 5332
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 148 5335 5341 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 148 5335 5355
+type(
+  (int * int) list -> (int * int) list
+)
+ident(
+  def cerca_da_lista "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5079 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5627
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 148 5335 5356 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 148 5335 5363
+type(
+  (int * int) list
+)
+ident(
+  def caselle "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 149 5368 5372 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5602
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 149 5368 5378 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 149 5368 5385
+type(
+  (int * int) list
+)
+ident(
+  int_ref caselle "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 148 5335 5356 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 148 5335 5363
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 150 5392 5398 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 150 5392 5400
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 150 5392 5405 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 150 5392 5410
+type(
+  exn -> (int * int) list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 150 5392 5411 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 150 5392 5419
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 150 5392 5405 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 150 5392 5419
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 151 5421 5427 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 151 5421 5428
+type(
+  int * int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 153 5547 5548 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5602
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 151 5421 5430 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 151 5421 5434
+type(
+  (int * int) list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 153 5547 5548 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5602
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 151 5421 5427 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 151 5421 5434
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 153 5547 5552 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 153 5547 5560
+type(
+  int * int -> (int * int) list
+)
+ident(
+  int_ref cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5087 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5095
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 153 5547 5561 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 153 5547 5562
+type(
+  int * int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 151 5421 5427 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 151 5421 5428
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 153 5547 5552 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 153 5547 5562
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5571 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5579
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5583 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5597
+type(
+  (int * int) list -> (int * int) list
+)
+ident(
+  int_ref cerca_da_lista "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 148 5335 5341 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 148 5335 5355
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5598 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5602
+type(
+  (int * int) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 151 5421 5430 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 151 5421 5434
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5583 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5602
+call(
+  tail
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 153 5547 5548 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5602
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 149 5368 5372 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 154 5565 5602
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5610 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5618
+type(
+  int * int -> (int * int) list
+)
+ident(
+  int_ref cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5087 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5095
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5619 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5627
+type(
+  int * int
+)
+ident(
+  int_ref ingresso "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 4992 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 138 4971 5000
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5610 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5627
+call(
+  tail
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 140 5077 5079 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 155 5605 5627
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5978 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5985
+type(
+  int -> int * int -> (int * int) list
+)
+ident(
+  def vicini2 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6227 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5986 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5989
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5990 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 169 6202 6223
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5991 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5992
+type(
+  int
+)
+ident(
+  def r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6001 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 169 6202 6223
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5994
+type(
+  int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6001 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 169 6202 6223
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5990 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5995
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6004 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6016
+type(
+  int -> int * int -> bool
+)
+ident(
+  int_ref in_labirinto "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 937 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 28 933 949
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6017 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6020
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5986 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5989
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6022 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6023
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5991 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5992
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6024 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6025
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5994
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6021 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6026
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6004 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6026
+call(
+  stack
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6035 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6048
+type(
+  int -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref filter_vicini "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3101 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 85 3093 3114
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6049 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6052
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5986 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5989
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6055 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6056
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5991 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5992
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6057 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6058
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5994
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6058 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6059
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6059 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6060
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6057 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6060
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6054 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6061
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6063 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6064
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5991 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5992
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6064 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6065
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6065 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6066
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6063 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6066
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6067 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6068
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5994
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6068 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6069
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6069 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6070
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6067 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6070
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6062 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6071
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6073 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6074
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5991 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5992
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6074 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6075
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6075 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6076
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6073 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6076
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6077 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6078
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5994
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6078 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6079
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6079 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6080
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6077 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6080
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6072 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6081
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6112 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6113
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5991 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5992
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6113 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6114
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6114 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6115
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6112 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6115
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6116 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6117
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5994
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6111 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6118
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6120 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6121
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5991 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5992
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6121 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6122
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6122 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6123
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6120 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6123
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6124 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6125
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5994
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6119 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 167 6099 6126
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6156 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6157
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5991 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5992
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6158 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6159
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5994
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6159 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6160
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6160 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6161
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6158 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6161
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6155 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6162
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6164 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6165
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5991 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5992
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6165 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6166
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6166 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6167
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6164 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6167
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6168 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6169
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5994
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6169 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6170
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6170 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6171
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6168 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6171
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6163 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6172
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6174 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6175
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5991 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5992
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6175 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6176
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6176 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6177
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6174 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6177
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6178 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6179
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5994
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6179 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6180
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6180 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6181
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6178 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6181
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6173 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6182
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6053 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6183
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 166 6028 6035 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 168 6143 6183
+call(
+  tail
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 169 6202 6209 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 169 6202 6214
+type(
+  exn -> (int * int) list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 169 6202 6215 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 169 6202 6223
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 169 6202 6209 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 169 6202 6223
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 165 5999 6001 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 169 6202 6223
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6231 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6236
+type(
+  int -> (int * int) list -> int * int -> int * int -> (int * int) list
+)
+ident(
+  def path3 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6979 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6237 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6240
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6241 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6773
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6241 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6247
+type(
+  (int * int) list
+)
+ident(
+  def mostri "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6248 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6773
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6248 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6256
+type(
+  int * int
+)
+ident(
+  def ingresso "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6257 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6773
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6257 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6263
+type(
+  int * int
+)
+ident(
+  def uscita "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6335 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6773
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6343 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6351
+type(
+  int * int -> (int * int) list
+)
+ident(
+  def cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6335 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6773
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6352 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6359
+type(
+  int * int
+)
+ident(
+  def casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 174 6364 6368 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6539
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 174 6364 6371 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 174 6364 6379
+type(
+  int * int -> (int * int) list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 174 6364 6380 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 174 6364 6387
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6352 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6359
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 174 6364 6388 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 174 6364 6394
+type(
+  (int * int) list
+)
+ident(
+  int_ref mostri "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6241 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6247
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 174 6364 6371 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 174 6364 6394
+call(
+  stack
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 175 6396 6405 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 175 6396 6410
+type(
+  exn -> (int * int) list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 175 6396 6411 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 175 6396 6419
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 175 6396 6405 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 175 6396 6419
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 177 6432 6441 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 177 6432 6448
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6352 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6359
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 177 6432 6449 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 177 6432 6450
+type(
+  int * int -> int * int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 177 6432 6451 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 177 6432 6457
+type(
+  int * int
+)
+ident(
+  int_ref uscita "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6257 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6263
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 177 6432 6441 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 177 6432 6457
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 178 6460 6472 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 178 6460 6479
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6352 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6359
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 178 6460 6471 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 178 6460 6480
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6494 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6501
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6352 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6359
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6503 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6517
+type(
+  (int * int) list -> (int * int) list
+)
+ident(
+  int_ref cerca_da_lista "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 181 6589 6595 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 181 6589 6609
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6519 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6526
+type(
+  int -> int * int -> (int * int) list
+)
+ident(
+  int_ref vicini2 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5978 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5985
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6527 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6530
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6237 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6240
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6531 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6538
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6352 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6359
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6518 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6539
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6503 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6539
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6494 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6539
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 177 6432 6438 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6539
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 174 6364 6368 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 179 6483 6539
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 181 6589 6595 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 181 6589 6609
+type(
+  (int * int) list -> (int * int) list
+)
+ident(
+  def cerca_da_lista "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6335 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6773
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 181 6589 6610 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 181 6589 6617
+type(
+  (int * int) list
+)
+ident(
+  def caselle "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 182 6622 6626 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6748
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 182 6622 6632 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 182 6622 6639
+type(
+  (int * int) list
+)
+ident(
+  int_ref caselle "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 181 6589 6610 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 181 6589 6617
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 183 6646 6652 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 183 6646 6654
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 183 6646 6658 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 183 6646 6663
+type(
+  exn -> (int * int) list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 183 6646 6664 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 183 6646 6672
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 183 6646 6658 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 183 6646 6672
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 184 6674 6680 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 184 6674 6681
+type(
+  int * int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 185 6693 6694 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6748
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 184 6674 6683 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 184 6674 6687
+type(
+  (int * int) list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 185 6693 6694 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6748
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 184 6674 6680 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 184 6674 6687
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 185 6693 6698 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 185 6693 6706
+type(
+  int * int -> (int * int) list
+)
+ident(
+  int_ref cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6343 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6351
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 185 6693 6707 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 185 6693 6708
+type(
+  int * int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 184 6674 6680 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 184 6674 6681
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 185 6693 6698 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 185 6693 6708
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6717 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6725
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6729 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6743
+type(
+  (int * int) list -> (int * int) list
+)
+ident(
+  int_ref cerca_da_lista "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 181 6589 6595 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 181 6589 6609
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6744 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6748
+type(
+  (int * int) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 184 6674 6683 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 184 6674 6687
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6729 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6748
+call(
+  tail
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 185 6693 6694 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6748
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 182 6622 6626 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 186 6711 6748
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6756 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6764
+type(
+  int * int -> (int * int) list
+)
+ident(
+  int_ref cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6343 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6351
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6765 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6773
+type(
+  int * int
+)
+ident(
+  int_ref ingresso "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6248 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 171 6227 6256
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6756 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6773
+call(
+  tail
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 173 6333 6335 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 187 6751 6773
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6983 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6988
+type(
+  int -> (int * int) list -> int * int -> int * int -> (int * int) list
+)
+ident(
+  def path4 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7815 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6989 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6992
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7815
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6999
+type(
+  (int * int) list
+)
+ident(
+  def mostri "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 7000 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7815
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 7000 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 7008
+type(
+  int * int
+)
+ident(
+  def ingresso "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 7009 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7815
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 7009 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 7015
+type(
+  int * int
+)
+ident(
+  def uscita "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7087 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7815
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7095 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7103
+type(
+  int * int -> (int * int) list -> (int * int) list
+)
+ident(
+  def cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7087 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7815
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7104 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7111
+type(
+  int * int
+)
+ident(
+  def casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7112 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7458
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7112 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7119
+type(
+  (int * int) list
+)
+ident(
+  def visited "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 201 7192 7196 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7458
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 201 7192 7199 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 201 7192 7207
+type(
+  int * int -> (int * int) list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 201 7192 7208 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 201 7192 7215
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7104 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7111
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 201 7192 7216 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 201 7192 7222
+type(
+  (int * int) list
+)
+ident(
+  int_ref mostri "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6993 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6999
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 201 7192 7199 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 201 7192 7222
+call(
+  stack
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 202 7224 7231 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 202 7224 7233
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 202 7224 7234 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 202 7224 7242
+type(
+  int * int -> (int * int) list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 202 7224 7243 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 202 7224 7250
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7104 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7111
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 202 7224 7251 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 202 7224 7258
+type(
+  (int * int) list
+)
+ident(
+  int_ref visited "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7112 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7119
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 202 7224 7234 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 202 7224 7258
+call(
+  stack
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 201 7192 7199 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 202 7224 7258
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 203 7288 7297 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 203 7288 7302
+type(
+  exn -> (int * int) list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 203 7288 7303 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 203 7288 7311
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 203 7288 7297 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 203 7288 7311
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 205 7324 7333 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 205 7324 7340
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7104 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7111
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 205 7324 7341 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 205 7324 7342
+type(
+  int * int -> int * int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 205 7324 7343 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 205 7324 7349
+type(
+  int * int
+)
+ident(
+  int_ref uscita "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 7009 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 7015
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 205 7324 7333 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 205 7324 7349
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 206 7352 7364 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 206 7352 7371
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7104 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7111
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 206 7352 7363 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 206 7352 7372
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7385 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7392
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7104 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7111
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7394 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7408
+type(
+  (int * int) list -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref cerca_da_lista "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7515 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7529
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7410 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7417
+type(
+  int -> int * int -> (int * int) list
+)
+ident(
+  int_ref vicini2 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5978 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 164 5974 5985
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7418 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7421
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6989 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 6992
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7422 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7429
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7104 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7111
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7409 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7430
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7441 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7448
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7104 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7111
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7450 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7457
+type(
+  (int * int) list
+)
+ident(
+  int_ref visited "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7112 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7119
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7440 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7458
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7394 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7458
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 207 7374 7385 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7458
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 205 7324 7330 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7458
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 201 7192 7196 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 208 7432 7458
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7515 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7529
+type(
+  (int * int) list -> (int * int) list -> (int * int) list
+)
+ident(
+  def cerca_da_lista "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7087 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7815
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7530 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7537
+type(
+  (int * int) list
+)
+ident(
+  def caselle "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7538 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7738
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7538 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7545
+type(
+  (int * int) list
+)
+ident(
+  def visited "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 211 7573 7577 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7738
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 211 7573 7583 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 211 7573 7590
+type(
+  (int * int) list
+)
+ident(
+  int_ref caselle "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7530 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7537
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 212 7597 7603 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 212 7597 7605
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 212 7597 7609 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 212 7597 7614
+type(
+  exn -> (int * int) list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 212 7597 7615 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 212 7597 7623
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 212 7597 7609 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 212 7597 7623
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 213 7625 7631 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 213 7625 7632
+type(
+  int * int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 214 7644 7645 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7738
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 213 7625 7634 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 213 7625 7638
+type(
+  (int * int) list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 214 7644 7645 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7738
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 213 7625 7631 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 213 7625 7638
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 214 7644 7649 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 214 7644 7657
+type(
+  int * int -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7095 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 214 7644 7658 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 214 7644 7659
+type(
+  int * int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 213 7625 7631 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 213 7625 7632
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 214 7644 7660 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 214 7644 7667
+type(
+  (int * int) list
+)
+ident(
+  int_ref visited "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7538 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7545
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 214 7644 7649 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 214 7644 7667
+call(
+  stack
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7699 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7707
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7711 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7725
+type(
+  (int * int) list -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref cerca_da_lista "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7515 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7529
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7726 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7730
+type(
+  (int * int) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 213 7625 7634 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 213 7625 7638
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7731 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7738
+type(
+  (int * int) list
+)
+ident(
+  int_ref visited "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7538 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 210 7509 7545
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7711 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7738
+call(
+  tail
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 214 7644 7645 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7738
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 211 7573 7577 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 215 7693 7738
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7795 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7803
+type(
+  int * int -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref cerca_da "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7095 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7804 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7812
+type(
+  int * int
+)
+ident(
+  int_ref ingresso "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 7000 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 197 6979 7008
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7813 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7815
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7795 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7815
+call(
+  tail
+)
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 199 7085 7087 "EsercitazioniOCaml\\Codice Lezioni\\05b - labirinto.ml" 217 7790 7815
+type(
+  (int * int) list
+)

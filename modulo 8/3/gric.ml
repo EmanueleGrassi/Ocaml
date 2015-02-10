@@ -1,6 +1,6 @@
 (* Esercizio 3 *)
-
-type 'a tree = Empty | Tr of 'a * 'a tree * 'a tree
+(* foglie_in_lista: 'a list -> 'a tree -> bool *)
+(* foglie_in_lista lst tree verifica che ogni foglia di tree sia contenuta in lst*)
 
 let rec foglie_in_lista lst = function
   	| Empty -> false

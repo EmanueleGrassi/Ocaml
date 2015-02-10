@@ -1,9 +1,14 @@
-(* Esercizio 15a *)
+(* Esercizio 15a*)
+(* abr_check: ('a * 'b) ntree -> bool*)
+(* è una funzione che dato un albero ritorna true se è un albero binario di ricerca*)
+(* ovvero se per ogni nodo dell'albero, la chiavi dell'etichetta è maggiore*)
+(* di quella del figlio sinistro e minore di quello destro*)
+(* Questa funzione utilizza getinfo: ('a * 'b) ntree -> 'a che è una funzione*)
+(* che dato un nodo restituisce la chiave dell'etichetta *)
 
 type 'a ntree = Empty | Tr of 'a * 'a ntree * 'a ntree
 
-let getinfo tree = 
-	match tree with 
+let getinfo = function
 	| Empty -> failwith "bad call"
 	| Tr((k,v),_,_) -> k
 

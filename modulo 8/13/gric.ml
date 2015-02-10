@@ -1,7 +1,12 @@
 (* Esercizio 13 *)
+(* path_coprente: 'a tree -> 'a list -> 'a list*)
+(* è una funzione che dato un albero t ed una lista l restituisce una lista*)
+(* rappresentante un cammino dalla radice ad una foglia qualsiasi, nel quale siano *)
+(* contenuti tutti le etichette presenti in l*)
+(* Questa funzione usa remove_elem, funzione definita in un precedente homework*)
+(* Questa funzione solleva l'eccezione Non_Esiste se tale cammino è inesistente*)
 
-type 'a tree = Empty | Tr of 'a * 'a tree * 'a tree
-exception E
+exception Non_Esiste
 
 let remove_elem x l =
 	let rec aux tmp = function
@@ -13,21 +18,9 @@ let remove_elem x l =
 
 let rec path_coprente tr l =
 	match tr with 
-  	| Empty -> raise E
-  	| Tr(x,Empty,Empty) -> if (l=[] || l=[x]) then [x] else raise E
-  	| Tr(x,a,b) -> if List.mem x l
-  	               then let l2 = remove_elem x l
-									      in (match a with
-  									      | Empty -> x::(path_coprente b l2)
-    								      | Tr(y,Empty,Empty) -> if (l=[] || l=[y]) 
-  												                       then x::(path_coprente a l2) 
-  																							 else x::(path_coprente b l2)
-    											| Tr(y,aa,bb) -> try x::(path_coprente a l2)
-  												                 with E -> x::(path_coprente b l2))
-  								 else (match a with
-									        | Empty -> x::(path_coprente b (remove_elem x l))
-    								      | Tr(y,Empty,Empty) -> if (l=[] || l=[y]) 
-  												                       then x::(path_coprente a (remove_elem y l)) 
-  																							 else x::(path_coprente b l)
-    											| Tr(y,aa,bb) -> try x::(path_coprente a l)
-													                 with E -> x::(path_coprente b l))
+  	| Empty -> raise Non_Esiste
+  	| Tr(x,Empty,Empty) -> if l = [] || l = [x] then [x] else raise Non_Esiste
+		| Tr(x,a,Empty) -> x::(path_coprente a (remove_elem x l))
+		| Tr(x,Empty,b) -> x::(path_coprente b (remove_elem x l))
+  	| Tr(x,a,b) -> try x::(path_coprente a (remove_elem x l))
+		               with Non_Esiste -> x::(path_coprente b (remove_elem x l))

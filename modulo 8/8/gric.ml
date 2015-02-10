@@ -1,12 +1,8 @@
 (* Esercizio 8 *)
-type expr =
-   Jolly
-  | Int of int
-  | Var of string
-  | Sum of expr * expr
-  | Diff of expr * expr
-  | Mult of expr * expr
-  | Div of expr * expr
+(* pattern_matching: expr -> expr -> bool *)
+(* pattern_matching è una funzione che data un'espressione e ed un modello m*)
+(* ritorna true se e ed m hanno la stessa struttura ovvero se è possibile*)
+(* ottenere e da m sostituendo i Jolly con opportune expr *)
 
 let rec pattern_matching e1 e2 =
 	match e1 with

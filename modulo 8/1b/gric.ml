@@ -1,12 +1,6 @@
 (* Esercizio 1b *)
-
-type expr =
-  | Int of int
-  | Var of string
-  | Sum of expr * expr
-  | Diff of expr * expr
-  | Mult of expr * expr
-  | Div of expr * expr
+(* subst_in_expr: expr -> string -> expr -> expr *)
+(* subst_in_expr e1 s e2 sostituisce ogni occorrenza di s in e1 con e2 *)
 
 let rec subst_in_expr e1 s e2 =
 	match e1 with

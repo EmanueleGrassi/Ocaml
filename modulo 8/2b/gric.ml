@@ -1,6 +1,6 @@
-(* Esercizio 2b *)
-
-type 'a tree = Empty | Tr of 'a * 'a tree * 'a tree
+(* Esercizio 2b*)
+(* fulltree : int -> int tree*)
+(* fulltree n riporta un albero completo di altezza n *)
 
 let fulltree k = 
 	let rec aux x = function

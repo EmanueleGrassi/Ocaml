@@ -1,0 +1,91 @@
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 11 253 257 "EsercitazioniOCaml/Codice Lezioni/07.ml" 11 253 263
+type(
+  valore -> int
+)
+ident(
+  def valore "EsercitazioniOCaml/Codice Lezioni/07.ml" 28 634 634 "EsercitazioniOCaml/Codice Lezioni/07.ml" 1 0 -1
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 12 275 280 "EsercitazioniOCaml/Codice Lezioni/07.ml" 12 275 284
+type(
+  valore
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 12 275 288 "EsercitazioniOCaml/Codice Lezioni/07.ml" 12 275 289
+type(
+  int
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 13 290 295 "EsercitazioniOCaml/Codice Lezioni/07.ml" 13 290 298
+type(
+  valore
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 13 290 302 "EsercitazioniOCaml/Codice Lezioni/07.ml" 13 290 303
+type(
+  int
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 14 304 309 "EsercitazioniOCaml/Codice Lezioni/07.ml" 14 304 312
+type(
+  valore
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 14 304 316 "EsercitazioniOCaml/Codice Lezioni/07.ml" 14 304 317
+type(
+  int
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 15 318 323 "EsercitazioniOCaml/Codice Lezioni/07.ml" 15 318 330
+type(
+  valore
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 15 318 334 "EsercitazioniOCaml/Codice Lezioni/07.ml" 15 318 335
+type(
+  int
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 16 336 341 "EsercitazioniOCaml/Codice Lezioni/07.ml" 16 336 347
+type(
+  valore
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 16 336 351 "EsercitazioniOCaml/Codice Lezioni/07.ml" 16 336 352
+type(
+  int
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 17 353 358 "EsercitazioniOCaml/Codice Lezioni/07.ml" 17 353 361
+type(
+  valore
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 17 353 365 "EsercitazioniOCaml/Codice Lezioni/07.ml" 17 353 366
+type(
+  int
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 18 367 372 "EsercitazioniOCaml/Codice Lezioni/07.ml" 18 367 377
+type(
+  valore
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 18 367 381 "EsercitazioniOCaml/Codice Lezioni/07.ml" 18 367 382
+type(
+  int
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 19 383 388 "EsercitazioniOCaml/Codice Lezioni/07.ml" 19 383 393
+type(
+  valore
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 19 383 397 "EsercitazioniOCaml/Codice Lezioni/07.ml" 19 383 398
+type(
+  int
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 20 399 404 "EsercitazioniOCaml/Codice Lezioni/07.ml" 20 399 411
+type(
+  valore
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 20 399 415 "EsercitazioniOCaml/Codice Lezioni/07.ml" 20 399 416
+type(
+  int
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 21 417 422 "EsercitazioniOCaml/Codice Lezioni/07.ml" 21 417 424
+type(
+  valore
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 21 417 428 "EsercitazioniOCaml/Codice Lezioni/07.ml" 21 417 430
+type(
+  int
+)
+"EsercitazioniOCaml/Codice Lezioni/07.ml" 11 253 266 "EsercitazioniOCaml/Codice Lezioni/07.ml" 21 417 430
+type(
+  valore -> int
+)

@@ -1,0 +1,4182 @@
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 633 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 636
+type(
+  'a * 'b -> 'c * 'b -> int
+)
+ident(
+  def cmp "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 21 808 808 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 638 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 639
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 640 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 641
+type(
+  'b
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 643 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 670
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 637 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 642
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 644 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 645
+type(
+  'c
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 646 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 647
+type(
+  'b
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 655 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 670
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 643 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 648
+type(
+  'c * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 655 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 656
+type(
+  int -> int
+)
+ident(
+  ext_ref Pervasives.( ~- )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 658 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 665
+type(
+  'b -> 'b -> int
+)
+ident(
+  ext_ref Pervasives.compare
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 666 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 667
+type(
+  'b
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 640 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 641
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 668 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 669
+type(
+  'b
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 646 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 647
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 657 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 670
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 655 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 16 653 670
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 21 808 812 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 21 808 824
+type(
+  ('a * 'b) list -> ('a * 'b) list
+)
+ident(
+  def pairlistsort "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 856 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 21 808 825 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 21 808 828
+type(
+  ('a * 'b) list
+)
+ident(
+  def lst "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 22 833 835 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 22 833 852
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 22 833 835 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 22 833 844
+type(
+  ('a * 'b -> 'a * 'b -> int) -> ('a * 'b) list -> ('a * 'b) list
+)
+ident(
+  ext_ref List.sort
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 22 833 845 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 22 833 848
+type(
+  'a * 'b -> 'a * 'b -> int
+)
+ident(
+  int_ref cmp "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 633 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 15 629 636
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 22 833 849 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 22 833 852
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref lst "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 21 808 825 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 21 808 828
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 22 833 835 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 22 833 852
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 860 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 865
+type(
+  (int * int) list
+)
+ident(
+  def lista "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1271 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 870 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 871
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 872 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 873
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 869 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 874
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 877 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 878
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 879 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 880
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 876 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 881
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 884 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 885
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 886 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 888
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 883 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 889
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 868 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 24 856 890
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1279 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1282
+type(
+  (int -> int) -> int -> int -> int
+)
+ident(
+  def sum "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1271 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1283 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1284
+type(
+  int -> int
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1285 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1335
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1285 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1286
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1287 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1335
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1287 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1288
+type(
+  int
+)
+ident(
+  def m "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1294 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1335
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1297 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1298
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1285 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1286
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1298 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1299
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1299 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1300
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1287 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1288
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1297 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1300
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1306 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1307
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1316 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1317
+type(
+  int -> int
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1283 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1284
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1318 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1319
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1285 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1286
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1316 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1319
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1320 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1321
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1322 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1325
+type(
+  (int -> int) -> int -> int -> int
+)
+ident(
+  int_ref sum "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1279 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1282
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1326 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1327
+type(
+  int -> int
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1283 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1284
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1329 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1330
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1285 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1286
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1330 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1331
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1331 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1332
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1328 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1333
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1334 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1335
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1287 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1288
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1322 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1335
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1316 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1335
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 37 1292 1294 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 38 1309 1335
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1372 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1378
+type(
+  int -> int
+)
+ident(
+  def square "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 43 1425 1425 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1379 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1380
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1383 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1386
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1383 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1384
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1379 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1380
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1384 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1385
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1385 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1386
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1379 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1380
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1383 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1386
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 43 1425 1429 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 43 1425 1438
+type(
+  int -> int -> int
+)
+ident(
+  def sumsquare "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 48 1594 1594 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 43 1425 1441 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 43 1425 1444
+type(
+  (int -> int) -> int -> int -> int
+)
+ident(
+  int_ref sum "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1279 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 36 1271 1282
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 43 1425 1445 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 43 1425 1451
+type(
+  int -> int
+)
+ident(
+  int_ref square "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1372 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 41 1368 1378
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 43 1425 1441 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 43 1425 1451
+type(
+  int -> int -> int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 48 1594 1602 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 48 1594 1607
+type(
+  ('a * 'b) list -> 'a list
+)
+ident(
+  def primi "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 48 1594 1594 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 49 1620 1624 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 49 1620 1626
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 49 1620 1630 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 49 1620 1632
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1639 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1640
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1653 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1666
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1641 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1642
+type(
+  'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1638 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1643
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1645 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1649
+type(
+  ('a * 'b) list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1653 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1666
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1638 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1649
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1653 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1654
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1639 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1640
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1656 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1661
+type(
+  ('a * 'b) list -> 'a list
+)
+ident(
+  int_ref primi "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 48 1594 1602 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 48 1594 1607
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1662 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1666
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1645 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1649
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1656 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1666
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1653 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1666
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 48 1594 1610 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 50 1634 1666
+type(
+  ('a * 'b) list -> 'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1762 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1777
+type(
+  'a -> 'a list list -> 'a list list
+)
+ident(
+  def intesta_a_tutti "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1754 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1778 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1779
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1782 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1855
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 55 1792 1796 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 55 1792 1798
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 55 1792 1802 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 55 1792 1804
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1810 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1813
+type(
+  'a list
+)
+ident(
+  def lst "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1823 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1855
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1815 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1819
+type(
+  'a list list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1823 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1855
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1810 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1819
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1824 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1825
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1778 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1779
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1827 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1830
+type(
+  'a list
+)
+ident(
+  int_ref lst "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1810 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1813
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1823 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1831
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1833 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1848
+type(
+  'a -> 'a list list -> 'a list list
+)
+ident(
+  int_ref intesta_a_tutti "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1762 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1777
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1849 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1850
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1778 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1779
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1851 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1855
+type(
+  'a list list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1815 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1819
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1833 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1855
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1823 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1855
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 54 1754 1782 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 56 1806 1855
+type(
+  'a list list -> 'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 1987 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 2001
+type(
+  'a list -> 'a list -> 'a list list
+)
+ident(
+  def tutti_in_testa "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 1979 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 2002 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 2005
+type(
+  'a list
+)
+ident(
+  def lst "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 2008 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2080
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 61 2018 2022 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 61 2018 2024
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 61 2018 2028 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 61 2018 2030
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2036 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2037
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2047 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2080
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2039 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2043
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2047 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2080
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2036 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2043
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2048 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2049
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2036 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2037
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2051 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2054
+type(
+  'a list
+)
+ident(
+  int_ref lst "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 2002 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 2005
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2047 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2055
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2057 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2071
+type(
+  'a list -> 'a list -> 'a list list
+)
+ident(
+  int_ref tutti_in_testa "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 1987 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 2001
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2072 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2075
+type(
+  'a list
+)
+ident(
+  int_ref lst "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 2002 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 2005
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2076 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2080
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2039 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2043
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2057 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2080
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2047 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2080
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 60 1979 2008 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 62 2032 2080
+type(
+  'a list -> 'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2221 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2224
+type(
+  ('a -> 'b) -> 'a list -> 'b list
+)
+ident(
+  def map "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2213 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2225 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2226
+type(
+  'a -> 'b
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2229 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2285
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 68 2239 2243 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 68 2239 2245
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 68 2239 2249 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 68 2239 2251
+type(
+  'b list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2257 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2258
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2268 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2285
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2260 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2264
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2268 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2285
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2257 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2264
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2268 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2269
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2225 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2226
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2270 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2271
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2257 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2258
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2268 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2271
+type(
+  'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2275 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2278
+type(
+  ('a -> 'b) -> 'a list -> 'b list
+)
+ident(
+  int_ref map "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2221 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2224
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2279 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2280
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2225 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2226
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2281 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2285
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2260 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2264
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2275 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2285
+type(
+  'b list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2268 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2285
+type(
+  'b list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 67 2213 2229 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 69 2253 2285
+type(
+  'a list -> 'b list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2792 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2796
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  def cons "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 89 2817 2817 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2797 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2798
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2799 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2813
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2799 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2803
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2806 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2813
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2806 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2807
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2797 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2798
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2809 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2813
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2799 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2803
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2806 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2813
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 89 2817 2825 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 89 2817 2830
+type(
+  'a list -> 'a list list
+)
+ident(
+  def inits "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 89 2817 2817 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 90 2843 2847 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 90 2843 2849
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 90 2843 2853 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 90 2843 2855
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2861 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2862
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2872 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2909
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2864 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2868
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2872 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2909
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2861 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2868
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2873 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2874
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2861 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2862
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2872 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2875
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2879 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2887
+type(
+  ('a list -> 'a list) -> 'a list list -> 'a list list
+)
+ident(
+  ext_ref List.map
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2889 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2893
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  int_ref cons "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2792 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2796
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2894 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2895
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2861 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2862
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2888 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2896
+type(
+  'a list -> 'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2898 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2903
+type(
+  'a list -> 'a list list
+)
+ident(
+  int_ref inits "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 89 2817 2825 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 89 2817 2830
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2904 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2908
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2864 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2868
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2897 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2909
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2879 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2909
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2872 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2909
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 89 2817 2833 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 91 2857 2909
+type(
+  'a list -> 'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 100 3192 3196 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 100 3192 3201
+type(
+  (char * segnale list) list
+)
+ident(
+  def morse "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 133 4291 4291 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 101 3205 3209 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 101 3205 3212
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 101 3205 3215 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 101 3205 3220
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 101 3205 3221 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 101 3205 3226
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 101 3205 3214 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 101 3205 3227
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 101 3205 3209 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 101 3205 3227
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3280 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3283
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3286 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3291
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3292 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3297
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3298 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3303
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3304 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3309
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3285 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3310
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3280 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 102 3276 3310
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3317 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3320
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3323 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3328
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3329 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3334
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3335 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3340
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3341 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3346
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3322 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3347
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3317 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 103 3313 3347
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3354 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3357
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3360 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3365
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3366 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3371
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3372 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3377
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3359 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3378
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3354 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 104 3350 3378
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 105 3381 3385 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 105 3381 3388
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 105 3381 3391 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 105 3381 3396
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 105 3381 3390 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 105 3381 3397
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 105 3381 3385 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 105 3381 3397
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3405 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3408
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3411 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3416
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3417 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3422
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3423 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3428
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3429 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3434
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3410 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3435
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3405 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 106 3401 3435
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3442 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3445
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3448 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3453
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3454 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3459
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3460 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3465
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3447 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3466
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3442 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 107 3438 3466
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3473 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3476
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3479 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3484
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3485 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3490
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3491 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3496
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3497 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3502
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3478 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3503
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3473 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 108 3469 3503
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 109 3506 3510 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 109 3506 3513
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 109 3506 3516 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 109 3506 3521
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 109 3506 3522 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 109 3506 3527
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 109 3506 3515 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 109 3506 3528
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 109 3506 3510 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 109 3506 3528
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3535 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3538
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3541 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3546
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3547 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3552
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3553 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3558
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3559 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3564
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3540 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3565
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3535 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 110 3531 3565
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3572 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3575
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3578 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3583
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3584 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3589
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3590 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3595
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3577 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3596
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3572 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 111 3568 3596
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3603 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3606
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3609 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3614
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3615 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3620
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3621 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3626
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3627 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3632
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3608 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3633
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3603 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 112 3599 3633
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 113 3636 3640 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 113 3636 3643
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 113 3636 3646 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 113 3636 3651
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 113 3636 3652 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 113 3636 3657
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 113 3636 3645 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 113 3636 3658
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 113 3636 3640 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 113 3636 3658
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 114 3661 3665 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 114 3661 3668
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 114 3661 3671 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 114 3661 3676
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 114 3661 3677 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 114 3661 3682
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 114 3661 3670 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 114 3661 3683
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 114 3661 3665 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 114 3661 3683
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3690 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3693
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3696 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3701
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3702 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3707
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3708 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3713
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3695 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3714
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3690 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 115 3686 3714
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3721 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3724
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3727 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3732
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3733 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3738
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3739 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3744
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3745 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3750
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3726 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3751
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3721 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 116 3717 3751
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3758 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3761
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3764 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3769
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3770 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3775
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3776 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3781
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3782 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3787
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3763 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3788
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3758 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 117 3754 3788
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3795 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3798
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3801 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3806
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3807 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3812
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3813 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3818
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3800 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3819
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3795 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 118 3791 3819
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3826 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3829
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3832 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3837
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3838 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3843
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3844 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3849
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3831 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3850
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3826 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 119 3822 3850
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 120 3853 3857 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 120 3853 3860
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 120 3853 3863 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 120 3853 3868
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 120 3853 3862 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 120 3853 3869
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 120 3853 3857 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 120 3853 3869
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3876 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3879
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3882 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3887
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3888 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3893
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3894 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3899
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3881 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3900
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3876 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 121 3872 3900
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3907 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3910
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3913 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3918
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3919 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3924
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3925 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3930
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3931 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3936
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3912 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3937
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3907 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 122 3903 3937
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3944 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3947
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3950 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3955
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3956 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3961
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3962 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3967
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3949 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3968
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3944 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 123 3940 3968
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 3975 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 3978
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 3981 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 3986
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 3987 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 3992
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 3993 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 3998
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 3999 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 4004
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 3980 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 4005
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 3975 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 124 3971 4005
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4012 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4015
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4018 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4023
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4024 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4029
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4030 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4035
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4036 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4041
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4017 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4042
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4012 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 125 4008 4042
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4049 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4052
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4055 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4060
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4061 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4066
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4067 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4072
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4073 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4078
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4054 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4079
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4049 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 126 4045 4079
+type(
+  char * segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 101 3205 3207 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 127 4081 4084
+type(
+  (char * segnale list) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 133 4291 4295 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 133 4291 4301
+type(
+  char -> segnale list
+)
+ident(
+  def encode "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 140 4458 4458 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 134 4314 4318 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 134 4314 4321
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 134 4314 4326 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 134 4314 4331
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 134 4314 4325 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 134 4314 4332
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 135 4334 4338 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 135 4334 4339
+type(
+  char
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 136 4345 4351 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 137 4375 4407
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 136 4345 4355 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 136 4345 4365
+type(
+  char -> (char * segnale list) list -> segnale list
+)
+ident(
+  ext_ref List.assoc
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 136 4345 4366 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 136 4345 4367
+type(
+  char
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 135 4334 4338 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 135 4334 4339
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 136 4345 4368 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 136 4345 4373
+type(
+  (char * segnale list) list
+)
+ident(
+  int_ref morse "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 100 3192 3196 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 100 3192 3201
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 136 4345 4355 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 136 4345 4373
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 137 4375 4386 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 137 4375 4395
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 137 4375 4400 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 137 4375 4406
+type(
+  segnale
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 137 4375 4399 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 137 4375 4407
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 136 4345 4351 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 137 4375 4407
+type(
+  segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 133 4291 4304 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 137 4375 4407
+type(
+  char -> segnale list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 140 4458 4463 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 140 4458 4473
+type(
+  char list -> segnale list list
+)
+ident(
+  def encode_msg "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4555 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 140 4458 4474 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 140 4458 4483
+type(
+  char list
+)
+ident(
+  def messaggio "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 141 4488 4490 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 141 4488 4515
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 141 4488 4490 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 141 4488 4498
+type(
+  (char -> segnale list) -> char list -> segnale list list
+)
+ident(
+  ext_ref List.map
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 141 4488 4499 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 141 4488 4505
+type(
+  char -> segnale list
+)
+ident(
+  int_ref encode "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 133 4291 4295 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 133 4291 4301
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 141 4488 4506 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 141 4488 4515
+type(
+  char list
+)
+ident(
+  int_ref messaggio "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 140 4458 4474 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 140 4458 4483
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 141 4488 4490 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 141 4488 4515
+type(
+  segnale list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4559 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4566
+type(
+  string -> char list
+)
+ident(
+  def explode "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4699 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4567 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4568
+type(
+  string
+)
+ident(
+  def s "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4574 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4695
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4582 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4585
+type(
+  int -> char list -> char list
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4574 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4695
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4586 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4587
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4588 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4660
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4588 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4594
+type(
+  char list
+)
+ident(
+  def result "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4602 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4660
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4605 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4606
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4586 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4587
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4607 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4608
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4609 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4610
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4605 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4610
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4616 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4622
+type(
+  char list
+)
+ident(
+  int_ref result "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4588 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4594
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4633 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4636
+type(
+  int -> char list -> char list
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4582 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4585
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4638 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4639
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4586 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4587
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4639 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4640
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4640 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4641
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4637 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4642
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4644 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4645
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4567 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4568
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4647 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4648
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4586 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4587
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4644 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4649
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4653 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4659
+type(
+  char list
+)
+ident(
+  int_ref result "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4588 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4594
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4643 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4660
+type(
+  char list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4633 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4660
+type(
+  char list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 146 4598 4602 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 147 4624 4660
+type(
+  char list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4667 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4670
+type(
+  int -> char list -> char list
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4582 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4585
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4672 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4685
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4686 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4687
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4567 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4568
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4672 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4687
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4688 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4689
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4690 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4691
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4671 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4692
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4693 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4695
+type(
+  char list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4667 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4695
+type(
+  char list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 145 4572 4574 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 148 4665 4695
+type(
+  char list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4703 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4706
+type(
+  segnale list list
+)
+ident(
+  def msg "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4745 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4709 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4719
+type(
+  char list -> segnale list list
+)
+ident(
+  int_ref encode_msg "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 140 4458 4463 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 140 4458 4473
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4721 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4728
+type(
+  string -> char list
+)
+ident(
+  int_ref explode "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4559 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4566
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4729 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4741
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4720 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4742
+type(
+  char list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4709 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 150 4699 4742
+type(
+  segnale list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4749 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4753
+type(
+  segnale list list
+)
+ident(
+  def msg2 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4953 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4756 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4766
+type(
+  char list -> segnale list list
+)
+ident(
+  int_ref encode_msg "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 140 4458 4463 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 140 4458 4473
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4768 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4775
+type(
+  string -> char list
+)
+ident(
+  int_ref explode "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4559 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 144 4555 4566
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4776 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4788
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4767 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4789
+type(
+  char list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4756 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 151 4745 4789
+type(
+  segnale list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4961 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4965
+type(
+  ('a -> 'b) -> 'a list -> unit
+)
+ident(
+  def iter "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4953 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4966 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4967
+type(
+  'a -> 'b
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4970 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5025
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 159 4980 4984 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 159 4980 4986
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 159 4980 4990 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 159 4980 4992
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 4998 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 4999
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5009 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5025
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5001 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5005
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5009 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5025
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 4998 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5005
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5009 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5010
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4966 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4967
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5011 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5012
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 4998 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 4999
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5009 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5012
+type(
+  'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5014 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5018
+type(
+  ('a -> 'b) -> 'a list -> unit
+)
+ident(
+  int_ref iter "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4961 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4965
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5019 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5020
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4966 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4967
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5021 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5025
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5001 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5005
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5014 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5025
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5009 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5025
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 158 4953 4970 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 160 4994 5025
+type(
+  'a list -> unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5160 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5164
+type(
+  ('a -> 'b) -> ('c -> 'a) -> 'c -> 'b
+)
+ident(
+  def @@ "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 172 5436 5436 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5165 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5166
+type(
+  'a -> 'b
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5167 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5179
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5167 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5168
+type(
+  'c -> 'a
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5169 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5179
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5169 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5170
+type(
+  'c
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5173 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5179
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5173 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5174
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5165 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5166
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5175 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5176
+type(
+  'c -> 'a
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5167 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5168
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5177 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5178
+type(
+  'c
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5169 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5170
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5174 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5179
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5173 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5179
+type(
+  'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 172 5436 5444 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 172 5436 5461
+type(
+  int list -> int list
+)
+ident(
+  def maggiori_di_cento "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 172 5436 5436 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 173 5474 5478 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 173 5474 5480
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 173 5474 5484 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 173 5474 5486
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5492 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5493
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5511 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 176 5552 5586
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5495 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5499
+type(
+  int list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5511 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 176 5552 5586
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5492 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5499
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5514 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5515
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5492 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5493
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5515 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5516
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5516 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5519
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5514 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5519
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5525 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5526
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5492 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5493
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5528 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5545
+type(
+  int list -> int list
+)
+ident(
+  int_ref maggiori_di_cento "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 172 5436 5444 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 172 5436 5461
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5546 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5550
+type(
+  int list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5495 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5499
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5528 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5550
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5525 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5550
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 176 5552 5564 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 176 5552 5581
+type(
+  int list -> int list
+)
+ident(
+  int_ref maggiori_di_cento "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 172 5436 5444 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 172 5436 5461
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 176 5552 5582 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 176 5552 5586
+type(
+  int list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5495 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 174 5488 5499
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 176 5552 5564 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 176 5552 5586
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 175 5504 5511 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 176 5552 5586
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 172 5436 5464 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 176 5552 5586
+type(
+  int list -> int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5705 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5711
+type(
+  ('a -> bool) -> 'a list -> 'a list
+)
+ident(
+  def filter "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5697 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5712 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5713
+type(
+  'a -> bool
+)
+ident(
+  def p "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5717 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5821
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 181 5727 5731 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 181 5727 5733
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 181 5727 5737 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 181 5727 5739
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5745 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5746
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5757 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5821
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5748 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5752
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5757 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5821
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5745 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5752
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5760 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5761
+type(
+  'a -> bool
+)
+ident(
+  int_ref p "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5712 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5713
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5762 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5763
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5745 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5746
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5760 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5763
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5769 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5770
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5745 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5746
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5772 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5778
+type(
+  ('a -> bool) -> 'a list -> 'a list
+)
+ident(
+  int_ref filter "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5705 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5711
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5779 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5780
+type(
+  'a -> bool
+)
+ident(
+  int_ref p "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5712 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5713
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5781 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5785
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5748 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5752
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5772 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5785
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5769 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5785
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5808 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5814
+type(
+  ('a -> bool) -> 'a list -> 'a list
+)
+ident(
+  int_ref filter "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5705 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5711
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5815 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5816
+type(
+  'a -> bool
+)
+ident(
+  int_ref p "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5712 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5713
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5817 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5821
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5748 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5752
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5808 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5821
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 182 5741 5757 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5821
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5717 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 183 5787 5821
+type(
+  'a list -> 'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5869 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5880
+type(
+  'a -> 'a -> bool
+)
+ident(
+  def greaterthan "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 5978 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5881 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5882
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5883 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5890
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5883 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5884
+type(
+  'a
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5887 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5890
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5887 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5888
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5883 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5884
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5888 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5889
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5889 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5890
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5881 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5882
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5887 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5890
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 5982 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 5999
+type(
+  int list -> int list
+)
+ident(
+  def maggiori_di_cento "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6184 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 6002 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 6008
+type(
+  (int -> bool) -> int list -> int list
+)
+ident(
+  int_ref filter "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5705 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5711
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 6010 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 6021
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref greaterthan "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5869 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5880
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 6022 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 6025
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 6009 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 6026
+type(
+  int -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 6002 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 190 5978 6026
+type(
+  int list -> int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6188 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6200
+type(
+  int -> int * int -> bool
+)
+ident(
+  def in_labirinto "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6410 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6201 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6204
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6205 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6254
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6206 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6207
+type(
+  int
+)
+ident(
+  def r "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6216 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6254
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6208 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6209
+type(
+  int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6216 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6254
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6205 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6210
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6216 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6217
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6206 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6207
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6218 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6220
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6221 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6222
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6216 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6222
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6223 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6225
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6226 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6227
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6208 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6209
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6228 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6230
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6231 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6232
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6226 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6232
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6233 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6235
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6236 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6237
+type(
+  int
+)
+ident(
+  int_ref r "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6206 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6207
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6238 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6239
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6240 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6243
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6201 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6204
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6236 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6243
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6244 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6246
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6247 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6248
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6208 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6209
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6249 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6250
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6251 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6254
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6201 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6204
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6247 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6254
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6236 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6254
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6226 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6254
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6216 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 196 6214 6254
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6418 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6431
+type(
+  int -> (int * int) list -> (int * int) list
+)
+ident(
+  def filter_vicini "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6410 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6432 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6435
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6438 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6596
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 201 6448 6452 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 201 6448 6454
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 201 6448 6458 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 201 6448 6460
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6466 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6473
+type(
+  int * int
+)
+ident(
+  def casella "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 203 6484 6490 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6596
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6475 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6479
+type(
+  (int * int) list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 203 6484 6490 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6596
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6466 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6479
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 203 6484 6493 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 203 6484 6505
+type(
+  int -> int * int -> bool
+)
+ident(
+  int_ref in_labirinto "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6188 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6200
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 203 6484 6506 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 203 6484 6509
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6432 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6435
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 203 6484 6510 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 203 6484 6517
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6466 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6473
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 203 6484 6493 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 203 6484 6517
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6530 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6537
+type(
+  int * int
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6466 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6473
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6539 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6552
+type(
+  int -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref filter_vicini "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6418 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6431
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6553 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6556
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6432 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6435
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6557 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6561
+type(
+  (int * int) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6475 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6479
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6539 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6561
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6530 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 204 6519 6561
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6574 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6587
+type(
+  int -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref filter_vicini "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6418 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6431
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6588 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6591
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6432 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6435
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6592 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6596
+type(
+  (int * int) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6475 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 202 6462 6479
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6574 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6596
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 203 6484 6490 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6596
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 200 6410 6438 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 205 6563 6596
+type(
+  (int * int) list -> (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6604 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6617
+type(
+  int -> (int * int) list -> (int * int) list
+)
+ident(
+  def filter_vicini "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 208 6651 6651 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6618 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6621
+type(
+  int
+)
+ident(
+  def dim "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6624 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6649
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6624 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6630
+type(
+  (int * int -> bool) -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref filter "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5705 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5711
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6632 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6644
+type(
+  int -> int * int -> bool
+)
+ident(
+  int_ref in_labirinto "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6188 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6200
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6645 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6648
+type(
+  int
+)
+ident(
+  int_ref dim "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6618 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6621
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6631 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6649
+type(
+  int * int -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6624 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 207 6600 6649
+type(
+  (int * int) list -> (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 208 6651 6655 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 208 6651 6668
+type(
+  int -> (int * int) list -> (int * int) list
+)
+ident(
+  def filter_vicini "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 233 7549 7549 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 208 6651 6671 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 208 6651 6677
+type(
+  (int * int -> bool) -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref filter "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5705 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 180 5697 5711
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 208 6651 6678 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 208 6651 6680
+type(
+  ((int * int -> bool) -> (int * int) list -> (int * int) list) ->
+  (int -> int * int -> bool) -> int -> (int * int) list -> (int * int) list
+)
+ident(
+  int_ref @@ "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5160 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5164
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 208 6651 6681 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 208 6651 6693
+type(
+  int -> int * int -> bool
+)
+ident(
+  int_ref in_labirinto "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6188 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 195 6184 6200
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 208 6651 6671 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 208 6651 6693
+type(
+  int -> (int * int) list -> (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 233 7549 7557 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 233 7549 7578
+type(
+  int list -> bool
+)
+ident(
+  def tutti_maggiori_di_100 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 233 7549 7549 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 234 7591 7595 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 234 7591 7597
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 234 7591 7601 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 234 7591 7605
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 235 7627 7631 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 235 7627 7632
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7652 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7699
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 235 7627 7634 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 235 7627 7638
+type(
+  int list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7652 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7699
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 235 7627 7631 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 235 7627 7638
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7652 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7663
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref greaterthan "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5869 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5880
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7664 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7667
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7668 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7669
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 235 7627 7631 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 235 7627 7632
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7652 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7669
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7670 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7672
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7673 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7694
+type(
+  int list -> bool
+)
+ident(
+  int_ref tutti_maggiori_di_100 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 233 7549 7557 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 233 7549 7578
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7695 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7699
+type(
+  int list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 235 7627 7634 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 235 7627 7638
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7673 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7699
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7652 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7699
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 233 7549 7581 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 236 7643 7699
+type(
+  int list -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7786 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7793
+type(
+  ('a -> bool) -> 'a list -> bool
+)
+ident(
+  def for_all "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7778 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7794 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7795
+type(
+  'a -> bool
+)
+ident(
+  def p "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7798 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7859
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 241 7808 7812 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 241 7808 7814
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 241 7808 7818 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 241 7808 7822
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7828 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7829
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7839 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7859
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7831 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7835
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7839 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7859
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7828 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7835
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7839 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7840
+type(
+  'a -> bool
+)
+ident(
+  int_ref p "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7794 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7795
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7841 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7842
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7828 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7829
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7839 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7842
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7843 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7844
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( & )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7845 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7852
+type(
+  ('a -> bool) -> 'a list -> bool
+)
+ident(
+  int_ref for_all "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7786 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7793
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7853 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7854
+type(
+  'a -> bool
+)
+ident(
+  int_ref p "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7794 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7795
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7855 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7859
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7831 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7835
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7845 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7859
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7839 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7859
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7798 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 242 7824 7859
+type(
+  'a list -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7867 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7888
+type(
+  int list -> bool
+)
+ident(
+  def tutti_maggiori_di_100 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8001 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7891 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7898
+type(
+  (int -> bool) -> int list -> bool
+)
+ident(
+  int_ref for_all "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7786 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7793
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7900 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7911
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref greaterthan "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5869 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 186 5865 5880
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7912 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7915
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7899 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7916
+type(
+  int -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7891 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 244 7863 7916
+type(
+  int list -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8009 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8015
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  def nonmem "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8001 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8016 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8017
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8020 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8084
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 249 8030 8034 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 249 8030 8036
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 249 8030 8040 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 249 8030 8044
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8050 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8051
+type(
+  'a
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8061 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8084
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8053 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8057
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8061 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8084
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8050 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8057
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8061 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8062
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8016 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8017
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8063 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8065
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8066 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8067
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8050 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8051
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8061 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8067
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8068 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8070
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8071 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8077
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  int_ref nonmem "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8009 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8015
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8078 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8079
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8016 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8017
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8080 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8084
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8053 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8057
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8071 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8084
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8061 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8084
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 248 8001 8020 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 250 8046 8084
+type(
+  'a list -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8243 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8249
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  def nonmem "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8536 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8250 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8251
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8254 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8270
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8254 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8261
+type(
+  ('a -> bool) -> 'a list -> bool
+)
+ident(
+  int_ref for_all "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7786 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 240 7778 7793
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8263 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8267
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8268 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8269
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8250 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8251
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8262 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8270
+type(
+  'a -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8254 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 255 8239 8270
+type(
+  'a list -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8544 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8552
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  def disjoint "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8536 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8553 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8556
+type(
+  'a list
+)
+ident(
+  def set "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8559 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8652
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 264 8569 8573 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 264 8569 8575
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 264 8569 8579 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 264 8569 8583
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 265 8585 8589 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 265 8585 8590
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8608 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8652
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 265 8585 8592 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 265 8585 8596
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8608 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8652
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 265 8585 8589 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 265 8585 8596
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8608 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8611
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8613 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8621
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8622 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8623
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 265 8585 8589 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 265 8585 8590
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8624 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8627
+type(
+  'a list
+)
+ident(
+  int_ref set "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8553 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8556
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8612 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8628
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8608 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8628
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8632 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8634
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8635 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8643
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  int_ref disjoint "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8544 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8552
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8644 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8647
+type(
+  'a list
+)
+ident(
+  int_ref set "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8553 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8556
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8648 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8652
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 265 8585 8592 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 265 8585 8596
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8635 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8652
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 266 8602 8608 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8652
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 263 8536 8559 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 267 8631 8652
+type(
+  'a list -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 271 8776 8780 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 271 8776 8788
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  def disjoint "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9047 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 271 8776 8789 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 271 8776 8793
+type(
+  'a list
+)
+ident(
+  def set1 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 271 8776 8794 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8865
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 271 8776 8794 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 271 8776 8798
+type(
+  'a list
+)
+ident(
+  def set2 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 272 8802 8804 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8865
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 272 8802 8804 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 272 8802 8816
+type(
+  ('a -> bool) -> 'a list -> bool
+)
+ident(
+  ext_ref List.for_all
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8833 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8834
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8838 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8859
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8838 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8841
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8843 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8851
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8852 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8853
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8833 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8834
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8854 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8858
+type(
+  'a list
+)
+ident(
+  int_ref set1 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 271 8776 8789 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 271 8776 8793
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8842 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8859
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8838 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8859
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8823 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8860
+type(
+  'a -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8861 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8865
+type(
+  'a list
+)
+ident(
+  int_ref set2 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 271 8776 8794 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 271 8776 8798
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 272 8802 8804 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 273 8819 8865
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9051 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9060
+type(
+  ('a -> 'b -> 'c) -> 'b -> 'a -> 'c
+)
+ident(
+  def swap_args "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 280 9115 9115 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9061 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9062
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9063 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9074
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9063 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9064
+type(
+  'b
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9065 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9074
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9065 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9066
+type(
+  'a
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9069 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9074
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9069 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9070
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9061 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9062
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9071 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9072
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9065 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9066
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9073 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9074
+type(
+  'b
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9063 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9064
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9069 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9074
+type(
+  'c
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 280 9115 9119 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 280 9115 9125
+type(
+  '_a list -> '_a -> bool
+)
+ident(
+  def member "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9150 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 280 9115 9128 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 280 9115 9137
+type(
+  ('_a -> '_a list -> bool) -> '_a list -> '_a -> bool
+)
+ident(
+  int_ref swap_args "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9051 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 278 9047 9060
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 280 9115 9138 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 280 9115 9146
+type(
+  '_a -> '_a list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 280 9115 9128 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 280 9115 9146
+type(
+  '_a list -> '_a -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9154 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9162
+type(
+  '_a list -> '_a list -> bool
+)
+ident(
+  def disjoint "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 291 9497 9497 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9163 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9167
+type(
+  '_a list
+)
+ident(
+  def set1 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9168 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9218
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9168 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9172
+type(
+  '_a list
+)
+ident(
+  def set2 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9178 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9218
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9178 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9190
+type(
+  ('_a -> bool) -> '_a list -> bool
+)
+ident(
+  ext_ref List.for_all
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9192 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9195
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9196 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9198
+type(
+  (bool -> bool) -> ('_a -> bool) -> '_a -> bool
+)
+ident(
+  int_ref @@ "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5160 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 165 5156 5164
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9200 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9206
+type(
+  '_a list -> '_a -> bool
+)
+ident(
+  int_ref member "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 280 9115 9119 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 280 9115 9125
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9207 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9211
+type(
+  '_a list
+)
+ident(
+  int_ref set1 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9163 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9167
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9199 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9212
+type(
+  '_a -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9191 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9213
+type(
+  '_a -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9214 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9218
+type(
+  '_a list
+)
+ident(
+  int_ref set2 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9168 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 282 9150 9172
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9178 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 283 9176 9218
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 291 9497 9505 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 291 9497 9515
+type(
+  ('a * 'b) list -> bool
+)
+ident(
+  def functional "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 291 9497 9497 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 292 9528 9532 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 292 9528 9534
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 292 9528 9538 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 292 9528 9542
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9549 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9550
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9570 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9640
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9551 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9552
+type(
+  'b
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9570 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9640
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9548 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9553
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9555 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9559
+type(
+  ('a * 'b) list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9570 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9640
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9548 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9559
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9570 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9582
+type(
+  ('a * 'b -> bool) -> ('a * 'b) list -> bool
+)
+ident(
+  ext_ref List.for_all
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9594 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9595
+type(
+  'a
+)
+ident(
+  def z "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9602 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9613
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9596 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9597
+type(
+  'b
+)
+ident(
+  def w "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9602 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9613
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9593 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9598
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9602 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9603
+type(
+  'a
+)
+ident(
+  int_ref z "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9594 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9595
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9603 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9605
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9605 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9606
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9549 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9550
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9602 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9606
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9607 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9609
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9610 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9611
+type(
+  'b
+)
+ident(
+  int_ref w "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9596 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9597
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9611 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9612
+type(
+  'b -> 'b -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9612 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9613
+type(
+  'b
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9551 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9552
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9610 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9613
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9602 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9613
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9583 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9614
+type(
+  'a * 'b -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9615 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9619
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9555 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9559
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9570 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9619
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9622 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9624
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9625 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9635
+type(
+  ('a * 'b) list -> bool
+)
+ident(
+  int_ref functional "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 291 9497 9505 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 291 9497 9515
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9636 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9640
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9555 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 293 9544 9559
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9625 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9640
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 294 9564 9570 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9640
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 291 9497 9518 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 295 9621 9640
+type(
+  ('a * 'b) list -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9781 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9784
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  def mem "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9773 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9785 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9786
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9789 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9855
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 301 9799 9803 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 301 9799 9805
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 301 9799 9809 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 301 9799 9814
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 302 9816 9820 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 302 9816 9821
+type(
+  'a
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9838 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9855
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 302 9816 9823 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 302 9816 9827
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9838 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9855
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 302 9816 9820 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 302 9816 9827
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9838 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9839
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9785 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9786
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9839 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9840
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9840 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9841
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 302 9816 9820 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 302 9816 9821
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9838 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9841
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9842 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9844
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9845 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9848
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  int_ref mem "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9781 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9784
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9849 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9850
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9785 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9786
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9851 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9855
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 302 9816 9823 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 302 9816 9827
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9845 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9855
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9838 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9855
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 300 9773 9789 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 303 9832 9855
+type(
+  'a list -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9915 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9921
+type(
+  ('a -> bool) -> 'a list -> bool
+)
+ident(
+  def exists "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9907 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9922 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9923
+type(
+  'a -> bool
+)
+ident(
+  def p "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9926 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9988
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 307 9936 9940 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 307 9936 9942
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 307 9936 9946 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 307 9936 9951
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9957 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9958
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9968 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9988
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9960 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9964
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9968 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9988
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9957 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9964
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9968 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9969
+type(
+  'a -> bool
+)
+ident(
+  int_ref p "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9922 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9923
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9970 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9971
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9957 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9958
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9968 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9971
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9972 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9974
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9975 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9981
+type(
+  ('a -> bool) -> 'a list -> bool
+)
+ident(
+  int_ref exists "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9915 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9921
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9982 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9983
+type(
+  'a -> bool
+)
+ident(
+  int_ref p "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9922 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9923
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9984 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9988
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9960 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9964
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9975 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9988
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9968 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9988
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 306 9907 9926 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 308 9953 9988
+type(
+  'a list -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 321 10329 10337 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 321 10329 10345
+type(
+  'a list -> 'a list list
+)
+ident(
+  def powerset "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 321 10329 10329 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 322 10358 10362 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 322 10358 10364
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 322 10358 10369 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 322 10358 10371
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 322 10358 10368 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 322 10358 10372
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10378 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10379
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10389 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10489
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10381 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10385
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10389 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10489
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10378 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10385
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10393 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10406
+type(
+  'a list list
+)
+ident(
+  def powerset_rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10442 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10489
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10409 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10417
+type(
+  'a list -> 'a list list
+)
+ident(
+  int_ref powerset "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 321 10329 10337 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 321 10329 10345
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10418 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10422
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10381 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10385
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10409 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10422
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10442 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10455
+type(
+  'a list list
+)
+ident(
+  int_ref powerset_rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10393 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10406
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10456 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10457
+type(
+  'a list list -> 'a list list -> 'a list list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10458 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10466
+type(
+  ('a list -> 'a list) -> 'a list list -> 'a list list
+)
+ident(
+  ext_ref List.map
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10468 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10472
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  int_ref cons "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2792 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 87 2788 2796
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10473 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10474
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10378 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10379
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10467 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10475
+type(
+  'a list -> 'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10476 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10489
+type(
+  'a list list
+)
+ident(
+  int_ref powerset_rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10393 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10406
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10458 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10489
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10442 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10489
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 323 10374 10389 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10489
+type(
+  'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 321 10329 10348 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 324 10424 10489
+type(
+  'a list -> 'a list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10558 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10566
+type(
+  'a list -> 'b list -> ('a * 'b) list
+)
+ident(
+  def cartprod "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10550 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10567 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10571
+type(
+  'a list
+)
+ident(
+  def set1 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10572 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10696
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10572 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10576
+type(
+  'b list
+)
+ident(
+  def set2 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 328 10581 10583 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10696
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 328 10581 10589 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 328 10581 10593
+type(
+  'a list
+)
+ident(
+  int_ref set1 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10567 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10571
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 329 10600 10604 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 329 10600 10606
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 329 10600 10610 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 329 10600 10612
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 330 10614 10618 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 330 10614 10619
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10638 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10696
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 330 10614 10621 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 330 10614 10625
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10638 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10696
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 330 10614 10618 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 330 10614 10625
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10639 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10647
+type(
+  ('b -> 'a * 'b) -> 'b list -> ('a * 'b) list
+)
+ident(
+  ext_ref List.map
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10658 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10659
+type(
+  'b
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10663 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10668
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10664 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10665
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 330 10614 10618 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 330 10614 10619
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10666 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10667
+type(
+  'b
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10658 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10659
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10663 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10668
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10648 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10669
+type(
+  'b -> 'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10670 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10674
+type(
+  'b list
+)
+ident(
+  int_ref set2 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10572 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10576
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10638 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10675
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10676 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10677
+type(
+  ('a * 'b) list -> ('a * 'b) list -> ('a * 'b) list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10678 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10686
+type(
+  'a list -> 'b list -> ('a * 'b) list
+)
+ident(
+  int_ref cartprod "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10558 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10566
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10687 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10691
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 330 10614 10621 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 330 10614 10625
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10692 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10696
+type(
+  'b list
+)
+ident(
+  int_ref set2 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10572 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 327 10550 10576
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10678 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10696
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10638 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10696
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 328 10581 10583 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 331 10632 10696
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10750 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10758
+type(
+  'a list -> 'b list -> ('a * 'b) list
+)
+ident(
+  def cartprod "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10742 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10759 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10762
+type(
+  'a list
+)
+ident(
+  def set "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10765 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10869
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 334 10775 10779 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 334 10775 10781
+type(
+  'b list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 334 10775 10785 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 334 10775 10787
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 335 10789 10793 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 335 10789 10794
+type(
+  'b
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10813 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10869
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 335 10789 10796 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 335 10789 10800
+type(
+  'b list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10813 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10869
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 335 10789 10793 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 335 10789 10800
+type(
+  'b list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10814 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10822
+type(
+  ('a -> 'a * 'b) -> 'a list -> ('a * 'b) list
+)
+ident(
+  ext_ref List.map
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10833 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10834
+type(
+  'a
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10838 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10843
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10839 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10840
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10833 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10834
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10841 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10842
+type(
+  'b
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 335 10789 10793 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 335 10789 10794
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10838 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10843
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10823 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10844
+type(
+  'a -> 'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10845 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10848
+type(
+  'a list
+)
+ident(
+  int_ref set "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10759 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10762
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10813 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10849
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10850 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10851
+type(
+  ('a * 'b) list -> ('a * 'b) list -> ('a * 'b) list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10852 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10860
+type(
+  'a list -> 'b list -> ('a * 'b) list
+)
+ident(
+  int_ref cartprod "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10750 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10758
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10861 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10864
+type(
+  'a list
+)
+ident(
+  int_ref set "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10759 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10762
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10865 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10869
+type(
+  'b list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 335 10789 10796 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 335 10789 10800
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10852 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10869
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10813 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10869
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 333 10742 10765 "EsercitazioniOCaml\\Codice Lezioni\\06 - ordsupliste.ml" 336 10807 10869
+type(
+  'b list -> ('a * 'b) list
+)

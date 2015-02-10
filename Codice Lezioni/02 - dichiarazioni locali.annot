@@ -1,0 +1,54 @@
+"EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 11 308 312 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 11 308 323
+type(
+  int -> int
+)
+ident(
+  def fact_errore "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 15 378 378 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 11 308 324 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 11 308 325
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 12 329 331 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 13 346 374
+)
+"EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 12 329 334 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 12 329 335
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 11 308 324 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 11 308 325
+)
+"EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 12 329 335 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 12 329 336
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 12 329 336 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 12 329 337
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 12 329 334 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 12 329 337
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 12 329 343 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 12 329 344
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 13 346 353 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 13 346 354
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 11 308 324 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 11 308 325
+)
+"EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 13 346 355 "EsercitazioniOCaml\\Codice Lezioni\\02 - dichiarazioni locali.ml" 13 346 356
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)

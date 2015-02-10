@@ -1,58 +1,58 @@
-"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 8 230 238 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 8 230 242
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 7 228 236 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 7 228 240
 type(
   '_a list -> '_b
 )
 ident(
-  def mkor "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 8 230 230 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 1 0 -1
+  def mkor "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 7 228 228 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 1 0 -1
 )
-"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 255 258 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 255 260
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 8 253 256 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 8 253 258
 type(
   '_a list
 )
-"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 274 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 275
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 272 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 273
 type(
   '_a
 )
 ident(
-  def x "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 288 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 309
+  def x "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 286 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 307
 )
-"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 277 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 278
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 275 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 276
 type(
   '_a
 )
 ident(
-  def y "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 288 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 309
+  def y "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 286 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 307
 )
-"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 280 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 284
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 278 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 282
 type(
   '_a list
 )
 ident(
-  def rest "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 288 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 309
+  def rest "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 286 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 307
 )
-"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 277 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 284
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 275 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 282
 type(
   '_a list
 )
-"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 274 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 271 284
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 272 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 9 269 282
 type(
   '_a list
 )
-"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 314 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 315
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 309 312 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 309 313
 type(
   '_a
 )
 ident(
-  def x "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 325 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 326
+  def x "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 309 323 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 309 324
 )
-"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 317 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 321
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 309 315 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 309 319
 type(
   '_a list
 )
 ident(
-  def rest "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 325 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 326
+  def rest "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 309 323 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 309 324
 )
-"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 314 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 11 311 321
+"EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 309 312 "EsercitazioniOCaml\\modulo 9\\3\\gric.ml" 10 309 319
 type(
   '_a list
 )

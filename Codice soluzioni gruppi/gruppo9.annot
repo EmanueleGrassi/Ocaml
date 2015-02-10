@@ -1,0 +1,2448 @@
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 16 271 279 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 16 271 290
+type(
+  form -> int
+)
+ident(
+  def complessita "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 16 271 271 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 311 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 312
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 316 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 333
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 307 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 312
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 316 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 317
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 318 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 319
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 320 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 331
+type(
+  form -> int
+)
+ident(
+  int_ref complessita "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 16 271 279 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 16 271 290
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 332 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 333
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 311 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 312
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 320 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 333
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 316 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 17 303 333
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 343 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 344
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 405
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 345 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 346
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 405
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 339 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 347
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 353 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 354
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 405
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 355 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 356
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 405
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 350 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 357
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 339 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 357
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 364 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 365
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 405
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 366 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 367
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 405
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 360 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 368
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 339 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 368
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 373
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 374 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 375
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 376 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 387
+type(
+  form -> int
+)
+ident(
+  int_ref complessita "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 16 271 279 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 16 271 290
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 388 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 389
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 343 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 344
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 376 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 389
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 389
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 390 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 391
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 392 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 403
+type(
+  form -> int
+)
+ident(
+  int_ref complessita "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 16 271 279 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 16 271 290
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 404 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 405
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 345 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 346
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 392 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 405
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 18 335 405
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 19 407 411 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 19 407 412
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 19 407 416 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 19 407 417
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 16 271 293 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 19 407 417
+type(
+  form -> int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 24 499 507 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 24 499 512
+type(
+  form list -> form
+)
+ident(
+  def mkand "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 24 499 499 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 25 525 529 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 25 525 531
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 25 525 534 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 25 525 538
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 26 540 545 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 26 540 546
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 26 540 550 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 26 540 551
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 26 540 544 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 26 540 547
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 26 540 550 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 26 540 551
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 26 540 545 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 26 540 546
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 557 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 558
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 568 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 586
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 560 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 564
+type(
+  form list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 568 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 586
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 557 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 564
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 572 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 573
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 557 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 558
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 575 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 580
+type(
+  form list -> form
+)
+ident(
+  int_ref mkand "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 24 499 507 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 24 499 512
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 581 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 585
+type(
+  form list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 560 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 564
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 575 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 585
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 568 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 586
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 24 499 515 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 27 553 586
+type(
+  form list -> form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 32 665 673 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 32 665 677
+type(
+  form list -> form
+)
+ident(
+  def mkor "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 32 665 665 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 33 690 694 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 33 690 696
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 33 690 699 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 33 690 704
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 34 706 711 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 34 706 712
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 34 706 716 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 34 706 717
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 34 706 710 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 34 706 713
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 34 706 716 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 34 706 717
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 34 706 711 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 34 706 712
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 723 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 724
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 734 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 750
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 726 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 730
+type(
+  form list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 734 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 750
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 723 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 730
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 737 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 738
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 723 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 724
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 740 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 744
+type(
+  form list -> form
+)
+ident(
+  int_ref mkor "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 32 665 673 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 32 665 677
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 745 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 749
+type(
+  form list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 726 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 730
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 740 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 749
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 734 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 750
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 32 665 680 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 35 719 750
+type(
+  form list -> form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 40 841 845 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 40 841 858
+type(
+  form -> form
+)
+ident(
+  def complementare "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 51 1101 1101 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 41 871 875 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 41 871 879
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 41 871 886 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 41 871 891
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 41 871 882 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 41 871 891
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 41 871 875 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 41 871 891
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 41 871 895 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 41 871 900
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 42 902 906 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 42 902 911
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 42 902 918 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 42 902 922
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 42 902 914 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 42 902 922
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 42 902 906 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 42 902 922
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 42 902 926 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 42 902 930
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 941 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 942
+type(
+  string
+)
+ident(
+  def p "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 945 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 956
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 936 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 942
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 954 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 955
+type(
+  string
+)
+ident(
+  int_ref p "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 941 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 942
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 948 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 956
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 945 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 43 932 956
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 971 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 972
+type(
+  string
+)
+ident(
+  def p "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 976 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 982
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 965 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 973
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 962 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 973
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 981 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 982
+type(
+  string
+)
+ident(
+  int_ref p "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 971 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 972
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 976 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 44 958 982
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 45 984 988 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 45 984 989
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 45 984 993 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 45 984 1001
+type(
+  string -> form
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 45 984 1002 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 45 984 1017
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 45 984 993 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 45 984 1017
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 40 841 861 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 45 984 1017
+type(
+  form -> form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 51 1101 1109 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 51 1101 1117
+type(
+  form -> bool
+)
+ident(
+  def test_nnf "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 51 1101 1101 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1139 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1140
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1134 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1140
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1152 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1153
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1146 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1154
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1143 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1154
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1134 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1154
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1157 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1161
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1134 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1161
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1164 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1169
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1134 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1169
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1176 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1180
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1172 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1180
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1134 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1180
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1187 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1192
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1183 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1192
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1134 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1192
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1196 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 52 1130 1200
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1211 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1212
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1229 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1252
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1213 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1214
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1229 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1252
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1206 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1215
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1221 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1222
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1229 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1252
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1223 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1224
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1229 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1252
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1218 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1225
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1206 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1225
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1229 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1237
+type(
+  form -> bool
+)
+ident(
+  int_ref test_nnf "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 51 1101 1109 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 51 1101 1117
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1238 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1239
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1211 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1212
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1229 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1239
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1240 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1241
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( & )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1242 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1250
+type(
+  form -> bool
+)
+ident(
+  int_ref test_nnf "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 51 1101 1109 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 51 1101 1117
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1251 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1252
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1213 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1214
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1242 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1252
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1229 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 53 1202 1252
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 54 1254 1258 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 54 1254 1259
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 54 1254 1263 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 54 1254 1268
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 51 1101 1120 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 54 1254 1268
+type(
+  form -> bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1353 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1358
+type(
+  form -> form
+)
+ident(
+  def duale "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1345 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1381 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1382
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1408
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1383 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1384
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1408
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1377 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1385
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1392 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1397
+type(
+  form -> form
+)
+ident(
+  int_ref duale "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1353 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1358
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1398 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1399
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1381 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1382
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1392 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1399
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1400 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1405
+type(
+  form -> form
+)
+ident(
+  int_ref duale "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1353 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1358
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1406 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1407
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1383 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1384
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1400 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1407
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 61 1371 1408
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1419 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1420
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1427 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1447
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1421 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1422
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1427 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1447
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1416 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1423
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1431 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1436
+type(
+  form -> form
+)
+ident(
+  int_ref duale "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1353 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1358
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1437 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1438
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1419 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1420
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1431 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1438
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1439 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1444
+type(
+  form -> form
+)
+ident(
+  int_ref duale "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1353 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1358
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1445 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1446
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1421 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1422
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1439 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1446
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1427 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 62 1410 1447
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 63 1449 1455 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 63 1449 1456
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 64 1516 1517 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1589
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 64 1516 1521 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 64 1516 1534
+type(
+  form -> form
+)
+ident(
+  int_ref complementare "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 40 841 845 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 40 841 858
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 64 1516 1535 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 64 1516 1536
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 63 1449 1455 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 63 1449 1456
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 64 1516 1521 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 64 1516 1536
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1554 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1569
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1545 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1569
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1573 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1581
+type(
+  string -> form
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1582 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1589
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1573 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1589
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 64 1516 1517 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1589
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 60 1345 1361 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 65 1539 1589
+type(
+  form -> form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 71 1740 1744 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 71 1740 1751
+type(
+  form -> bool
+)
+ident(
+  def literal "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 77 1894 1894 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1768 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1772
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1775 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1780
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1768 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1780
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1787 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1791
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1783 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1791
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1768 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1791
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1798 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1803
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1794 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1803
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1768 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1803
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1815 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1816
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1810 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1816
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1768 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1816
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1828 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1829
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1822 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1830
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1819 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1830
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 72 1764 1768 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1830
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1834 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 73 1806 1838
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 74 1840 1844 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 74 1840 1845
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 74 1840 1849 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 74 1840 1854
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 71 1740 1754 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 74 1840 1854
+type(
+  form -> bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 77 1894 1902 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 77 1894 1910
+type(
+  form -> form list
+)
+ident(
+  def and2list "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 77 1894 1894 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1932 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1933
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1940 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1965
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1934 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1935
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1940 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1965
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1928 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1936
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1941 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1949
+type(
+  form -> form list
+)
+ident(
+  int_ref and2list "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 77 1894 1902 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 77 1894 1910
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1950 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1951
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1932 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1933
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1940 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1952
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1952 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1953
+type(
+  form list -> form list -> form list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1954 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1962
+type(
+  form -> form list
+)
+ident(
+  int_ref and2list "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 77 1894 1902 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 77 1894 1910
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1963 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1964
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1934 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1935
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1953 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1965
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1940 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 78 1924 1965
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1971 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1972
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1976 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 80 1999 2025
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1979 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1986
+type(
+  form -> bool
+)
+ident(
+  int_ref literal "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 71 1740 1744 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 71 1740 1751
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1987 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1988
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1971 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1972
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1979 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1988
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1995 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1996
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1971 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1972
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1994 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1997
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 80 1999 2006 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 80 1999 2014
+type(
+  string -> form list
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 80 1999 2015 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 80 1999 2025
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 80 1999 2006 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 80 1999 2025
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 79 1967 1976 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 80 1999 2025
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 77 1894 1913 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 80 1999 2025
+type(
+  form -> form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 85 2120 2124 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 85 2120 2139
+type(
+  form -> bool
+)
+ident(
+  def satxand_of_lits "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 101 2718 2718 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 85 2120 2140 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 85 2120 2141
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 93 2492 2494 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2667
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 93 2492 2502 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 93 2492 2505
+type(
+  form list -> bool
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 93 2492 2494 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2667
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 94 2518 2524 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 94 2518 2526
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 94 2518 2530 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 94 2518 2534
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2542 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2547
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2549 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2550
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2542 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2550
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2558 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2562
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2553 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2563
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2566
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2553 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2566
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2542 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2566
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2571 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 95 2536 2576
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2584 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2585
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2595 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2644
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2587 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2591
+type(
+  form list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2595 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2644
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2584 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2591
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2595 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2598
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2600 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2608
+type(
+  form -> form list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2610 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2623
+type(
+  form -> form
+)
+ident(
+  int_ref complementare "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 40 841 845 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 40 841 858
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2624 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2625
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2584 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2585
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2609 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2626
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2627 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2631
+type(
+  form list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2587 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2591
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2599 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2632
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2595 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2632
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2633 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2635
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2636 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2639
+type(
+  form list -> bool
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 93 2492 2502 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 93 2492 2505
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2640 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2644
+type(
+  form list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2587 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2591
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2636 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2644
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2595 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2644
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 93 2492 2508 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 96 2578 2644
+type(
+  form list -> bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2651 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2654
+type(
+  form list -> bool
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 93 2492 2502 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 93 2492 2505
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2656 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2664
+type(
+  form -> form list
+)
+ident(
+  int_ref and2list "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 77 1894 1902 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 77 1894 1910
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2665 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2666
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 85 2120 2140 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 85 2120 2141
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2655 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2667
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2651 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2667
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 93 2492 2494 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 97 2646 2667
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 106 2885 2889 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 106 2885 2897
+type(
+  string * bool -> form
+)
+ident(
+  def pair2lit "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 111 3006 3006 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2915 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2916
+type(
+  string
+)
+ident(
+  def p "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2926 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2932
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2917 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2921
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2914 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2922
+type(
+  string * bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2931 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2932
+type(
+  string
+)
+ident(
+  int_ref p "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2915 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2916
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2926 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 107 2910 2932
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2939 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2940
+type(
+  string
+)
+ident(
+  def p "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2951 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2962
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2941 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2946
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2938 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2947
+type(
+  string * bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2960 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2961
+type(
+  string
+)
+ident(
+  int_ref p "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2939 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2940
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2954 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2962
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2951 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2962
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 106 2885 2900 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 108 2934 2962
+type(
+  string * bool -> form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 111 3006 3010 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 111 3006 3018
+type(
+  (string * bool) list -> form
+)
+ident(
+  def int2form "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 124 3448 3448 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 111 3006 3019 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 111 3006 3023
+type(
+  (string * bool) list
+)
+ident(
+  def emme "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3029 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3059
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3029 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3034
+type(
+  form list -> form
+)
+ident(
+  int_ref mkand "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 24 499 507 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 24 499 512
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3036 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3044
+type(
+  (string * bool -> form) -> (string * bool) list -> form list
+)
+ident(
+  ext_ref List.map
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3045 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3053
+type(
+  string * bool -> form
+)
+ident(
+  int_ref pair2lit "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 106 2885 2889 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 106 2885 2897
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3054 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3058
+type(
+  (string * bool) list
+)
+ident(
+  int_ref emme "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 111 3006 3019 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 111 3006 3023
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3035 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3059
+type(
+  form list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3029 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 112 3027 3059
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 124 3448 3452 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 124 3448 3459
+type(
+  form -> bool
+)
+ident(
+  def literal "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3664 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3477 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3481
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3488 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3492
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3484 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3492
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3477 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3492
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3495 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3500
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3477 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3500
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3507 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3512
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3503 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3512
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3477 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3512
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3525 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3526
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3520 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3526
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3477 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3526
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3539 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3540
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3533 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3541
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3529 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3541
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 125 3473 3477 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3541
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3545 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 126 3516 3549
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 127 3551 3555 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 127 3551 3556
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 127 3551 3560 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 127 3551 3565
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 124 3448 3462 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 127 3551 3565
+type(
+  form -> bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3672 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3682
+type(
+  form -> bool
+)
+ident(
+  def conjoflits "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3664 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3683 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3684
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 132 3688 3690 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 135 3772 3788
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 132 3688 3690 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 132 3688 3697
+type(
+  form -> bool
+)
+ident(
+  int_ref literal "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 124 3448 3452 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 124 3448 3459
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 132 3688 3698 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 132 3688 3699
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3683 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3684
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 132 3688 3690 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 132 3688 3699
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 132 3688 3700 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 132 3688 3702
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 133 3705 3715 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 133 3705 3716
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3683 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3684
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3733 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3734
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3742 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3770
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3735 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3736
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3742 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3770
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3729 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3737
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3742 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3752
+type(
+  form -> bool
+)
+ident(
+  int_ref conjoflits "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3672 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3682
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3753 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3754
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3733 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3734
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3742 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3754
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3755 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3757
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3758 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3768
+type(
+  form -> bool
+)
+ident(
+  int_ref conjoflits "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3672 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3682
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3769 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3770
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3735 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3736
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3758 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3770
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3742 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 134 3723 3770
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 135 3772 3778 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 135 3772 3779
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 135 3772 3783 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 135 3772 3788
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 133 3705 3709 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 135 3772 3788
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 132 3688 3690 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 135 3772 3788
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 139 3888 3896 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 139 3888 3905
+type(
+  form -> bool
+)
+ident(
+  def check_dnf "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 139 3888 3888 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3925 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3926
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3933 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3959
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3927 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3928
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3933 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3959
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3922 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3929
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3933 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3942
+type(
+  form -> bool
+)
+ident(
+  int_ref check_dnf "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 139 3888 3896 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 139 3888 3905
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3943 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3944
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3925 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3926
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3933 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3944
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3945 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3947
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3948 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3957
+type(
+  form -> bool
+)
+ident(
+  int_ref check_dnf "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 139 3888 3896 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 139 3888 3905
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3958 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3959
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3927 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3928
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3948 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3959
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3933 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 140 3918 3959
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3965 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3966
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3970 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3982
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3970 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3980
+type(
+  form -> bool
+)
+ident(
+  int_ref conjoflits "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3672 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 131 3664 3682
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3981 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3982
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3965 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3966
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3970 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3982
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 139 3888 3908 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 141 3961 3982
+type(
+  form -> bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+type(
+  form -> form
+)
+ident(
+  def fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4468 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4500 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4501
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4508 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4524
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4502 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4503
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4508 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4524
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4496 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4504
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4512 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4515
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4516 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4517
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4500 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4501
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4512 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4517
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4518 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4521
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4522 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4523
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4502 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4503
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4518 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4523
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4508 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 153 4492 4524
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4533 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4534
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4541 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4556
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4535 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4536
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4541 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4556
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4530 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4537
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4544 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4547
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4548 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4549
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4533 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4534
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4544 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4549
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4550 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4553
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4554 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4555
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4535 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4536
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4550 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4555
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4541 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 154 4526 4556
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4566 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4567
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4574 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4590
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4568 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4569
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4574 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4590
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4562 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4570
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4574 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4577
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4585 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4586
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4566 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4567
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4581 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4586
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4587 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4588
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4568 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4569
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4577 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4590
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4574 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 155 4558 4590
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4604 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4605
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4613 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4638
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4606 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4607
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4613 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4638
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4599 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4609
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4596 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4609
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4616 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4619
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4624 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4625
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4604 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4605
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4619 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4626
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4616 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4626
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4627 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4630
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4635 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4636
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4606 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4607
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4630 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4637
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4627 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4637
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4613 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 156 4592 4638
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4651 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4652
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4661 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4687
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4653 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4654
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4661 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4687
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4647 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4656
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4644 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4656
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4665 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4668
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4673 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4674
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4651 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4652
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4668 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4675
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4665 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4675
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4676 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4679
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4684 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4685
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4653 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4654
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4679 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4686
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4676 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4686
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4661 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 157 4640 4687
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4701 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4702
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4710 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4731
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4703 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4704
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4710 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4731
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4696 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4706
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4693 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4706
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4714 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4717
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4718 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4719
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4701 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4702
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4714 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4719
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4720 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4723
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4728 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4729
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4703 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4704
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4723 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4730
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4720 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4730
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4710 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 158 4689 4731
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4745 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4746
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4751 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4756
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4740 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4747
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4737 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4747
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4751 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4754
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4755 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4756
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4745 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4746
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4751 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 159 4733 4756
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 160 4758 4762 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 160 4758 4763
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 160 4758 4767 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 160 4758 4768
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 160 4758 4767 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 160 4758 4768
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 160 4758 4762 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 160 4758 4763
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4482 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 160 4758 4768
+type(
+  form -> form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 164 4800 4808 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 164 4800 4811
+type(
+  form -> form
+)
+ident(
+  def dnf "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 164 4800 4800 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 164 4800 4812 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 164 4800 4813
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4820 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5130
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4828 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4835
+type(
+  form -> form
+)
+ident(
+  def distrib "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4820 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5130
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 167 4894 4904 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 167 4894 4905
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4914 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5052
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 167 4894 4906 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 167 4894 4907
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4914 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5052
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 167 4894 4900 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 167 4894 4908
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4922 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4929
+type(
+  form -> form
+)
+ident(
+  int_ref distrib "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4828 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4835
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4930 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4931
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 167 4894 4904 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 167 4894 4905
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4922 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4931
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4932 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4939
+type(
+  form -> form
+)
+ident(
+  int_ref distrib "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4828 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4835
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4940 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4941
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 167 4894 4906 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 167 4894 4907
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4932 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4941
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4921 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4942
+type(
+  form * form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4957 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4959
+type(
+  form
+)
+ident(
+  def f1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 4993 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5027
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4960 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4962
+type(
+  form
+)
+ident(
+  def g1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 4993 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5027
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4954 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4963
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4964 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4965
+type(
+  form
+)
+ident(
+  def h "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 4993 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5027
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4953 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4966
+type(
+  form * form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4970 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4971
+type(
+  form
+)
+ident(
+  def h "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 4993 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5027
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4975 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4977
+type(
+  form
+)
+ident(
+  def f1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 4993 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5027
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4978 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4980
+type(
+  form
+)
+ident(
+  def g1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 4993 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5027
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4972 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4981
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4969 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4982
+type(
+  form * form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4953 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4982
+type(
+  form * form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 4993 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5000
+type(
+  form -> form
+)
+ident(
+  int_ref distrib "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4828 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4835
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5009 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5010
+type(
+  form
+)
+ident(
+  int_ref h "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4964 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4965
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5011 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5013
+type(
+  form
+)
+ident(
+  int_ref f1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4957 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4959
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5005 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5014
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5020 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5021
+type(
+  form
+)
+ident(
+  int_ref h "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4964 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4965
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5022 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5024
+type(
+  form
+)
+ident(
+  int_ref g1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4960 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 169 4950 4962
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5016 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5025
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5001 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5027
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 4993 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 170 4988 5027
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5033 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5035
+type(
+  form
+)
+ident(
+  def f1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5042 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5051
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5036 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5037
+type(
+  form
+)
+ident(
+  def h "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5042 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5051
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5032 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5038
+type(
+  form * form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5046 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5048
+type(
+  form
+)
+ident(
+  int_ref f1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5033 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5035
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5049 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5050
+type(
+  form
+)
+ident(
+  int_ref h "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5036 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5037
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5042 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5051
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 168 4913 4914 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 171 5029 5052
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5063 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5064
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5071 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5095
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5065 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5066
+type(
+  form
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5071 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5095
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5060 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5067
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5074 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5081
+type(
+  form -> form
+)
+ident(
+  int_ref distrib "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4828 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4835
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5082 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5083
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5063 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5064
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5074 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5083
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5085 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5092
+type(
+  form -> form
+)
+ident(
+  int_ref distrib "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4828 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4835
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5093 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5094
+type(
+  form
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5065 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5066
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5085 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5094
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5071 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 172 5054 5095
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 173 5097 5103 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 173 5097 5104
+type(
+  form
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 173 5097 5108 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 173 5097 5109
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 173 5097 5108 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 173 5097 5109
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 173 5097 5103 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 173 5097 5104
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4839 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 173 5097 5109
+type(
+  form -> form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5116 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5123
+type(
+  form -> form
+)
+ident(
+  int_ref distrib "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4828 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4835
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5124 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5127
+type(
+  form -> form
+)
+ident(
+  int_ref fnn "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4476 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 152 4468 4479
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5128 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5129
+type(
+  form
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 164 4800 4812 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 164 4800 4813
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5123 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5130
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5116 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5130
+type(
+  form
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 165 4818 4820 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo9.ml" 174 5111 5130
+type(
+  form
+)

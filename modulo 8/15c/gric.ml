@@ -1,4 +1,9 @@
 (* Esercizio 15c *)
+(* abr_update: ('a * 'b) ntree -> ('a * 'b) -> 'a ntree *)
+(* Questa funzione dato un albero t ed una coppia (chiave,valore) *)
+(* aggiunge un nodo all'albero etichettato con tale coppia(facendo rimanere*)
+(* l'albero un albero binario di ricerca). Se la chiave è già presente nell'albero*)
+(* allora viene semplicemente aggiornato il suo valore associato *)
 
 type 'a ntree = Empty | Tr of 'a * 'a ntree * 'a ntree
 

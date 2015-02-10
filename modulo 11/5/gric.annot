@@ -1,0 +1,47 @@
+"EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 142 "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 146
+type(
+  'a list * 'b -> bool
+)
+ident(
+  def goal "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 134 "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 147 "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 150
+type(
+  'a list * 'b
+)
+ident(
+  def sit "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 153 "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 167
+)
+"EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 154 "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 157
+type(
+  'a list * 'b -> 'a list
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 158 "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 161
+type(
+  'a list * 'b
+)
+ident(
+  int_ref sit "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 147 "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 150
+)
+"EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 153 "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 162
+type(
+  'a list
+)
+"EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 163 "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 164
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 165 "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 167
+type(
+  'a list
+)
+"EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 153 "EsercitazioniOCaml\\modulo 11\\5\\gric.ml" 7 134 167
+type(
+  bool
+)

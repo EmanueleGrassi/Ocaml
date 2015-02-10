@@ -1,4 +1,8 @@
 (* Esercizio 12 *)
+(* applica: 'a sostituzione -> 'a tree -> 'a tree *)
+(* applica è una funzione che data una sostituzione s ed un albero t*)
+(* restituisce un albero dove i nodi x vengono sostituiti *)
+(* dal valore associato ad x nella sostituzione *)
 
 type 'a tree = Empty | Tr of 'a * 'a tree * 'a tree
 type 'a sostituzione = ('a * 'a tree) list

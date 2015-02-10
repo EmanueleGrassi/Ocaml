@@ -1,21 +1,26 @@
 (* Esercizio 15e *)
+(* abr_delete: ('a * 'b) ntree -> 'a -> ('a * 'b) ntree*)
+(* Questa funzione dato un albero binario di ricerca t ed una chiave a *)
+(* ritorna l'albero da cui è stato rimosso il nodo la cui chiave è a.*)
+(* La rimozione del nodo viene effettuata mantenendo l'albero un albero*)
+(* binario di ricerca.*)
+(* Questa funzione utilizza min: 'a ntree -> 'a che dato un albero ritorna*)
+(* l'etichetta del nodo con chiave minore.*)
+(* Questa funzione utilizza abr_delmin, definita nell'esercizio precedente*)
+(* la funzione min e abr_delete sollevano l'eccezione Albero_Vuoto se *)
+(* gli viene passato come parametro un albero vuoto *)
 
 type 'a ntree = Empty | Tr of 'a * 'a ntree * 'a ntree
-exception E
+exception Albero_Vuoto
 
 let rec min = function
-	| Empty -> failwith "albero vuoto"
+	| Empty -> raise Albero_Vuoto
 	| Tr(x,Empty,_) -> x
 	| Tr(x,a,b) -> min a
 
-let rec abr_delmin = function
-	| Empty -> raise E
-	| Tr((k,v),Empty,_) -> ((k,v),Empty)
-	| Tr(x,a,b) -> (fst (abr_delmin a),Tr(x,snd(abr_delmin a),b))
-
 let rec abr_delete tree x = 
 	match tree with
-	| Empty -> failwith "vuoto?"
+	| Empty -> raise Albero_Vuoto
 	| Tr((k,v),Empty,Empty) as leaf -> if k = x then Empty else leaf
 	| Tr((k,v),a,Empty) -> if k = x then a else abr_delete a x
 	| Tr((k,v),Empty,b) -> if k = x then b else abr_delete b x

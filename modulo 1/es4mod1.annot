@@ -1,184 +1,184 @@
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 281 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 284
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 281 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 284
 type(
   'a * 'b * 'c * 'd -> 'a
 )
 ident(
-  def pi1 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 302 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 1 0 -1
+  def pi1 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 302 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 1 0 -1
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 286 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 287
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 286 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 287
 type(
   'a
 )
 ident(
-  def x "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 297 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 298
+  def x "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 297 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 298
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 288 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 289
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 288 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 289
 type(
   'b
 )
 ident(
-  def y "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 297 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 298
+  def y "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 297 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 298
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 290 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 291
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 290 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 291
 type(
   'c
 )
 ident(
-  def w "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 297 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 298
+  def w "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 297 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 298
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 292 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 293
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 292 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 293
 type(
   'd
 )
 ident(
-  def z "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 297 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 298
+  def z "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 297 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 298
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 285 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 294
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 285 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 294
 type(
   'a * 'b * 'c * 'd
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 297 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 298
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 297 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 298
 type(
   'a
 )
 ident(
-  int_ref x "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 286 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 9 277 287
+  int_ref x "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 286 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 9 277 287
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 306 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 309
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 306 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 309
 type(
   'a * 'b * 'c * 'd -> 'b
 )
 ident(
-  def pi2 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 327 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 1 0 -1
+  def pi2 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 327 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 1 0 -1
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 311 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 312
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 311 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 312
 type(
   'a
 )
 ident(
-  def x "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 322 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 323
+  def x "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 322 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 323
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 313 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 314
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 313 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 314
 type(
   'b
 )
 ident(
-  def y "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 322 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 323
+  def y "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 322 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 323
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 315 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 316
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 315 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 316
 type(
   'c
 )
 ident(
-  def w "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 322 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 323
+  def w "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 322 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 323
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 317 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 318
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 317 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 318
 type(
   'd
 )
 ident(
-  def z "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 322 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 323
+  def z "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 322 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 323
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 310 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 319
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 310 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 319
 type(
   'a * 'b * 'c * 'd
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 322 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 323
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 322 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 323
 type(
   'b
 )
 ident(
-  int_ref y "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 313 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 10 302 314
+  int_ref y "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 313 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 10 302 314
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 331 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 334
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 331 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 334
 type(
   'a * 'b * 'c * 'd -> 'c
 )
 ident(
-  def pi3 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 352 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 1 0 -1
+  def pi3 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 352 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 1 0 -1
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 336 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 337
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 336 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 337
 type(
   'a
 )
 ident(
-  def x "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 347 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 348
+  def x "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 347 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 348
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 338 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 339
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 338 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 339
 type(
   'b
 )
 ident(
-  def y "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 347 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 348
+  def y "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 347 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 348
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 340 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 341
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 340 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 341
 type(
   'c
 )
 ident(
-  def w "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 347 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 348
+  def w "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 347 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 348
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 342 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 343
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 342 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 343
 type(
   'd
 )
 ident(
-  def z "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 347 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 348
+  def z "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 347 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 348
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 335 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 344
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 335 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 344
 type(
   'a * 'b * 'c * 'd
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 347 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 348
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 347 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 348
 type(
   'c
 )
 ident(
-  int_ref w "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 340 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 11 327 341
+  int_ref w "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 340 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 11 327 341
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 356 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 359
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 356 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 359
 type(
   'a * 'b * 'c * 'd -> 'd
 )
 ident(
-  def pi4 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 373 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 1 0 -1
+  def pi4 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 373 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 1 0 -1
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 361 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 362
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 361 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 362
 type(
   'a
 )
 ident(
-  def x "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 372 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 373
+  def x "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 372 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 373
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 363 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 364
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 363 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 364
 type(
   'b
 )
 ident(
-  def y "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 372 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 373
+  def y "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 372 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 373
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 365 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 366
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 365 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 366
 type(
   'c
 )
 ident(
-  def w "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 372 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 373
+  def w "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 372 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 373
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 367 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 368
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 367 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 368
 type(
   'd
 )
 ident(
-  def z "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 372 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 373
+  def z "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 372 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 373
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 360 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 369
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 360 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 369
 type(
   'a * 'b * 'c * 'd
 )
-"EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 372 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 373
+"EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 372 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 373
 type(
   'd
 )
 ident(
-  int_ref z "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 367 "EsercitazioniOCaml/modulo 1/es4mod1.ml" 12 352 368
+  int_ref z "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 367 "EsercitazioniOCaml\\modulo 1\\es4mod1.ml" 12 352 368
 )

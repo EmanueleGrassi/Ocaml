@@ -1,0 +1,28 @@
+"EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 12 599 607 "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 12 599 617
+type(
+  '_a -> '_b -> '_c
+)
+ident(
+  def crea_lista "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 12 599 599 "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 12 599 618 "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 12 599 620
+type(
+  '_a
+)
+ident(
+  def t1 "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 12 599 621 "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 17 725 796
+)
+"EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 12 599 621 "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 12 599 623
+type(
+  '_b
+)
+ident(
+  def t2 "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 13 628 629 "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 17 725 796
+)
+"EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 13 628 635 "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 13 628 637
+type(
+  '_a
+)
+ident(
+  int_ref t1 "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 12 599 618 "EsercitazioniOCaml\\modulo 8\\10b\\gric.ml" 12 599 620
+)

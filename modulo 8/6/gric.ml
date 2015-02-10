@@ -1,6 +1,9 @@
 (* Esercizio 6 *)
-
-type 'a tree = Empty | Tr of 'a * 'a tree * 'a tree
+(* foglia_costo: int tree -> (int * int) *)
+(* questa funzione restituisce una coppia contente l'etichetta della foglia più costosa*)
+(* e il suo costo.*)
+(* Il costo di una foglia è la somma di tutte le etichette dei nodi del cammino che porta*)
+(* dalla radice dell'albero alla foglia(compresa)*)
 
 let foglia_costo t =
 	let rec aux (fst,snd) = function

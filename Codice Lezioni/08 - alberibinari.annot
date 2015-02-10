@@ -1,0 +1,505 @@
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 318 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 322
+type(
+  (string * int) list -> expr -> int
+)
+ident(
+  def eval "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 310 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 323 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 326
+type(
+  (string * int) list
+)
+ident(
+  def env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 329 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 584
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 16 339 347 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 16 339 348
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 16 339 352 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 16 339 353
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 16 339 343 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 16 339 348
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 16 339 352 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 16 339 353
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 16 339 347 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 16 339 348
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 363 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 364
+type(
+  string
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 368 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 384
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 359 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 364
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 368 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 378
+type(
+  string -> (string * int) list -> int
+)
+ident(
+  ext_ref List.assoc
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 379 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 380
+type(
+  string
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 363 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 364
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 381 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 384
+type(
+  (string * int) list
+)
+ident(
+  int_ref env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 323 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 326
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 368 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 17 355 384
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 394 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 396
+type(
+  expr
+)
+ident(
+  def e1 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 404 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 433
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 397 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 399
+type(
+  expr
+)
+ident(
+  def e2 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 404 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 433
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 390 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 400
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 405 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 409
+type(
+  (string * int) list -> expr -> int
+)
+ident(
+  int_ref eval "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 318 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 322
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 410 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 413
+type(
+  (string * int) list
+)
+ident(
+  int_ref env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 323 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 326
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 414 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 416
+type(
+  expr
+)
+ident(
+  int_ref e1 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 394 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 396
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 404 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 417
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 418 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 419
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 421 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 425
+type(
+  (string * int) list -> expr -> int
+)
+ident(
+  int_ref eval "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 318 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 322
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 426 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 429
+type(
+  (string * int) list
+)
+ident(
+  int_ref env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 323 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 326
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 430 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 432
+type(
+  expr
+)
+ident(
+  int_ref e2 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 397 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 399
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 420 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 433
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 404 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 18 386 433
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 444 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 446
+type(
+  expr
+)
+ident(
+  def e1 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 454 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 483
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 447 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 449
+type(
+  expr
+)
+ident(
+  def e2 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 454 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 483
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 439 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 450
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 455 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 459
+type(
+  (string * int) list -> expr -> int
+)
+ident(
+  int_ref eval "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 318 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 322
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 460 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 463
+type(
+  (string * int) list
+)
+ident(
+  int_ref env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 323 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 326
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 464 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 466
+type(
+  expr
+)
+ident(
+  int_ref e1 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 444 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 446
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 454 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 467
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 468 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 469
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 471 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 475
+type(
+  (string * int) list -> expr -> int
+)
+ident(
+  int_ref eval "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 318 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 322
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 476 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 479
+type(
+  (string * int) list
+)
+ident(
+  int_ref env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 323 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 326
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 480 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 482
+type(
+  expr
+)
+ident(
+  int_ref e2 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 447 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 449
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 470 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 483
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 454 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 19 435 483
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 496 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 498
+type(
+  expr
+)
+ident(
+  def e1 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 506 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 535
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 499 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 501
+type(
+  expr
+)
+ident(
+  def e2 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 506 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 535
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 491 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 502
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 507 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 511
+type(
+  (string * int) list -> expr -> int
+)
+ident(
+  int_ref eval "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 318 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 322
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 512 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 515
+type(
+  (string * int) list
+)
+ident(
+  int_ref env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 323 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 326
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 516 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 518
+type(
+  expr
+)
+ident(
+  int_ref e1 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 496 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 498
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 506 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 519
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 520 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 521
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 523 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 527
+type(
+  (string * int) list -> expr -> int
+)
+ident(
+  int_ref eval "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 318 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 322
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 528 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 531
+type(
+  (string * int) list
+)
+ident(
+  int_ref env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 323 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 326
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 532 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 534
+type(
+  expr
+)
+ident(
+  int_ref e2 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 499 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 501
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 522 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 535
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 506 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 20 487 535
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 545 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 547
+type(
+  expr
+)
+ident(
+  def e1 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 555 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 584
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 548 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 550
+type(
+  expr
+)
+ident(
+  def e2 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 555 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 584
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 541 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 551
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 556 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 560
+type(
+  (string * int) list -> expr -> int
+)
+ident(
+  int_ref eval "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 318 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 322
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 561 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 564
+type(
+  (string * int) list
+)
+ident(
+  int_ref env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 323 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 326
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 565 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 567
+type(
+  expr
+)
+ident(
+  int_ref e1 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 545 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 547
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 555 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 568
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 569 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 570
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 572 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 576
+type(
+  (string * int) list -> expr -> int
+)
+ident(
+  int_ref eval "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 318 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 322
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 577 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 580
+type(
+  (string * int) list
+)
+ident(
+  int_ref env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 323 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 326
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 581 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 583
+type(
+  expr
+)
+ident(
+  int_ref e2 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 548 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 550
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 571 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 584
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 555 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 584
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 15 310 329 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 21 537 584
+type(
+  expr -> int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 25 637 641 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 25 637 642
+type(
+  'a list
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 26 665 665 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 25 637 645 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 25 637 647
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 26 665 669 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 26 665 670
+type(
+  int list
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 736 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 26 665 674 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 26 665 676
+type(
+  int list
+)
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 740 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 753
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  def existing_link "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 845 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 754 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 758
+type(
+  'a
+)
+ident(
+  def link "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 759 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 30 766 785
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 759 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 762
+type(
+  'a list
+)
+ident(
+  def env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 30 766 768 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 30 766 785
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 30 766 768 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 30 766 776
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 30 766 777 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 30 766 781
+type(
+  'a
+)
+ident(
+  int_ref link "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 754 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 758
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 30 766 782 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 30 766 785
+type(
+  'a list
+)
+ident(
+  int_ref env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 759 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 29 736 762
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 30 766 768 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 30 766 785
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 849 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 862
+type(
+  string * int -> ambiente -> bool
+)
+ident(
+  def existing_link "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 37 946 946 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 863 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 867
+type(
+  string * int
+)
+ident(
+  def link "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 868 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 34 887 906
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 869 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 872
+type(
+  ambiente
+)
+ident(
+  def env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 34 887 889 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 34 887 906
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 34 887 889 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 34 887 897
+type(
+  string * int -> ambiente -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 34 887 898 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 34 887 902
+type(
+  string * int
+)
+ident(
+  int_ref link "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 863 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 867
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 34 887 903 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 34 887 906
+type(
+  ambiente
+)
+ident(
+  int_ref env "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 869 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 33 845 872
+)
+"EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 34 887 889 "EsercitazioniOCaml\\Codice Lezioni\\08 - alberibinari.ml" 34 887 906
+type(
+  bool
+)

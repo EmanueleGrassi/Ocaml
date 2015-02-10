@@ -1,6 +1,12 @@
 (* Esercizio 2d *)
+(* preorder, postorder, inorder: 'a tree -> 'a list*)
+(* queste funzioni dato un albero restituiscono una lista in cui*)
+(* sono presenti tutte le etichette dei nodi ordinate secondo il particolare*)
+(* tipo di visita*)
+(* preordine: nodo-sinistra-destra*)
+(* postordine: sinistra-destra-nodo*)
+(* inordine: sinistra-nodo-destra *)
 
-type 'a tree = Empty | Tr of 'a * 'a tree * 'a tree
 
 let rec preorder = function
 	| Empty -> []

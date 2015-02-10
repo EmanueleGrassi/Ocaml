@@ -3,7 +3,7 @@
 (* è una funzione che data una congiunzione di atomi verifica che per ogni*)
 (* atomo all'interno della congiunzione non ci sia il suo complementare.*)
 (* Se la congiunzione di atomi non è valida allora viene lanciata l'eccezione*)
-(* No_congiunzione.*)
+(* No_congiunzione(che viene lanciata da and2list).*)
 (* Questa funzione utilizza le funzioni and2list e complementare, definite negli esercizi precedenti*)
 
 

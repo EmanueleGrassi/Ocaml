@@ -1,0 +1,3814 @@
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 284 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 291
+type(
+  expr -> expr -> bool
+)
+ident(
+  def subexpr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 276 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 292 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 294
+type(
+  expr
+)
+ident(
+  def e1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 295 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 19 419 433
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 295 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 297
+type(
+  expr
+)
+ident(
+  def e2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 303 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 19 419 433
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 303 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 305
+type(
+  expr
+)
+ident(
+  int_ref e1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 292 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 294
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 305 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 306
+type(
+  expr -> expr -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 306 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 308
+type(
+  expr
+)
+ident(
+  int_ref e2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 295 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 297
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 303 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 308
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 309 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 311
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 16 313 321 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 16 313 323
+type(
+  expr
+)
+ident(
+  int_ref e1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 292 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 294
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 338 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 339
+type(
+  expr
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 417
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 340 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 341
+type(
+  expr
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 417
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 334 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 342
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 350 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 351
+type(
+  expr
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 417
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 352 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 353
+type(
+  expr
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 417
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 345 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 354
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 334 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 354
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 362 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 363
+type(
+  expr
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 417
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 364 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 365
+type(
+  expr
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 417
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 357 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 366
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 334 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 366
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 373 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 374
+type(
+  expr
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 417
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 375 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 376
+type(
+  expr
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 417
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 369 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 377
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 334 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 377
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 396
+type(
+  expr -> expr -> bool
+)
+ident(
+  int_ref subexpr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 284 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 291
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 397 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 398
+type(
+  expr
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 338 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 339
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 399 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 401
+type(
+  expr
+)
+ident(
+  int_ref e2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 295 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 297
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 401
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 402 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 404
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 405 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 412
+type(
+  expr -> expr -> bool
+)
+ident(
+  int_ref subexpr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 284 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 291
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 413 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 414
+type(
+  expr
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 340 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 17 330 341
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 415 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 417
+type(
+  expr
+)
+ident(
+  int_ref e2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 295 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 14 276 297
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 405 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 417
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 18 383 417
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 19 419 423 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 19 419 424
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 19 419 428 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 19 419 433
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 16 313 315 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 19 419 433
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 15 301 303 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 19 419 433
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 549 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 562
+type(
+  expr -> string -> expr -> expr
+)
+ident(
+  def subst_in_expr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 541 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 563 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 564
+type(
+  expr
+)
+ident(
+  def e "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 899
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 566
+type(
+  string
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 567 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 899
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 567 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 569
+type(
+  expr
+)
+ident(
+  def e' "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 24 573 575 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 899
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 24 573 581 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 24 573 582
+type(
+  expr
+)
+ident(
+  int_ref e "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 563 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 564
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 597 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 598
+type(
+  string
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 602 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 623
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 593 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 598
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 605 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 606
+type(
+  string
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 566
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 606 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 607
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 607 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 608
+type(
+  string
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 597 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 598
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 605 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 608
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 614 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 616
+type(
+  expr
+)
+ident(
+  int_ref e' "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 567 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 569
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 622 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 623
+type(
+  expr
+)
+ident(
+  int_ref e "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 563 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 564
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 602 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 25 589 623
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 26 625 633 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 26 625 634
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 26 625 629 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 26 625 634
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 26 625 638 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 26 625 639
+type(
+  expr
+)
+ident(
+  int_ref e "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 563 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 564
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 649 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 650
+type(
+  expr
+)
+ident(
+  def a "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 657 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 703
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 651 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 652
+type(
+  expr
+)
+ident(
+  def b "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 657 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 703
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 645 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 653
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 661 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 674
+type(
+  expr -> string -> expr -> expr
+)
+ident(
+  int_ref subst_in_expr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 549 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 562
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 675 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 676
+type(
+  expr
+)
+ident(
+  int_ref a "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 649 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 650
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 677 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 678
+type(
+  string
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 566
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 679 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 681
+type(
+  expr
+)
+ident(
+  int_ref e' "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 567 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 569
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 661 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 681
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 682 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 695
+type(
+  expr -> string -> expr -> expr
+)
+ident(
+  int_ref subst_in_expr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 549 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 562
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 696 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 697
+type(
+  expr
+)
+ident(
+  int_ref b "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 651 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 652
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 698 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 699
+type(
+  string
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 566
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 700 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 702
+type(
+  expr
+)
+ident(
+  int_ref e' "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 567 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 569
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 682 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 702
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 657 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 27 641 703
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 714 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 715
+type(
+  expr
+)
+ident(
+  def a "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 722 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 769
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 716 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 717
+type(
+  expr
+)
+ident(
+  def b "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 722 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 769
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 709 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 718
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 727 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 740
+type(
+  expr -> string -> expr -> expr
+)
+ident(
+  int_ref subst_in_expr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 549 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 562
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 741 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 742
+type(
+  expr
+)
+ident(
+  int_ref a "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 714 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 715
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 743 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 744
+type(
+  string
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 566
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 745 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 747
+type(
+  expr
+)
+ident(
+  int_ref e' "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 567 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 569
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 727 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 747
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 748 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 761
+type(
+  expr -> string -> expr -> expr
+)
+ident(
+  int_ref subst_in_expr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 549 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 562
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 762 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 763
+type(
+  expr
+)
+ident(
+  int_ref b "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 716 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 717
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 764 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 765
+type(
+  string
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 566
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 766 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 768
+type(
+  expr
+)
+ident(
+  int_ref e' "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 567 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 569
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 748 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 768
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 722 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 28 705 769
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 780 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 781
+type(
+  expr
+)
+ident(
+  def a "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 788 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 835
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 782 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 783
+type(
+  expr
+)
+ident(
+  def b "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 788 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 835
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 775 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 784
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 793 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 806
+type(
+  expr -> string -> expr -> expr
+)
+ident(
+  int_ref subst_in_expr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 549 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 562
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 807 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 808
+type(
+  expr
+)
+ident(
+  int_ref a "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 780 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 781
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 809 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 810
+type(
+  string
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 566
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 811 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 813
+type(
+  expr
+)
+ident(
+  int_ref e' "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 567 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 569
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 793 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 813
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 814 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 827
+type(
+  expr -> string -> expr -> expr
+)
+ident(
+  int_ref subst_in_expr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 549 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 562
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 828 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 829
+type(
+  expr
+)
+ident(
+  int_ref b "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 782 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 783
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 830 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 831
+type(
+  string
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 566
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 832 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 834
+type(
+  expr
+)
+ident(
+  int_ref e' "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 567 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 569
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 814 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 834
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 788 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 29 771 835
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 845 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 846
+type(
+  expr
+)
+ident(
+  def a "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 853 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 899
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 847 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 848
+type(
+  expr
+)
+ident(
+  def b "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 853 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 899
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 841 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 849
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 857 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 870
+type(
+  expr -> string -> expr -> expr
+)
+ident(
+  int_ref subst_in_expr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 549 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 562
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 871 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 872
+type(
+  expr
+)
+ident(
+  int_ref a "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 845 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 846
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 873 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 874
+type(
+  string
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 566
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 875 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 877
+type(
+  expr
+)
+ident(
+  int_ref e' "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 567 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 569
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 857 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 877
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 878 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 891
+type(
+  expr -> string -> expr -> expr
+)
+ident(
+  int_ref subst_in_expr "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 549 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 562
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 892 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 893
+type(
+  expr
+)
+ident(
+  int_ref b "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 847 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 848
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 894 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 895
+type(
+  string
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 565 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 566
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 896 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 898
+type(
+  expr
+)
+ident(
+  int_ref e' "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 567 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 23 541 569
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 878 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 898
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 853 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 899
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 24 573 575 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 30 837 899
+type(
+  expr
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 36 1040 1048 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 36 1040 1055
+type(
+  'a tree -> 'a tree
+)
+ident(
+  def reflect "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 36 1040 1040 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 37 1068 1072 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 37 1068 1077
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 37 1068 1081 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 37 1068 1086
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1095 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1096
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1107 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1134
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1097 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1099
+type(
+  'a tree
+)
+ident(
+  def t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1107 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1134
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1100 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1102
+type(
+  'a tree
+)
+ident(
+  def t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1107 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1134
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1092 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1103
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1110 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1111
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1095 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1096
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1112 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1119
+type(
+  'a tree -> 'a tree
+)
+ident(
+  int_ref reflect "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 36 1040 1048 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 36 1040 1055
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1120 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1122
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1100 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1102
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1112 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1122
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1123 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1130
+type(
+  'a tree -> 'a tree
+)
+ident(
+  int_ref reflect "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 36 1040 1048 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 36 1040 1055
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1131 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1133
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1097 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1099
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1123 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1133
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1107 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1134
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 36 1040 1058 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 38 1088 1134
+type(
+  'a tree -> 'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 46 1384 1388 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 46 1384 1396
+type(
+  int -> int tree
+)
+ident(
+  def fulltree "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1863 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 46 1384 1397 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 46 1384 1398
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1405 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 50 1497 1509
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1413 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1416
+type(
+  int -> int -> int tree
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1405 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 50 1497 1509
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1417 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1418
+type(
+  int
+)
+ident(
+  def k "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1419 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1495
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1419 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1420
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1428 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1495
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1431 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1432
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1419 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1420
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1432 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1433
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1433 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1434
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1431 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1434
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1440 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1445
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1459 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1460
+type(
+  int
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1417 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1418
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1461 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1464
+type(
+  int -> int -> int tree
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1413 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1416
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1466 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1467
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1467 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1468
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1468 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1469
+type(
+  int
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1417 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1418
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1465 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1470
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1472 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1473
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1419 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1420
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1473 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1474
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1474 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1475
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1471 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1476
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1461 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1476
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1477 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1480
+type(
+  int -> int -> int tree
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1413 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1416
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1482 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1483
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1483 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1484
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1484 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1485
+type(
+  int
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1417 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1418
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1482 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1485
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1485 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1486
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1486 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1487
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1481 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1488
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1490 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1491
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1419 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1420
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1491 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1492
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1492 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1493
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1489 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1494
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1477 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1494
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1456 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1495
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 48 1424 1428 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 49 1447 1495
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 50 1497 1502 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 50 1497 1505
+type(
+  int -> int -> int tree
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1413 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1416
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 50 1497 1506 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 50 1497 1507
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 50 1497 1508 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 50 1497 1509
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 46 1384 1397 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 46 1384 1398
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 50 1497 1502 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 50 1497 1509
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 47 1403 1405 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 50 1497 1509
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1871 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1877
+type(
+  'a tree -> int
+)
+ident(
+  def height "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1863 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 61 1890 1894 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 61 1890 1899
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 61 1890 1903 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 61 1890 1904
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1913 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1914
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1915 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1917
+type(
+  'a tree
+)
+ident(
+  def t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1925 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1956
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1918 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1920
+type(
+  'a tree
+)
+ident(
+  def t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1925 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1956
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1910 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1921
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1925 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1926
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1927 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1928
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1929 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1932
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.max
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1934 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1940
+type(
+  'a tree -> int
+)
+ident(
+  int_ref height "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1871 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1877
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1941 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1943
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1915 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1917
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1933 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1944
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1946 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1952
+type(
+  'a tree -> int
+)
+ident(
+  int_ref height "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1871 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1877
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1953 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1955
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1918 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1920
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1945 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1956
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1929 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1956
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1925 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1956
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1880 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 62 1906 1956
+type(
+  'a tree -> int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 65 1995 2003 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 65 1995 2011
+type(
+  'a tree -> bool
+)
+ident(
+  def balanced "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 65 1995 1995 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 66 2024 2028 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 66 2024 2033
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 66 2024 2037 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 66 2024 2041
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2050 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2051
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2052 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2054
+type(
+  'a tree
+)
+ident(
+  def t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2070 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2139
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2055 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2057
+type(
+  'a tree
+)
+ident(
+  def t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2070 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2139
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2047 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2058
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2070 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2078
+type(
+  'a tree -> bool
+)
+ident(
+  int_ref balanced "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 65 1995 2003 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 65 1995 2011
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2079 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2081
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2052 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2054
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2070 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2081
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2082 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2084
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2085 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2093
+type(
+  'a tree -> bool
+)
+ident(
+  int_ref balanced "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 65 1995 2003 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 65 1995 2011
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2094 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2096
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2055 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2057
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2085 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2096
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2105 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2107
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2108 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2111
+type(
+  int -> int
+)
+ident(
+  ext_ref Pervasives.abs
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2112 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2118
+type(
+  'a tree -> int
+)
+ident(
+  int_ref height "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1871 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1877
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2119 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2121
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2052 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2054
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2112 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2121
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2122 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2123
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2124 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2130
+type(
+  'a tree -> int
+)
+ident(
+  int_ref height "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1871 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 60 1863 1877
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2131 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2133
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2055 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 67 2043 2057
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2124 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2133
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2111 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2134
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2108 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2134
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2135 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2137
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2138 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2139
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2108 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2139
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2085 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2139
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 68 2063 2070 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2139
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 65 1995 2014 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 69 2098 2139
+type(
+  'a tree -> bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 83 2753 2757 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 83 2753 2765
+type(
+  'a tree -> bool
+)
+ident(
+  def balanced "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 98 3235 3235 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 83 2753 2766 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 83 2753 2767
+type(
+  'a tree
+)
+ident(
+  def t "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2773 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 93 3043 3073
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2781 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2784
+type(
+  'b tree -> int
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2773 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 93 3043 3073
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 85 2797 2803 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 85 2797 2808
+type(
+  'b tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 85 2797 2812 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 85 2797 2813
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2824 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2825
+type(
+  'b
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2826 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2828
+type(
+  'b tree
+)
+ident(
+  def t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2850 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 3009
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2829 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2831
+type(
+  'b tree
+)
+ident(
+  def t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2850 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 3009
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2821 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2832
+type(
+  'b tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2854 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2856
+type(
+  int
+)
+ident(
+  def k1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2913 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 3009
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2859 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2862
+type(
+  'b tree -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2781 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2784
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2863 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2865
+type(
+  'b tree
+)
+ident(
+  int_ref t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2826 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2828
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2859 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2865
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2884 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2886
+type(
+  int
+)
+ident(
+  def k2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2913 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 3009
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2889 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2892
+type(
+  'b tree -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2781 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2784
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2893 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2895
+type(
+  'b tree
+)
+ident(
+  int_ref t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2829 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 86 2815 2831
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2889 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2895
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2916 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2919
+type(
+  int -> int
+)
+ident(
+  ext_ref Pervasives.abs
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2920 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2922
+type(
+  int
+)
+ident(
+  int_ref k1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2854 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2856
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2923 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2924
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2925 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2927
+type(
+  int
+)
+ident(
+  int_ref k2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2884 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2886
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2919 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2928
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2916 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2928
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2929 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2931
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2932 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2933
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2916 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2933
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2956 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2957
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2958 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2959
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2960 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2963
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.max
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2964 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2966
+type(
+  int
+)
+ident(
+  int_ref k1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2854 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2856
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2967 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2969
+type(
+  int
+)
+ident(
+  int_ref k2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2884 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 88 2867 2886
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2960 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2969
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2956 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 90 2935 2969
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 2992 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 2997
+type(
+  exn -> int
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 2998 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 3009
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 2992 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 3009
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 89 2897 2913 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 3009
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 87 2837 2850 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 3009
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2787 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 91 2971 3009
+type(
+  'b tree -> int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3024 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3025
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3028 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3031
+type(
+  'a tree -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2781 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2784
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3032 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3033
+type(
+  'a tree
+)
+ident(
+  int_ref t "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 83 2753 2766 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 83 2753 2767
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3028 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3033
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3037 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3041
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3020 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3041
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 93 3043 3053 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 93 3043 3064
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 93 3043 3068 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 93 3043 3073
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 92 3011 3016 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 93 3043 3073
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 84 2771 2773 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 93 3043 3073
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 98 3235 3243 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 98 3235 3251
+type(
+  'a tree -> 'a list
+)
+ident(
+  def preorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 98 3235 3235 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 99 3264 3268 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 99 3264 3273
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 99 3264 3277 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 99 3264 3279
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3288 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3289
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3301 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3331
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3290 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3292
+type(
+  'a tree
+)
+ident(
+  def t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3301 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3331
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3293 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3295
+type(
+  'a tree
+)
+ident(
+  def t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3301 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3331
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3285 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3296
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3301 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3302
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3288 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3289
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3305 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3313
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref preorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 98 3235 3243 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 98 3235 3251
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3314 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3316
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3290 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3292
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3305 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3316
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3317 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3318
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3319 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3327
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref preorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 98 3235 3243 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 98 3235 3251
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3328 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3330
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3293 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3295
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3319 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3330
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3304 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3331
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3301 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3331
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 98 3235 3254 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 100 3281 3331
+type(
+  'a tree -> 'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 102 3335 3343 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 102 3335 3350
+type(
+  'a tree -> 'a list
+)
+ident(
+  def inorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 102 3335 3335 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 103 3363 3367 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 103 3363 3372
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 103 3363 3376 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 103 3363 3378
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3387 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3388
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3399 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3431
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3391
+type(
+  'a tree
+)
+ident(
+  def t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3399 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3431
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3392 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3394
+type(
+  'a tree
+)
+ident(
+  def t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3399 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3431
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3384 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3395
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3400 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3407
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref inorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 102 3335 3343 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 102 3335 3350
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3408 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3410
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3389 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3391
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3399 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3411
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3412 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3413
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3415 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3416
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3387 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3388
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3419 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3426
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref inorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 102 3335 3343 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 102 3335 3350
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3427 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3429
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3392 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3394
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3418 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3430
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3414 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3431
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3399 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3431
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 102 3335 3353 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 104 3380 3431
+type(
+  'a tree -> 'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 106 3435 3443 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 106 3435 3452
+type(
+  'a tree -> 'a list
+)
+ident(
+  def postorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 106 3435 3435 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 107 3465 3469 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 107 3465 3474
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 107 3465 3478 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 107 3465 3480
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3489 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3490
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3501 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3540
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3491 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3493
+type(
+  'a tree
+)
+ident(
+  def t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3501 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3540
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3494 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3496
+type(
+  'a tree
+)
+ident(
+  def t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3501 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3540
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3486 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3497
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3502 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3511
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref postorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 106 3435 3443 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 106 3435 3452
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3512 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3514
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3491 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3493
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3501 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3515
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3516 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3517
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3520 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3529
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref postorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 106 3435 3443 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 106 3435 3452
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3530 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3532
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3494 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3496
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3519 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3533
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3534 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3535
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3537 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3538
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3489 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3490
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3536 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3539
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3518 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3540
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3501 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3540
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 106 3435 3455 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 108 3482 3540
+type(
+  'a tree -> 'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3813 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3817
+type(
+  int -> 'a list -> 'a list
+)
+ident(
+  def take "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3805 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3818 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3819
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3822 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3910
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 116 3832 3836 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 116 3832 3838
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 116 3832 3842 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 116 3832 3844
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3850 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3851
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3859 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3910
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3853 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3855
+type(
+  'a list
+)
+ident(
+  def xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3859 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3910
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3850 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3855
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3862 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3863
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3818 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3819
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3863 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3865
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3865 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3866
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3862 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3866
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3872 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3874
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3894 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3895
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3850 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3851
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3897 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3901
+type(
+  int -> 'a list -> 'a list
+)
+ident(
+  int_ref take "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3813 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3817
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3903 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3904
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3818 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3819
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3904 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3905
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3905 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3906
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3902 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3907
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3908 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3910
+type(
+  'a list
+)
+ident(
+  int_ref xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3853 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3855
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3897 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3910
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3894 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3910
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 117 3846 3859 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3910
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3822 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 118 3876 3910
+type(
+  'a list -> 'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3962 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3966
+type(
+  int -> 'a list -> 'a list
+)
+ident(
+  def drop "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3954 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3967 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3968
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3971 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4059
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 122 3981 3985 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 122 3981 3987
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 122 3981 3991 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 122 3981 3993
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 3999 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4000
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4008 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4059
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4002 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4004
+type(
+  'a list
+)
+ident(
+  def xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4008 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4059
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 3999 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4004
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4011 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4012
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3967 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3968
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4012 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4014
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4014 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4015
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4011 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4015
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4021 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4022
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 3999 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4000
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4024 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4026
+type(
+  'a list
+)
+ident(
+  int_ref xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4002 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4004
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4021 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4026
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4046 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4050
+type(
+  int -> 'a list -> 'a list
+)
+ident(
+  int_ref drop "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3962 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3966
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4052 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4053
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3967 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3968
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4053 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4054
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4054 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4055
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4051 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4056
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4057 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4059
+type(
+  'a list
+)
+ident(
+  int_ref xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4002 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4004
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4046 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4059
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 123 3995 4008 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4059
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3971 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 124 4028 4059
+type(
+  'a list -> 'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 127 4105 4113 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 127 4105 4124
+type(
+  'a list -> 'a tree
+)
+ident(
+  def balpreorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 127 4105 4105 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 128 4137 4141 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 128 4137 4143
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 128 4137 4147 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 128 4137 4152
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4158 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4159
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4172 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4277
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4161 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4163
+type(
+  'a list
+)
+ident(
+  def xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4172 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4277
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4158 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4163
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4176 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4177
+type(
+  int
+)
+ident(
+  def k "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4208 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4277
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4181 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4192
+type(
+  'a list -> int
+)
+ident(
+  ext_ref List.length
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4193 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4195
+type(
+  'a list
+)
+ident(
+  int_ref xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4161 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4163
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4180 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4196
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4196 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4197
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4198 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4199
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4180 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4199
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4211 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4212
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4158 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4159
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4214 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4225
+type(
+  'a list -> 'a tree
+)
+ident(
+  int_ref balpreorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 127 4105 4113 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 127 4105 4124
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4227 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4231
+type(
+  int -> 'a list -> 'a list
+)
+ident(
+  int_ref take "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3813 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3817
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4232 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4233
+type(
+  int
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4176 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4177
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4234 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4236
+type(
+  'a list
+)
+ident(
+  int_ref xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4161 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4163
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4226 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4237
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4214 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4237
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4253 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4264
+type(
+  'a list -> 'a tree
+)
+ident(
+  int_ref balpreorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 127 4105 4113 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 127 4105 4124
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4266 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4270
+type(
+  int -> 'a list -> 'a list
+)
+ident(
+  int_ref drop "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3962 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3966
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4271 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4272
+type(
+  int
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4176 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4177
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4273 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4275
+type(
+  'a list
+)
+ident(
+  int_ref xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4161 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 129 4154 4163
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4265 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4276
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4253 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4276
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 131 4201 4208 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4277
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 130 4168 4172 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4277
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 127 4105 4127 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 132 4240 4277
+type(
+  'a list -> 'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 135 4320 4328 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 135 4320 4338
+type(
+  'a list -> 'a tree
+)
+ident(
+  def balinorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 135 4320 4320 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 136 4351 4355 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 136 4351 4357
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 136 4351 4361 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 136 4351 4366
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4374
+type(
+  'a list
+)
+ident(
+  def xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4378 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4520
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4382 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4383
+type(
+  int
+)
+ident(
+  def k "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4420 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4520
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4387 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4398
+type(
+  'a list -> int
+)
+ident(
+  ext_ref List.length
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4399 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4401
+type(
+  'a list
+)
+ident(
+  int_ref xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4374
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4386 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4402
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4402 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4403
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4404 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4405
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4386 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4405
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4424 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4425
+type(
+  'a
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4456 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4520
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4427 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4429
+type(
+  'a list
+)
+ident(
+  def ys "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4456 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4520
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4424 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4429
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4432 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4436
+type(
+  int -> 'a list -> 'a list
+)
+ident(
+  int_ref drop "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3962 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 121 3954 3966
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4437 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4438
+type(
+  int
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4382 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4383
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4439 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4441
+type(
+  'a list
+)
+ident(
+  int_ref xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4374
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4432 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4441
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4459 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4460
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4424 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4425
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4462 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4472
+type(
+  'a list -> 'a tree
+)
+ident(
+  int_ref balinorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 135 4320 4328 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 135 4320 4338
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4474 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4478
+type(
+  int -> 'a list -> 'a list
+)
+ident(
+  int_ref take "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3813 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 115 3805 3817
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4479 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4480
+type(
+  int
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4382 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4383
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4481 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4483
+type(
+  'a list
+)
+ident(
+  int_ref xs "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4372 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4374
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4473 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4484
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4462 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4484
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4506 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4516
+type(
+  'a list -> 'a tree
+)
+ident(
+  int_ref balinorder "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 135 4320 4328 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 135 4320 4338
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4517 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4519
+type(
+  'a list
+)
+ident(
+  int_ref ys "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4427 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4429
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4506 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4519
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 139 4443 4456 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4520
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 138 4407 4420 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4520
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 137 4368 4378 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4520
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 135 4320 4341 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 140 4487 4520
+type(
+  'a list -> 'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4637 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4652
+type(
+  'a list -> 'a tree -> bool
+)
+ident(
+  def foglie_in_lista "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4629 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4653 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4658
+type(
+  'a list
+)
+ident(
+  def lista "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4661 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4828
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 145 4671 4675 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 145 4671 4680
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 145 4671 4684 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 145 4671 4688
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4697 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4698
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4715 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4731
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4699 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4704
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4705 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4710
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4694 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4711
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4715 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4723
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4724 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4725
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4697 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4698
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4726 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4731
+type(
+  'a list
+)
+ident(
+  int_ref lista "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4653 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4658
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4715 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 146 4690 4731
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4740 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4741
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4764 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4828
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4742 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4746
+type(
+  'a tree
+)
+ident(
+  def left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4764 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4828
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4747 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4752
+type(
+  'a tree
+)
+ident(
+  def right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4764 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4828
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4737 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4753
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4764 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4779
+type(
+  'a list -> 'a tree -> bool
+)
+ident(
+  int_ref foglie_in_lista "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4637 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4652
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4780 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4785
+type(
+  'a list
+)
+ident(
+  int_ref lista "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4653 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4658
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4786 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4790
+type(
+  'a tree
+)
+ident(
+  int_ref left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4742 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4746
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4764 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4790
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4791 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4793
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4801 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4816
+type(
+  'a list -> 'a tree -> bool
+)
+ident(
+  int_ref foglie_in_lista "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4637 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4652
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4817 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4822
+type(
+  'a list
+)
+ident(
+  int_ref lista "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4653 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4658
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4823 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4828
+type(
+  'a tree
+)
+ident(
+  int_ref right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4747 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 147 4733 4752
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4801 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4828
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 148 4758 4764 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4828
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 144 4629 4661 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 149 4795 4828
+type(
+  'a tree -> bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 153 4913 4921 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 153 4913 4931
+type(
+  'a tree -> int
+)
+ident(
+  def num_foglie "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 153 4913 4913 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 154 4944 4948 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 154 4944 4953
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 154 4944 4957 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 154 4944 4958
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4967 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4968
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4985 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4986
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4969 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4974
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4975 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4980
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4964 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4981
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4985 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 155 4960 4986
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 4995 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 4996
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5012 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5050
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 4997 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5001
+type(
+  'a tree
+)
+ident(
+  def left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5012 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5050
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5002 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5007
+type(
+  'a tree
+)
+ident(
+  def right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5012 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5050
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 4992 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5008
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5013 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5023
+type(
+  'a tree -> int
+)
+ident(
+  int_ref num_foglie "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 153 4913 4921 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 153 4913 4931
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5024 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5028
+type(
+  'a tree
+)
+ident(
+  int_ref left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 4997 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5001
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5012 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5029
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5030 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5031
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5033 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5043
+type(
+  'a tree -> int
+)
+ident(
+  int_ref num_foglie "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 153 4913 4921 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 153 4913 4931
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5044 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5049
+type(
+  'a tree
+)
+ident(
+  int_ref right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5002 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5007
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5032 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5050
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5012 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5050
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 153 4913 4934 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 156 4988 5050
+type(
+  'a tree -> int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5156 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5166
+type(
+  bool list -> 'a tree -> 'a
+)
+ident(
+  def segui_bool "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5148 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5167 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5172
+type(
+  bool list
+)
+ident(
+  def lista "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5173 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5370
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5173 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5177
+type(
+  'a tree
+)
+ident(
+  def tree "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 161 5182 5184 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5370
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 161 5182 5191 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 161 5182 5195
+type(
+  'a tree
+)
+ident(
+  int_ref tree "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5173 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5177
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 161 5182 5196 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 161 5182 5201
+type(
+  bool list
+)
+ident(
+  int_ref lista "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5167 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5172
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 161 5182 5190 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 161 5182 5202
+type(
+  'a tree * bool list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5214 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5219
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5220 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5221
+type(
+  bool list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5213 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5222
+type(
+  'a tree * bool list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5226 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5234
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5235 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5247
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5226 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 162 5210 5247
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5257 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5258
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5271 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5272
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5259 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5260
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5261 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5262
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5254 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5263
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5264 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5266
+type(
+  bool list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5253 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5267
+type(
+  'a tree * bool list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5271 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5272
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5257 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 163 5249 5258
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5282 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5283
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5284 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5286
+type(
+  'a tree
+)
+ident(
+  def t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5311 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5370
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5287 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5289
+type(
+  'a tree
+)
+ident(
+  def t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5311 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5370
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5279 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5290
+type(
+  'a tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5291 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5292
+type(
+  bool
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5311 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5370
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5294 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5298
+type(
+  bool list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5311 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5370
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5291 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5298
+type(
+  bool list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5278 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5299
+type(
+  'a tree * bool list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5314 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5315
+type(
+  bool
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5291 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5292
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5321 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5331
+type(
+  bool list -> 'a tree -> 'a
+)
+ident(
+  int_ref segui_bool "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5156 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5166
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5332 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5336
+type(
+  bool list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5294 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5298
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5337 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5339
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5284 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5286
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5321 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5339
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5352 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5362
+type(
+  bool list -> 'a tree -> 'a
+)
+ident(
+  int_ref segui_bool "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5156 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 160 5148 5166
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5363 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5367
+type(
+  bool list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5294 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5298
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5368 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5370
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5287 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 164 5274 5289
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5352 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5370
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 165 5305 5311 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5370
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 161 5182 5184 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 166 5341 5370
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5475 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5487
+type(
+  int tree -> int * int
+)
+ident(
+  def foglia_costo "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5467 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 171 5500 5504 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 171 5500 5509
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 171 5500 5513 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 171 5500 5521
+type(
+  string -> int * int
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 171 5500 5522 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 171 5500 5536
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 171 5500 5513 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 171 5500 5536
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5545 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5546
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5563 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5568
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5547 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5552
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5553 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5558
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5542 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5559
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5564 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5565
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5545 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5546
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5566 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5567
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5545 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5546
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5563 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 172 5538 5568
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5577 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5578
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5601 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5648
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5579 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5583
+type(
+  int tree
+)
+ident(
+  def left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5601 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5648
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5584 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5589
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5574 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5590
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5606 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5607
+type(
+  int
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5641 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5648
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5608 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5609
+type(
+  int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5641 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5648
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5605 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5610
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5613 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5625
+type(
+  int tree -> int * int
+)
+ident(
+  int_ref foglia_costo "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5475 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5487
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5626 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5630
+type(
+  int tree
+)
+ident(
+  int_ref left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5579 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5583
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5613 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5630
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5642 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5643
+type(
+  int
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5606 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5607
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5644 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5645
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5608 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5609
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5645 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5646
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5646 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5647
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5577 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 173 5570 5578
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5644 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5647
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5641 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5648
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 174 5595 5601 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 175 5632 5648
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5657 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5658
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5682 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5730
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5659 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5664
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5665 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5670
+type(
+  int tree
+)
+ident(
+  def right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5682 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5730
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5654 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5671
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5687 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5688
+type(
+  int
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5723 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5730
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5689 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5690
+type(
+  int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5723 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5730
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5686 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5691
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5694 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5706
+type(
+  int tree -> int * int
+)
+ident(
+  int_ref foglia_costo "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5475 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5487
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5707 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5712
+type(
+  int tree
+)
+ident(
+  int_ref right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5665 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5670
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5694 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5712
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5724 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5725
+type(
+  int
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5687 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5688
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5726 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5727
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5689 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5690
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5727 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5728
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5728 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5729
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5657 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 176 5650 5658
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5726 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5729
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5723 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5730
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 177 5676 5682 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 178 5714 5730
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5739 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5740
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5763 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5741 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5745
+type(
+  int tree
+)
+ident(
+  def left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5763 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5746 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5751
+type(
+  int tree
+)
+ident(
+  def right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5763 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5736 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5752
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5768 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5773
+type(
+  int
+)
+ident(
+  def yleft "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5811 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5774 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5779
+type(
+  int
+)
+ident(
+  def cleft "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5811 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5767 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5780
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5783 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5795
+type(
+  int tree -> int * int
+)
+ident(
+  int_ref foglia_costo "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5475 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5487
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5796 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5800
+type(
+  int tree
+)
+ident(
+  int_ref left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5741 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5745
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5783 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5800
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5816 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5822
+type(
+  int
+)
+ident(
+  def yright "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5862 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5823 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5829
+type(
+  int
+)
+ident(
+  def cright "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5862 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5815 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5830
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5833 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5845
+type(
+  int tree -> int * int
+)
+ident(
+  int_ref foglia_costo "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5475 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5487
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5846 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5851
+type(
+  int tree
+)
+ident(
+  int_ref right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5746 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5751
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5833 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5851
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5865 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5870
+type(
+  int
+)
+ident(
+  int_ref cleft "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5774 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5779
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5871 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5873
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5874 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5880
+type(
+  int
+)
+ident(
+  int_ref cright "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5823 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5829
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5865 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5880
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5887 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5892
+type(
+  int
+)
+ident(
+  int_ref yleft "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5768 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5773
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5893 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5898
+type(
+  int
+)
+ident(
+  int_ref cleft "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5774 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5779
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5898 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5899
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5899 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5900
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5739 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5740
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5893 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5900
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5886 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5901
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5915 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5921
+type(
+  int
+)
+ident(
+  int_ref yright "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5816 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5822
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5922 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5928
+type(
+  int
+)
+ident(
+  int_ref cright "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5823 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5829
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5928 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5929
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5929 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5930
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5739 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 179 5732 5740
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5922 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5930
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5914 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 182 5856 5862 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 181 5805 5811 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 180 5757 5763 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 170 5467 5490 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 183 5903 5931
+type(
+  int tree -> int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6044 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6056
+type(
+  int tree -> (int * int) list
+)
+ident(
+  def foglie_costi "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6036 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 188 6069 6073 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 188 6069 6078
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 188 6069 6082 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 188 6069 6084
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6093 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6094
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6111 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6118
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6095 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6100
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6101 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6106
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6090 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6107
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6113 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6114
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6093 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6094
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6115 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6116
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6093 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6094
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6112 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6117
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6111 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 189 6086 6118
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6127 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6128
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6151 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6207
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6129 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6133
+type(
+  int tree
+)
+ident(
+  def left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6151 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6207
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6134 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6139
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6124 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6140
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6151 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6159
+type(
+  (int * int -> int * int) -> (int * int) list -> (int * int) list
+)
+ident(
+  ext_ref List.map
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6171 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6172
+type(
+  int
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6179 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6186
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6173 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6174
+type(
+  int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6179 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6186
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6170 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6175
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6180 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6181
+type(
+  int
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6171 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6172
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6182 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6183
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6127 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6128
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6183 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6184
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6184 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6185
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6173 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6174
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6182 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6185
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6179 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6186
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6160 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6187
+type(
+  int * int -> int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6189 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6201
+type(
+  int tree -> (int * int) list
+)
+ident(
+  int_ref foglie_costi "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6044 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6056
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6202 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6206
+type(
+  int tree
+)
+ident(
+  int_ref left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6129 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 190 6120 6133
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6188 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6207
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6151 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 191 6145 6207
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6216 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6217
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6241 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6298
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6218 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6223
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6224 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6229
+type(
+  int tree
+)
+ident(
+  def right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6241 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6298
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6213 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6230
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6241 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6249
+type(
+  (int * int -> int * int) -> (int * int) list -> (int * int) list
+)
+ident(
+  ext_ref List.map
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6261 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6262
+type(
+  int
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6269 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6276
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6263 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6264
+type(
+  int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6269 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6276
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6260 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6265
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6270 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6271
+type(
+  int
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6261 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6262
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6272 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6273
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6216 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6217
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6273 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6274
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6274 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6275
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6263 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6264
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6272 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6275
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6269 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6276
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6250 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6277
+type(
+  int * int -> int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6279 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6291
+type(
+  int tree -> (int * int) list
+)
+ident(
+  int_ref foglie_costi "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6044 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6056
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6292 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6297
+type(
+  int tree
+)
+ident(
+  int_ref right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6224 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 192 6209 6229
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6278 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6298
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6241 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 193 6235 6298
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6308 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6309
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6333 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6417
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6310 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6314
+type(
+  int tree
+)
+ident(
+  def left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6333 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6417
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6315 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6320
+type(
+  int tree
+)
+ident(
+  def right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6333 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6417
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6305 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6321
+type(
+  int tree
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6333 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6341
+type(
+  (int * int -> int * int) -> (int * int) list -> (int * int) list
+)
+ident(
+  ext_ref List.map
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6353 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6354
+type(
+  int
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6361 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6368
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6355 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6356
+type(
+  int
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6361 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6368
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6352 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6357
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6362 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6363
+type(
+  int
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6353 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6354
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6364 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6365
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6308 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6309
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6365 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6366
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6366 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6367
+type(
+  int
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6355 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6356
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6364 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6367
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6361 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6368
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6342 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6369
+type(
+  int * int -> int * int
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6375 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6387
+type(
+  int tree -> (int * int) list
+)
+ident(
+  int_ref foglie_costi "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6044 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6056
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6388 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6392
+type(
+  int tree
+)
+ident(
+  int_ref left "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6310 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6314
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6374 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6393
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6394 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6395
+type(
+  (int * int) list -> (int * int) list -> (int * int) list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6397 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6409
+type(
+  int tree -> (int * int) list
+)
+ident(
+  int_ref foglie_costi "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6044 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6056
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6410 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6415
+type(
+  int tree
+)
+ident(
+  int_ref right "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6315 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 194 6300 6320
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6396 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6416
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6373 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6417
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 195 6326 6333 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6417
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 187 6036 6059 "EsercitazioniOCaml\\Codice soluzioni gruppi\\gruppo8.ml" 196 6371 6417
+type(
+  int tree -> (int * int) list
+)

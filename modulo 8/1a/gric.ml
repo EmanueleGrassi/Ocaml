@@ -1,12 +1,6 @@
 (* Esercizio 1a *)
-
-type expr =
-  | Int of int
-  | Var of string
-  | Sum of expr * expr
-  | Diff of expr * expr
-  | Mult of expr * expr
-  | Div of expr * expr
+(* subexpr: expr -> expr -> bool *)
+(* subexpr e1 e2 determina se e2 è sottoespressione di e1*)
 
 let rec subexpr e1 e2 = 
 	match e1 with

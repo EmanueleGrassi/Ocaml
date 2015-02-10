@@ -1,272 +1,272 @@
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 129 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 136
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 369 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 376
 type(
   'a -> ('a * 'b tree) list -> 'b tree
 )
 ident(
-  def gettree "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 121 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 1 0 -1
+  def gettree "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 361 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 1 0 -1
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 137 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 138
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 377 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 378
 type(
   'a
 )
 ident(
-  def e "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 141 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 259
+  def e "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 381 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 499
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 7 151 154 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 7 151 156
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 11 391 394 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 11 391 396
 type(
   ('a * 'b tree) list
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 7 151 160 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 7 151 165
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 11 391 400 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 11 391 405
 type(
   'b tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 171 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 172
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 411 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 412
 type(
   'a
 )
 ident(
-  def x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 187 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 259
+  def x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 427 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 499
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 173 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 176
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 413 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 416
 type(
   'b tree
 )
 ident(
-  def lst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 187 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 259
+  def lst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 427 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 499
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 170 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 177
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 410 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 417
 type(
   'a * 'b tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 179 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 183
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 419 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 423
 type(
   ('a * 'b tree) list
 )
 ident(
-  def rest "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 187 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 259
+  def rest "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 427 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 499
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 170 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 183
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 410 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 423
 type(
   ('a * 'b tree) list
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 190 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 191
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 430 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 431
 type(
   'a
 )
 ident(
-  int_ref x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 171 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 172
+  int_ref x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 411 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 412
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 192 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 193
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 432 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 433
 type(
   'a -> 'a -> bool
 )
 ident(
   ext_ref Pervasives.( = )
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 194 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 195
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 434 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 435
 type(
   'a
 )
 ident(
-  int_ref e "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 137 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 138
+  int_ref e "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 377 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 378
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 190 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 195
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 430 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 435
 type(
   bool
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 9 198 223 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 9 198 226
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 13 438 463 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 13 438 466
 type(
   'b tree
 )
 ident(
-  int_ref lst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 173 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 176
+  int_ref lst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 413 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 416
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 245 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 252
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 485 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 492
 type(
   'a -> ('a * 'b tree) list -> 'b tree
 )
 ident(
-  int_ref gettree "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 129 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 136
+  int_ref gettree "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 369 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 376
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 253 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 254
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 493 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 494
 type(
   'a
 )
 ident(
-  int_ref e "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 137 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 138
+  int_ref e "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 377 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 378
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 255 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 259
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 495 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 499
 type(
   ('a * 'b tree) list
 )
 ident(
-  int_ref rest "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 179 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 183
+  int_ref rest "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 419 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 423
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 245 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 259
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 485 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 499
 type(
   'b tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 8 167 187 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 259
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 407 427 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 499
 type(
   'b tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 141 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 229 259
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 381 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 469 499
 type(
   ('a * 'b tree) list -> 'b tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 271 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 278
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 511 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 518
 type(
   ('a * 'a tree) list -> 'a tree -> 'a tree
 )
 ident(
-  def applica "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 263 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 1 0 -1
+  def applica "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 503 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 1 0 -1
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 279 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 284
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 519 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 524
 type(
   ('a * 'a tree) list
 )
 ident(
-  def subst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 287 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 412
+  def subst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 527 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 652
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 13 298 301 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 13 298 306
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 17 538 541 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 17 538 546
 type(
   'a tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 13 298 310 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 13 298 315
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 17 538 550 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 17 538 555
 type(
   'a tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 323 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 324
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 563 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 564
 type(
   'a
 )
 ident(
-  def x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 342 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 357
+  def x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 582 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 597
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 325 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 330
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 565 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 570
 type(
   'a tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 332 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 337
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 572 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 577
 type(
   'a tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 320 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 338
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 560 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 578
 type(
   'a tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 342 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 349
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 582 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 589
 type(
   'a -> ('a * 'a tree) list -> 'a tree
 )
 ident(
-  int_ref gettree "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 129 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 6 121 136
+  int_ref gettree "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 369 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 10 361 376
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 350 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 351
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 590 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 591
 type(
   'a
 )
 ident(
-  int_ref x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 323 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 324
+  int_ref x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 563 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 564
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 352 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 357
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 592 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 597
 type(
   ('a * 'a tree) list
 )
 ident(
-  int_ref subst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 279 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 284
+  int_ref subst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 519 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 524
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 342 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 14 317 357
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 582 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 18 557 597
 type(
   'a tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 365 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 366
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 605 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 606
 type(
   'a
 )
 ident(
-  def x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 375 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 412
+  def x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 615 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 652
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 367 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 368
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 607 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 608
 type(
   'a tree
 )
 ident(
-  def a "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 375 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 412
+  def a "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 615 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 652
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 369 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 370
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 609 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 610
 type(
   'a tree
 )
 ident(
-  def b "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 375 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 412
+  def b "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 615 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 652
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 362 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 371
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 602 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 611
 type(
   'a tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 378 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 379
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 618 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 619
 type(
   'a
 )
 ident(
-  int_ref x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 365 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 366
+  int_ref x "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 605 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 606
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 380 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 387
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 620 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 627
 type(
   ('a * 'a tree) list -> 'a tree -> 'a tree
 )
 ident(
-  int_ref applica "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 271 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 278
+  int_ref applica "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 511 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 518
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 388 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 393
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 628 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 633
 type(
   ('a * 'a tree) list
 )
 ident(
-  int_ref subst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 279 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 284
+  int_ref subst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 519 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 524
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 394 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 395
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 634 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 635
 type(
   'a tree
 )
 ident(
-  int_ref a "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 367 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 368
+  int_ref a "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 607 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 608
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 380 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 395
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 620 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 635
 type(
   'a tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 396 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 403
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 636 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 643
 type(
   ('a * 'a tree) list -> 'a tree -> 'a tree
 )
 ident(
-  int_ref applica "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 271 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 278
+  int_ref applica "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 511 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 518
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 404 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 409
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 644 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 649
 type(
   ('a * 'a tree) list
 )
 ident(
-  int_ref subst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 279 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 284
+  int_ref subst "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 519 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 524
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 410 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 411
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 650 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 651
 type(
   'a tree
 )
 ident(
-  int_ref b "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 369 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 370
+  int_ref b "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 609 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 610
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 396 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 411
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 636 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 651
 type(
   'a tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 375 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 412
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 615 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 652
 type(
   'a tree
 )
-"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 12 263 287 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 15 359 412
+"EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 16 503 527 "EsercitazioniOCaml\\modulo 8\\12\\gric.ml" 19 599 652
 type(
   'a tree -> 'a tree
 )

@@ -1,5 +1,10 @@
 (* Esercizio 2e *)
-type 'a tree = Empty | Tr of 'a * 'a tree * 'a tree
+(* balpreorder e balinorder: 'a list -> 'a tree *)
+(* queste due funzioni data una lista restituiscono l'albero bilanciato *)
+(* al quale se applicassimo preorder o inorder(rispettivamente a balpreorder e balinorder)*)
+(* otterremmo la lista stessa *)
+(* queste funzioni utilizzano drop e take, funzioni definite in precedenti homework *)
+
 
 let rec drop n lst =
   try if n = 0 then lst else drop (n - 1) (List.tl lst)
@@ -19,5 +24,4 @@ let rec balpreorder = function
 let rec balinorder = function
 	| [] -> Empty
 	| x::rest as tmp -> let n = (List.length tmp)/2		
-	                    in try Tr(List.hd(drop (n-1) (take n tmp)),balinorder (take (n-1) tmp), balinorder (drop n rest))
-											   with Failure "hd" -> Empty
+	                    in Tr((List.nth tmp n),balinorder (take n tmp), balinorder (drop n rest))

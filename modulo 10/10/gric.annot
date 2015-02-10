@@ -1,0 +1,14 @@
+"EsercitazioniOCaml\\modulo 10\\10\\gric.ml" 9 352 360 "EsercitazioniOCaml\\modulo 10\\10\\gric.ml" 9 352 373
+type(
+  '_a -> '_b -> '_c
+)
+ident(
+  def path_non_pred "EsercitazioniOCaml\\modulo 10\\10\\gric.ml" 9 352 352 "EsercitazioniOCaml\\modulo 10\\10\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 10\\10\\gric.ml" 9 352 374 "EsercitazioniOCaml\\modulo 10\\10\\gric.ml" 9 352 375
+type(
+  '_a
+)
+ident(
+  def p "EsercitazioniOCaml\\modulo 10\\10\\gric.ml" 9 352 378 "EsercitazioniOCaml\\modulo 10\\10\\gric.ml" 17 720 807
+)

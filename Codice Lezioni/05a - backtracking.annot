@@ -1,0 +1,1847 @@
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 230 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 235
+type(
+  'a -> ('a * 'b) list -> 'b
+)
+ident(
+  def assoc "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 222 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 236 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 237
+type(
+  'a
+)
+ident(
+  def k "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 240 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 355
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 9 250 254 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 9 250 256
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 9 250 260 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 9 250 265
+type(
+  exn -> 'b
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 9 250 266 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 9 250 274
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 9 250 260 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 9 250 274
+type(
+  'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 281 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 283
+type(
+  'a
+)
+ident(
+  def k1 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 296 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 355
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 284 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 285
+type(
+  'b
+)
+ident(
+  def v "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 296 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 355
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 280 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 286
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 288 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 292
+type(
+  ('a * 'b) list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 296 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 355
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 280 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 292
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 299 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 300
+type(
+  'a
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 236 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 237
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 301 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 302
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 303 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 305
+type(
+  'a
+)
+ident(
+  int_ref k1 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 281 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 283
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 299 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 305
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 311 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 312
+type(
+  'b
+)
+ident(
+  int_ref v "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 284 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 285
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 343 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 348
+type(
+  'a -> ('a * 'b) list -> 'b
+)
+ident(
+  int_ref assoc "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 230 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 235
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 349 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 350
+type(
+  'a
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 236 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 237
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 351 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 355
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 288 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 292
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 343 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 355
+call(
+  tail
+)
+type(
+  'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 10 276 296 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 355
+type(
+  'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 8 222 240 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 11 317 355
+type(
+  ('a * 'b) list -> 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 511 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 520
+type(
+  'a * 'b -> ('a * 'b) list -> ('a * 'b) list
+)
+ident(
+  def inserisci "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 503 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 522 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 523
+type(
+  'a
+)
+ident(
+  def k "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 527 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 554
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 524 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 525
+type(
+  'b
+)
+ident(
+  def v "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 527 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 554
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 521 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 526
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 527 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 532
+type(
+  ('a * 'b) list
+)
+ident(
+  def assoc "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 542 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 554
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 543 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 544
+type(
+  'a
+)
+ident(
+  int_ref k "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 522 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 523
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 545 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 546
+type(
+  'b
+)
+ident(
+  int_ref v "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 524 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 525
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 542 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 547
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 549 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 554
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref assoc "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 527 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 16 503 532
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 542 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 17 536 554
+type(
+  ('a * 'b) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 788 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 791
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  def mem "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 780 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 792 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 793
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 796 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 861
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 26 806 808 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 26 806 810
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 26 806 814 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 26 806 819
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 27 821 825 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 27 821 826
+type(
+  'a
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 844 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 861
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 27 821 828 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 27 821 832
+type(
+  'a list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 844 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 861
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 27 821 825 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 27 821 832
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 844 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 845
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 792 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 793
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 845 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 846
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 846 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 847
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 27 821 825 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 27 821 826
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 844 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 847
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 848 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 850
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 851 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 854
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  int_ref mem "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 788 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 791
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 855 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 856
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 792 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 793
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 857 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 861
+type(
+  'a list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 27 821 828 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 27 821 832
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 851 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 861
+call(
+  tail
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 844 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 861
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 25 780 796 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 28 837 861
+type(
+  'a list -> bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 37 1243 1247 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 37 1243 1255
+type(
+  (string * (int * int) list) list
+)
+ident(
+  def contents "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1611 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1263 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1268
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1271 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1272
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1273 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1274
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1270 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1275
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1277 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1278
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1279 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1280
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1276 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1281
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1283 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1284
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1285 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1286
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1282 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1287
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1269 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1288
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1262 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1289
+type(
+  string * (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1296 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1305
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1308 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1309
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1310 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1311
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1307 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1312
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1314 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1315
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1316 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1317
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1313 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1318
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1306 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1319
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1295 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 39 1292 1320
+type(
+  string * (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1327 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1335
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1338 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1339
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1340 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1341
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1337 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1342
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1344 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1345
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1346 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1347
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1343 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1348
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1350 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1351
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1352 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1353
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1349 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1354
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1356 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1357
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1358 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1359
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1355 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1360
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1362 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1363
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1364 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1365
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1361 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1366
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1368 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1369
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1370 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1371
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1367 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1372
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1336 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1373
+type(
+  (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1326 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1374
+type(
+  string * (int * int) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 38 1259 1261 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 40 1323 1375
+type(
+  (string * (int * int) list) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1615 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1618
+type(
+  'a -> 'b -> ('a * 'b list) list -> bool
+)
+ident(
+  def has "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1891 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1619 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1620
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1621 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 49 1696 1721
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1621 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1628
+type(
+  'b
+)
+ident(
+  def casella "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1629 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 49 1696 1721
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1629 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1638
+type(
+  ('a * 'b list) list
+)
+ident(
+  def contenuti "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 47 1642 1644 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 49 1696 1721
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1653 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1661
+type(
+  'b -> 'b list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1662 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1669
+type(
+  'b
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1621 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1628
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1671 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1681
+type(
+  'a -> ('a * 'b list) list -> 'b list
+)
+ident(
+  ext_ref List.assoc
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1682 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1683
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1619 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1620
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1684 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1693
+type(
+  ('a * 'b list) list
+)
+ident(
+  int_ref contenuti "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1629 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 46 1611 1638
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1670 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1694
+call(
+  stack
+)
+type(
+  'b list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1653 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 48 1649 1694
+call(
+  stack
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 49 1696 1703 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 49 1696 1712
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 49 1696 1716 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 49 1696 1721
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 47 1642 1644 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 49 1696 1721
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1899 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1911
+type(
+  ('a * 'b list) list -> 'b -> 'a list
+)
+ident(
+  def find_content "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1891 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1912 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1921
+type(
+  ('a * 'b list) list
+)
+ident(
+  def contenuti "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1922 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2078
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1922 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1923
+type(
+  'b
+)
+ident(
+  def c "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 55 1927 1929 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2078
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 55 1927 1935 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 55 1927 1944
+type(
+  ('a * 'b list) list
+)
+ident(
+  int_ref contenuti "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1912 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1921
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 56 1951 1955 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 56 1951 1957
+type(
+  ('a * 'b list) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 56 1951 1961 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 56 1951 1963
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1970 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1971
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 1997 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2078
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1972 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1979
+type(
+  'b list
+)
+ident(
+  def caselle "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 1997 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2078
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1969 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1980
+type(
+  'a * 'b list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1982 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1986
+type(
+  ('a * 'b list) list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 1997 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2078
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1969 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1986
+type(
+  ('a * 'b list) list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2000 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2008
+type(
+  'b -> 'b list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2009 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2010
+type(
+  'b
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1922 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1923
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2011 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2018
+type(
+  'b list
+)
+ident(
+  int_ref caselle "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1972 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1979
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2000 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2018
+call(
+  stack
+)
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2024 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2025
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1970 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1971
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2027 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2039
+type(
+  ('a * 'b list) list -> 'b -> 'a list
+)
+ident(
+  int_ref find_content "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1899 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1911
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2040 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2044
+type(
+  ('a * 'b list) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1982 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1986
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2045 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2046
+type(
+  'b
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1922 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1923
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2027 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2046
+call(
+  stack
+)
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2024 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 2046
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2059 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2071
+type(
+  ('a * 'b list) list -> 'b -> 'a list
+)
+ident(
+  int_ref find_content "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1899 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1911
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2072 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2076
+type(
+  ('a * 'b list) list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1982 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 57 1965 1986
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2077 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2078
+type(
+  'b
+)
+ident(
+  int_ref c "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1922 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1923
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2059 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2078
+call(
+  tail
+)
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 58 1991 1997 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2078
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 55 1927 1929 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 59 2048 2078
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2237 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2245
+type(
+  ('a * 'b list) list -> 'b list -> 'a list
+)
+ident(
+  def raccolti "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2229 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2246 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2255
+type(
+  ('a * 'b list) list
+)
+ident(
+  def contenuti "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2258 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2370
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 65 2268 2272 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 65 2268 2274
+type(
+  'b list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 65 2268 2278 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 65 2268 2280
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 66 2282 2286 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 66 2282 2293
+type(
+  'b
+)
+ident(
+  def casella "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2310 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2370
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 66 2282 2295 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 66 2282 2299
+type(
+  'b list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2310 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2370
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 66 2282 2286 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 66 2282 2299
+type(
+  'b list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2311 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2323
+type(
+  ('a * 'b list) list -> 'b -> 'a list
+)
+ident(
+  int_ref find_content "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1899 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 54 1891 1911
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2324 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2333
+type(
+  ('a * 'b list) list
+)
+ident(
+  int_ref contenuti "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2246 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2255
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2334 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2341
+type(
+  'b
+)
+ident(
+  int_ref casella "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 66 2282 2286 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 66 2282 2293
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2310 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2342
+call(
+  stack
+)
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2343 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2344
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2346 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2354
+type(
+  ('a * 'b list) list -> 'b list -> 'a list
+)
+ident(
+  int_ref raccolti "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2237 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2245
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2355 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2364
+type(
+  ('a * 'b list) list
+)
+ident(
+  int_ref contenuti "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2246 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2255
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2365 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2369
+type(
+  'b list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 66 2282 2295 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 66 2282 2299
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2345 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2370
+call(
+  stack
+)
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2310 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2370
+call(
+  tail
+)
+type(
+  'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 64 2229 2258 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 67 2304 2370
+type(
+  'b list -> 'a list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 120 4239 4247 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 120 4239 4252
+type(
+  int list -> int
+)
+ident(
+  def sumof "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 120 4239 4239 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 121 4265 4269 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 121 4265 4271
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 121 4265 4275 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 121 4265 4276
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4282 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4283
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4293 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4305
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4285 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4289
+type(
+  int list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4293 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4305
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4282 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4289
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4293 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4294
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4282 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4283
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4294 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4295
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4295 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4300
+type(
+  int list -> int
+)
+ident(
+  int_ref sumof "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 120 4239 4247 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 120 4239 4252
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4301 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4305
+type(
+  int list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4285 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4289
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4295 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4305
+call(
+  stack
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4293 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4305
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 120 4239 4255 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 122 4278 4305
+type(
+  int list -> int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4433 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4446
+type(
+  int list -> int -> int list
+)
+ident(
+  def subset_search "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5518 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4447 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4450
+type(
+  int list
+)
+ident(
+  def set "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4451 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5121
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4451 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4452
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4625 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5121
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4633 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4636
+type(
+  int list -> int list -> int list
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4625 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5121
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4637 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4645
+type(
+  int list
+)
+ident(
+  def solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4646 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4646 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4651
+type(
+  int list
+)
+ident(
+  def altri "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4660 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4664 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4669
+type(
+  int
+)
+ident(
+  def somma "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4726 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4672 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4677
+type(
+  int list -> int
+)
+ident(
+  int_ref sumof "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 120 4239 4247 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 120 4239 4252
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4678 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4686
+type(
+  int list
+)
+ident(
+  int_ref solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4637 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4645
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4672 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4686
+call(
+  stack
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4729 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4734
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4664 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4669
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4735 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4736
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4737 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4738
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4451 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4452
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4729 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4738
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4744 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4749
+type(
+  exn -> int list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4750 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4758
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4744 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4758
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 137 4760 4775 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 137 4760 4780
+type(
+  int list
+)
+ident(
+  int_ref altri "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4646 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4651
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 138 4787 4793 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 138 4787 4795
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 139 4847 4858 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 139 4847 4863
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4664 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4669
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 139 4847 4864 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 139 4847 4865
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 139 4847 4866 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 139 4847 4867
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4451 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4452
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 139 4847 4858 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 139 4847 4867
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 139 4847 4873 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 139 4847 4881
+type(
+  int list
+)
+ident(
+  int_ref solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4637 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4645
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 140 4883 4889 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 140 4883 4894
+type(
+  exn -> int list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 140 4883 4895 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 140 4883 4903
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 140 4883 4889 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 140 4883 4903
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 139 4847 4855 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 140 4883 4903
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4911 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4912
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5032 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4914 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4918
+type(
+  int list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5032 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5103
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4911 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4918
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5036 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5039
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4633 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4636
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5041 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5042
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4911 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4912
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5044 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5052
+type(
+  int list
+)
+ident(
+  int_ref solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4637 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4645
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5040 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5053
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5054 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5058
+type(
+  int list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4914 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4918
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5036 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5058
+call(
+  stack
+)
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5074 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5082
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5086 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5089
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4633 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4636
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5090 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5098
+type(
+  int list
+)
+ident(
+  int_ref solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4637 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4645
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5099 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5103
+type(
+  int list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4914 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 141 4905 4918
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5086 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5103
+call(
+  tail
+)
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 144 5024 5032 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5103
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 137 4760 4769 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5103
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 136 4722 4726 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5103
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 134 4656 4660 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 145 5061 5103
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5111 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5114
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4633 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4636
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5115 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5117
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5118 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5121
+type(
+  int list
+)
+ident(
+  int_ref set "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4447 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 129 4429 4450
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5111 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5121
+call(
+  tail
+)
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 133 4623 4625 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 146 5106 5121
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5522 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5535
+type(
+  int list -> int -> int list
+)
+ident(
+  def subset_search "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6240 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5536 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5539
+type(
+  int list
+)
+ident(
+  def set "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5540 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6049
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5540 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5541
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5602 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6049
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5610 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5613
+type(
+  int list -> int -> int list -> int list
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5602 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6049
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5614 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5622
+type(
+  int list
+)
+ident(
+  def solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5623 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6029
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5623 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5626
+type(
+  int
+)
+ident(
+  def tot "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5627 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6029
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5627 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5632
+type(
+  int list
+)
+ident(
+  def altri "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5641 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6029
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5644 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5647
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5623 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5626
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5648 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5649
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5650 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5651
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5644 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5651
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5657 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5662
+type(
+  exn -> int list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5663 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5671
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5657 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5671
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 164 5673 5688 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 164 5673 5693
+type(
+  int list
+)
+ident(
+  int_ref altri "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5627 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5632
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 165 5700 5706 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 165 5700 5708
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 166 5760 5772 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 166 5760 5775
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5623 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5626
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 166 5760 5776 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 166 5760 5777
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 166 5760 5778 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 166 5760 5779
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 166 5760 5772 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 166 5760 5779
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 166 5760 5785 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 166 5760 5793
+type(
+  int list
+)
+ident(
+  int_ref solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5614 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5622
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 167 5795 5801 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 167 5795 5806
+type(
+  exn -> int list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 167 5795 5807 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 167 5795 5815
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 167 5795 5801 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 167 5795 5815
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 166 5760 5768 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 167 5795 5815
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5823 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5824
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5944 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6029
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5826 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5830
+type(
+  int list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5944 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6029
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5823 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5830
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5948 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5951
+type(
+  int list -> int -> int list -> int list
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5610 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5613
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5953 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5954
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5823 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5824
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5956 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5964
+type(
+  int list
+)
+ident(
+  int_ref solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5614 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5622
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5952 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5965
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5967 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5970
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5623 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5626
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5971 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5972
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5973 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5974
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5823 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5824
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5966 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5975
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5976 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5980
+type(
+  int list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5826 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5830
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5948 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5980
+call(
+  stack
+)
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 5996 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6004
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6008 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6011
+type(
+  int list -> int -> int list -> int list
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5610 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5613
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6012 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6020
+type(
+  int list
+)
+ident(
+  int_ref solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5614 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5622
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6021 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6024
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5623 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5626
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6025 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6029
+type(
+  int list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5826 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 168 5817 5830
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6008 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6029
+call(
+  tail
+)
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 171 5936 5944 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6029
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 164 5673 5682 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6029
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 163 5637 5641 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 172 5983 6029
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6037 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6040
+type(
+  int list -> int -> int list -> int list
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5610 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5613
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6041 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6043
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6044 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6045
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5540 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5541
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6046 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6049
+type(
+  int list
+)
+ident(
+  int_ref set "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5536 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 160 5518 5539
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6037 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6049
+call(
+  tail
+)
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 162 5600 5602 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 173 6032 6049
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6244 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6254
+type(
+  int list -> int -> int list list
+)
+ident(
+  def search_all "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6859 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6255 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6258
+type(
+  int list
+)
+ident(
+  def set "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6259 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6859
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6259 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6260
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6326 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6859
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6334 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6337
+type(
+  int list -> int -> int list -> int list list
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6326 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6859
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6338 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6346
+type(
+  int list
+)
+ident(
+  def solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6347 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6839
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6347 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6350
+type(
+  int
+)
+ident(
+  def tot "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6351 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6839
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6351 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6356
+type(
+  int list
+)
+ident(
+  def altri "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6365 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6839
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6368 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6371
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6347 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6350
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6372 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6373
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6374 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6375
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6368 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6375
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6381 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6383
+type(
+  int list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 185 6413 6428 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 185 6413 6433
+type(
+  int list
+)
+ident(
+  int_ref altri "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6351 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6356
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 186 6440 6446 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 186 6440 6448
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6512 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6515
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6347 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6350
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6516 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6517
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6518 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6519
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6512 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6519
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6526 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6534
+type(
+  int list
+)
+ident(
+  int_ref solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6338 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6346
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6525 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6535
+type(
+  int list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 189 6585 6598 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 189 6585 6600
+type(
+  int list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 187 6500 6508 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 189 6585 6600
+type(
+  int list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6636 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6637
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6770 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6839
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6639 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6643
+type(
+  int list
+)
+ident(
+  def rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6770 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6839
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6636 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6643
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6771 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6774
+type(
+  int list -> int -> int list -> int list list
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6334 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6337
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6776 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6777
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6636 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6637
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6779 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6787
+type(
+  int list
+)
+ident(
+  int_ref solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6338 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6346
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6775 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6788
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6790 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6793
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6347 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6350
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6794 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6795
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6796 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6797
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6636 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6637
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6789 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6798
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6799 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6803
+type(
+  int list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6639 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6643
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6770 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6804
+call(
+  stack
+)
+type(
+  int list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6814 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6815
+type(
+  int list list -> int list list -> int list list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6817 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6820
+type(
+  int list -> int -> int list -> int list list
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6334 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6337
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6821 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6829
+type(
+  int list
+)
+ident(
+  int_ref solution "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6338 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6346
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6830 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6833
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6347 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6350
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6834 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6838
+type(
+  int list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6639 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 190 6630 6643
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6816 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6839
+call(
+  stack
+)
+type(
+  int list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 193 6762 6770 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6839
+call(
+  tail
+)
+type(
+  int list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 185 6413 6422 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6839
+type(
+  int list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 184 6361 6365 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 194 6806 6839
+type(
+  int list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6847 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6850
+type(
+  int list -> int -> int list -> int list list
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6334 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6337
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6851 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6853
+type(
+  int list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6854 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6855
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6259 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6260
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6856 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6859
+type(
+  int list
+)
+ident(
+  int_ref set "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6255 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 181 6240 6258
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6847 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6859
+call(
+  tail
+)
+type(
+  int list list
+)
+"EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 183 6324 6326 "EsercitazioniOCaml\\Codice Lezioni\\05a - backtracking.ml" 195 6842 6859
+type(
+  int list list
+)

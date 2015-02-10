@@ -1,6 +1,6 @@
 (* Esercizio 4 *)
-
-type 'a tree = Empty | Tr of 'a * 'a tree * 'a tree
+(* num_foglie: 'a tree -> int *)
+(* questa funzione ritorna il numero della foglie dell'albero *)
 
 let rec numero_foglie = function
 	| Empty -> 0

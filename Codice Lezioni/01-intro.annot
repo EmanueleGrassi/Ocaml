@@ -1,0 +1,1036 @@
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 333 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 336
+type(
+  int * int -> int
+)
+ident(
+  def gcd "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 325 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 337 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 338
+type(
+  int
+)
+ident(
+  def m "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 348 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 420
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 339 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 340
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 348 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 420
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 336 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 341
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 351 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 352
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 339 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 340
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 352 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 353
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 353 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 354
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 337 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 338
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 351 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 354
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 360 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 361
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 339 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 340
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 380 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 381
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 339 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 340
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 381 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 382
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 382 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 383
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 337 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 338
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 380 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 383
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 389 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 392
+type(
+  int * int -> int
+)
+ident(
+  int_ref gcd "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 333 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 336
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 393 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 394
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 339 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 340
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 394 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 395
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 395 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 396
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 337 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 338
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 393 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 396
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 397 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 398
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 337 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 338
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 392 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 399
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 389 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 399
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 410 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 413
+type(
+  int * int -> int
+)
+ident(
+  int_ref gcd "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 333 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 336
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 414 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 415
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 339 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 340
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 416 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 417
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 337 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 338
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 417 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 418
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 418 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 419
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 339 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 18 325 340
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 416 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 419
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 413 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 420
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 410 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 420
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 21 373 377 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 420
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 19 346 348 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 22 401 420
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 622 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 626
+type(
+  int -> int
+)
+ident(
+  def fact "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 614 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 627 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 628
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 634 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 669
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 637 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 638
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 627 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 628
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 638 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 639
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 639 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 640
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 637 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 640
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 646 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 647
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 656 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 657
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 627 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 628
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 658 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 659
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 660 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 664
+type(
+  int -> int
+)
+ident(
+  int_ref fact "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 622 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 626
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 665 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 666
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 627 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 41 614 628
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 666 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 667
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 667 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 668
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 664 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 669
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 660 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 669
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 656 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 669
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 42 632 634 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 43 649 669
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 749 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 754
+type(
+  'a * 'b -> 'a
+)
+ident(
+  def first "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 51 789 789 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 756 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 757
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 763 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 764
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 758 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 759
+type(
+  'b
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 763 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 764
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 755 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 760
+type(
+  'a * 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 763 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 764
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 756 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 48 745 757
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 51 789 793 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 51 789 795
+type(
+  'a -> 'a
+)
+ident(
+  def id "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 906 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 51 789 796 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 51 789 797
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 51 789 800 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 51 789 801
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 51 789 800 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 51 789 801
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 51 789 796 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 51 789 797
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 910 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 914
+type(
+  ('a -> 'b) * ('c -> 'a) -> 'c -> 'b
+)
+ident(
+  def comp "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1165 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 916 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 917
+type(
+  'a -> 'b
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 926 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 946
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 918 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 919
+type(
+  'c -> 'a
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 926 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 946
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 915 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 920
+type(
+  ('a -> 'b) * ('c -> 'a)
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 935 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 936
+type(
+  'c
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 940 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 946
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 940 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 941
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 916 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 917
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 942 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 943
+type(
+  'c -> 'a
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 918 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 919
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 944 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 945
+type(
+  'c
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 935 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 936
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 941 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 946
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 940 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 946
+type(
+  'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 926 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 57 924 946
+type(
+  'c -> 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1169 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1175
+type(
+  int -> int
+)
+ident(
+  def double "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 76 1461 1461 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1176 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1177
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1180 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1185
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1180 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1181
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1182 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1183
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1184 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1185
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1176 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1177
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1180 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 63 1165 1185
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 76 1461 1465 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 76 1461 1470
+type(
+  ('a -> 'b) -> ('c -> 'a) -> 'c -> 'b
+)
+ident(
+  def ccomp "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 100 2106 2106 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 76 1461 1471 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 76 1461 1472
+type(
+  'a -> 'b
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 77 1476 1478 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1517
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 77 1476 1487 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 77 1476 1488
+type(
+  'c -> 'a
+)
+ident(
+  def g "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1497 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1517
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1506 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1507
+type(
+  'c
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1511 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1517
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1511 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1512
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 76 1461 1471 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 76 1461 1472
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1513 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1514
+type(
+  'c -> 'a
+)
+ident(
+  int_ref g "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 77 1476 1487 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 77 1476 1488
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1515 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1516
+type(
+  'c
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1506 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1507
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1512 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1517
+type(
+  'a
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1511 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1517
+type(
+  'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1497 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1517
+type(
+  'c -> 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 77 1476 1478 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 78 1493 1517
+type(
+  ('c -> 'a) -> 'c -> 'b
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 100 2106 2110 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 100 2106 2113
+type(
+  int
+)
+ident(
+  def tre "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 101 2119 2119 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 100 2106 2116 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 100 2106 2117
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 101 2119 2123 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 101 2119 2130
+type(
+  int
+)
+ident(
+  def quattro "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 104 2171 2171 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 101 2119 2133 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 101 2119 2136
+type(
+  int
+)
+ident(
+  int_ref tre "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 100 2106 2110 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 100 2106 2113
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 101 2119 2137 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 101 2119 2138
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 101 2119 2139 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 101 2119 2140
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 101 2119 2133 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 101 2119 2140
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 104 2171 2175 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 104 2171 2181
+type(
+  int -> int
+)
+ident(
+  def square "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 108 2246 2246 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2196 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2197
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2201 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2205
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2201 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2202
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2196 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2197
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2202 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2203
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2204 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2205
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2196 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2197
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2201 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2205
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2187 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 105 2185 2205
+type(
+  int -> int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 108 2246 2250 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 108 2246 2262
+type(
+  float -> float
+)
+ident(
+  def float_square "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2443 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2277 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2278
+type(
+  float
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2282 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2288
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2282 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2283
+type(
+  float
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2277 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2278
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2284 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2286
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2287 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2288
+type(
+  float
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2277 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2278
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2282 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2288
+type(
+  float
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2268 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 109 2266 2288
+type(
+  float -> float
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2447 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2453
+type(
+  int -> int
+)
+ident(
+  def double "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2465 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2454 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2455
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2458 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2463
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2458 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2459
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2460 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2461
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2462 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2463
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2454 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2455
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2458 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2463
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2469 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2475
+type(
+  int -> int
+)
+ident(
+  def treble "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2489 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2476 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2477
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2480 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2485
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2480 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2481
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2482 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2483
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2484 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2485
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2476 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2477
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2480 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2485
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2493 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2501
+type(
+  int -> int
+)
+ident(
+  def sixtimes "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 143 2884 2884 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2504 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2508
+type(
+  (int -> int) * (int -> int) -> int -> int
+)
+ident(
+  int_ref comp "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 910 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 56 906 914
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2509 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2515
+type(
+  int -> int
+)
+ident(
+  int_ref double "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2447 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2453
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2516 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2522
+type(
+  int -> int
+)
+ident(
+  int_ref treble "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2469 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2475
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2508 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2523
+type(
+  (int -> int) * (int -> int)
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2504 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 119 2489 2523
+type(
+  int -> int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 143 2884 2888 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 143 2884 2891
+type(
+  int
+)
+ident(
+  def due "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 144 2897 2897 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 143 2884 2894 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 143 2884 2895
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 144 2897 2901 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 144 2897 2904
+type(
+  string
+)
+ident(
+  def due "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 148 2970 2970 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 144 2897 2907 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 144 2897 2912
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 148 2970 2974 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 148 2970 2977
+type(
+  int
+)
+ident(
+  def sei "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 2983 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 148 2970 2980 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 148 2970 2981
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 2987 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 2993
+type(
+  int -> int
+)
+ident(
+  def persei "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 150 3007 3007 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 2994 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 2995
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 2998 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 3005
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 2998 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 3001
+type(
+  int
+)
+ident(
+  int_ref sei "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 148 2970 2974 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 148 2970 2977
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 3002 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 3003
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 3004 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 3005
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 2994 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 2995
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 2998 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 149 2983 3005
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 150 3007 3011 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 150 3007 3014
+type(
+  string
+)
+ident(
+  def sei "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 151 3024 3024 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 150 3007 3017 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 150 3007 3022
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 151 3024 3028 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 151 3024 3031
+type(
+  int
+)
+ident(
+  def sei "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3550 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 151 3024 3034 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 151 3024 3035
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3554 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3558
+type(
+  'a * 'a -> 'a * 'a
+)
+ident(
+  def sort "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 178 3657 3657 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3560 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3561
+type(
+  'a
+)
+ident(
+  def x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3571 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 175 3590 3603
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3562 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3563
+type(
+  'a
+)
+ident(
+  def y "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3571 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 175 3590 3603
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3559 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3564
+type(
+  'a * 'a
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3574 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3575
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3560 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3561
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3575 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3576
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3576 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3577
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3562 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3563
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3574 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3577
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3584 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3585
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3562 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3563
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3586 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3587
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3560 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3561
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3583 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3588
+type(
+  'a * 'a
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 175 3590 3599 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 175 3590 3600
+type(
+  'a
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3560 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3561
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 175 3590 3601 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 175 3590 3602
+type(
+  'a
+)
+ident(
+  int_ref y "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3562 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 173 3550 3563
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 175 3590 3598 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 175 3590 3603
+type(
+  'a * 'a
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 174 3568 3571 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 175 3590 3603
+type(
+  'a * 'a
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 178 3657 3661 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 178 3657 3669
+type(
+  int
+)
+ident(
+  def qualcuno "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 186 3854 3854 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3676 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3677
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3678 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3679
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3684 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3690
+type(
+  int -> int
+)
+ident(
+  int_ref square "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 104 2171 2175 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 104 2171 2181
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3691 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3692
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3684 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3692
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3693 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3694
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3695 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3697
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3684 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3697
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 180 3700 3713 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 180 3700 3719
+type(
+  int -> int
+)
+ident(
+  int_ref double "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2447 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 116 2443 2453
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 180 3700 3720 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 180 3700 3723
+type(
+  int
+)
+ident(
+  int_ref tre "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 100 2106 2110 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 100 2106 2113
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 180 3700 3713 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 180 3700 3723
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 181 3725 3738 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 181 3725 3744
+type(
+  int -> int
+)
+ident(
+  int_ref treble "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2469 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 117 2465 2475
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 181 3725 3745 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 181 3725 3748
+type(
+  int
+)
+ident(
+  int_ref sei "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 151 3024 3028 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 151 3024 3031
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 181 3725 3738 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 181 3725 3748
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3680 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 181 3725 3749
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 179 3673 3676 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 181 3725 3749
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 186 3854 3858 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 186 3854 3864
+type(
+  '_a
+)
+ident(
+  def errore "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 209 4337 4337 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 187 3868 3873 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 187 3868 3876
+type(
+  int
+)
+ident(
+  int_ref sei "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 151 3024 3028 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 151 3024 3031
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 187 3868 3877 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 187 3868 3878
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 187 3868 3879 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 187 3868 3882
+type(
+  string
+)
+ident(
+  int_ref due "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 144 2897 2901 "EsercitazioniOCaml\\Codice Lezioni\\01-intro.ml" 144 2897 2904
+)

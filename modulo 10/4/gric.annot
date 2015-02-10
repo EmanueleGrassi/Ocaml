@@ -1,0 +1,80 @@
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 9 294 302 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 9 294 305
+type(
+  int list -> int
+)
+ident(
+  def sum "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 9 294 294 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 10 318 321 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 10 318 323
+type(
+  int list
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 10 318 327 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 10 318 328
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 333 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 334
+type(
+  int
+)
+ident(
+  def x "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 344 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 356
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 336 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 340
+type(
+  int list
+)
+ident(
+  def rest "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 344 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 356
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 333 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 340
+type(
+  int list
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 344 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 345
+type(
+  int
+)
+ident(
+  int_ref x "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 333 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 334
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 346 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 347
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 348 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 351
+type(
+  int list -> int
+)
+ident(
+  int_ref sum "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 9 294 302 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 9 294 305
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 352 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 356
+type(
+  int list
+)
+ident(
+  int_ref rest "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 336 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 340
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 348 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 356
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 344 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 356
+type(
+  int
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 9 294 308 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 11 330 356
+type(
+  int list -> int
+)
+"EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 13 360 368 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 13 360 381
+type(
+  '_a -> '_b
+)
+ident(
+  def num_di_foglie "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 13 360 360 "EsercitazioniOCaml\\modulo 10\\4\\gric.ml" 1 0 -1
+)

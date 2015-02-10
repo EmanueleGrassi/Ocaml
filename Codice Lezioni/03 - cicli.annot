@@ -1,0 +1,2704 @@
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 444 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 449
+type(
+  int -> int -> unit
+)
+ident(
+  def ciclo "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 436 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 450 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 451
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 452 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 560
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 452 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 453
+type(
+  int
+)
+ident(
+  def m "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 459 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 560
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 462 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 463
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 450 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 451
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 463 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 464
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 464 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 465
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 452 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 453
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 462 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 465
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 471 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 473
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 21 475 483 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 21 475 492
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.print_int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 21 475 493 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 21 475 494
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 450 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 451
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 21 475 483 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 21 475 494
+call(
+  stack
+)
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 22 526 527 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 22 526 540
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.print_newline
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 22 526 540 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 22 526 542
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 22 526 527 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 22 526 542
+call(
+  stack
+)
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 546 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 551
+type(
+  int -> int -> unit
+)
+ident(
+  int_ref ciclo "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 444 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 449
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 553 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 554
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 450 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 451
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 554 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 555
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 555 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 556
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 552 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 557
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 558 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 559
+type(
+  int
+)
+ident(
+  int_ref m "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 452 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 453
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 546 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 559
+call(
+  tail
+)
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 22 526 527 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 559
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 21 475 482 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 560
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 20 457 459 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 23 545 560
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 30 735 739 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 30 735 745
+type(
+  int -> unit
+)
+ident(
+  def ciclo2 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 35 863 863 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 30 735 748 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 30 735 753
+type(
+  int -> int -> unit
+)
+ident(
+  int_ref ciclo "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 444 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 19 436 449
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 30 735 754 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 30 735 755
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 30 735 748 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 30 735 755
+call(
+  stack
+)
+type(
+  int -> unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 35 863 871 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 35 863 876
+type(
+  unit -> int
+)
+ident(
+  def leggi "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 35 863 863 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 35 863 877 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 35 863 879
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 36 883 889 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 36 883 890
+type(
+  string
+)
+ident(
+  def s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 912 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 947
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 36 883 893 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 36 883 902
+type(
+  unit -> string
+)
+ident(
+  ext_ref Pervasives.read_line
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 36 883 903 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 36 883 905
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 36 883 893 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 36 883 905
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 915 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 916
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 36 883 889 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 36 883 890
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 916 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 917
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 917 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 920
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 915 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 920
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 926 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 927
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 936 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 937
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 938 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 939
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 940 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 945
+type(
+  unit -> int
+)
+ident(
+  int_ref leggi "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 35 863 871 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 35 863 876
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 945 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 947
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 940 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 947
+call(
+  stack
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 936 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 947
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 37 907 912 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 947
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 36 883 885 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 38 929 947
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 46 1179 1187 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 46 1179 1192
+type(
+  unit -> int
+)
+ident(
+  def somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 46 1179 1179 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 46 1179 1193 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 46 1179 1195
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1205 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1206
+type(
+  string
+)
+ident(
+  def s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1228 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1279
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1209 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1218
+type(
+  unit -> string
+)
+ident(
+  ext_ref Pervasives.read_line
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1219 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1221
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1209 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1221
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1231 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1232
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1205 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1206
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1232 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1233
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1233 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1236
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1231 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1236
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1242 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1243
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1253 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1266
+type(
+  string -> int
+)
+ident(
+  ext_ref Pervasives.int_of_string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1267 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1268
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1205 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1206
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1252 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1269
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1270 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1271
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1272 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1277
+type(
+  unit -> int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 46 1179 1187 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 46 1179 1192
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1277 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1279
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1272 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1279
+call(
+  stack
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1252 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1279
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 48 1223 1228 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1279
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 47 1199 1201 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 49 1245 1279
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 54 1356 1364 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 54 1356 1370
+type(
+  unit -> int
+)
+ident(
+  def somma2 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 54 1356 1356 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 54 1356 1371 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 54 1356 1373
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1387 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1388
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1429 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1441
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1391 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1404
+type(
+  string -> int
+)
+ident(
+  ext_ref Pervasives.int_of_string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1406 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1415
+type(
+  unit -> string
+)
+ident(
+  ext_ref Pervasives.read_line
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1415 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1417
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1405 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1418
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1391 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1418
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1429 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1430
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1387 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1388
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1431 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1432
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1433 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1439
+type(
+  unit -> int
+)
+ident(
+  int_ref somma2 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 54 1356 1364 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 54 1356 1370
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1439 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1441
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1433 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1441
+call(
+  stack
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1429 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1441
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1383 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 56 1420 1441
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 57 1443 1450 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 57 1443 1451
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 57 1443 1455 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 57 1443 1456
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 55 1377 1379 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 57 1443 1456
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 61 1543 1547 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 61 1543 1556
+type(
+  string -> int
+)
+ident(
+  def stringlen "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 75 2013 2013 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 61 1543 1557 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 61 1543 1558
+type(
+  string
+)
+ident(
+  def s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1740 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 71 1922 1932
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1748 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1751
+type(
+  int -> int
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1740 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 71 1922 1932
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1752 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1753
+type(
+  int
+)
+ident(
+  def i "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 67 1757 1761 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 69 1850 1865
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 67 1757 1769 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 67 1757 1770
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 67 1757 1773 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 67 1757 1774
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 61 1543 1557 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 61 1543 1558
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 67 1757 1776 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 67 1757 1777
+type(
+  int
+)
+ident(
+  int_ref i "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1752 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1753
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 67 1757 1773 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 67 1757 1778
+type(
+  char
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1839 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1842
+type(
+  int -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1748 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1751
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1844 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1845
+type(
+  int
+)
+ident(
+  int_ref i "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1752 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1753
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1845 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1846
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1846 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1847
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1843 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1848
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1839 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1848
+call(
+  stack
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 67 1757 1765 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 68 1828 1848
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 69 1850 1859 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 69 1850 1860
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 69 1850 1864 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 69 1850 1865
+type(
+  int
+)
+ident(
+  int_ref i "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1752 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1753
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 67 1757 1761 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 69 1850 1865
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 71 1922 1927 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 71 1922 1930
+type(
+  int -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1748 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1751
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 71 1922 1931 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 71 1922 1932
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 71 1922 1927 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 71 1922 1932
+call(
+  tail
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 66 1738 1740 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 71 1922 1932
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 75 2013 2021 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 75 2013 2025
+type(
+  unit -> int * int
+)
+ident(
+  def loop "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 75 2013 2013 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 75 2013 2026 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 75 2013 2028
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2038 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2039
+type(
+  string
+)
+ident(
+  def s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 78 2061 2063 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2273
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2042 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2051
+type(
+  unit -> string
+)
+ident(
+  ext_ref Pervasives.read_line
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2051 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2053
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2042 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2053
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 78 2061 2066 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 78 2061 2067
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2038 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2039
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 78 2061 2067 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 78 2061 2068
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 78 2061 2068 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 78 2061 2071
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 78 2061 2066 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 78 2061 2071
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 79 2091 2099 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 79 2091 2100
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 79 2091 2101 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 79 2091 2102
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 79 2091 2098 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 79 2091 2103
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2214 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2217
+type(
+  int
+)
+ident(
+  def tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2242 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2273
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2218 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2223
+type(
+  int
+)
+ident(
+  def somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2242 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2273
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2213 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2224
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2227 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2231
+type(
+  unit -> int * int
+)
+ident(
+  int_ref loop "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 75 2013 2021 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 75 2013 2025
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2231 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2233
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2227 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2233
+call(
+  stack
+)
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2243 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2246
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2214 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2217
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2246 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2247
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2247 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2248
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2243 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2248
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2249 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2254
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2218 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2223
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2254 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2255
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2256 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2269
+type(
+  string -> int
+)
+ident(
+  ext_ref Pervasives.int_of_string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2270 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2271
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2038 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2039
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2255 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2272
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2249 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2272
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2242 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2273
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 81 2205 2209 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2273
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 78 2061 2063 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2273
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 76 2032 2034 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 82 2235 2273
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 85 2291 2299 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 85 2291 2303
+type(
+  unit -> int * int
+)
+ident(
+  def loop "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 85 2291 2291 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 85 2291 2304 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 85 2291 2306
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2320 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2321
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2361 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2411
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2324 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2337
+type(
+  string -> int
+)
+ident(
+  ext_ref Pervasives.int_of_string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2338 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2347
+type(
+  unit -> string
+)
+ident(
+  ext_ref Pervasives.read_line
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2347 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2349
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2337 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2350
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2324 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2350
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2366 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2369
+type(
+  int
+)
+ident(
+  def tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2396 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2411
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2370 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2375
+type(
+  int
+)
+ident(
+  def somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2396 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2411
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2365 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2376
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2379 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2383
+type(
+  unit -> int * int
+)
+ident(
+  int_ref loop "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 85 2291 2299 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 85 2291 2303
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2383 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2385
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2379 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2385
+call(
+  stack
+)
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2397 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2400
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2366 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2369
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2400 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2401
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2401 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2402
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2397 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2402
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2403 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2408
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2370 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2375
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2408 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2409
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2409 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2410
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2320 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2321
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2403 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2410
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2396 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2411
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 87 2352 2361 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2411
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2316 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 88 2387 2411
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 89 2413 2420 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 89 2413 2421
+type(
+  exn
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 89 2413 2426 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 89 2413 2427
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 89 2413 2428 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 89 2413 2429
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 89 2413 2425 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 89 2413 2430
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 86 2310 2312 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 89 2413 2430
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 111 3061 3069 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 111 3061 3074
+type(
+  string -> unit
+)
+ident(
+  def media "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 111 3061 3061 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 111 3061 3075 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 111 3061 3079
+type(
+  string
+)
+ident(
+  def file "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3123 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3868
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3127 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3133
+type(
+  in_channel
+)
+ident(
+  def inchan "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 117 3281 3283 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3868
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3136 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3143
+type(
+  string -> in_channel
+)
+ident(
+  ext_ref Pervasives.open_in
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3144 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3148
+type(
+  string
+)
+ident(
+  int_ref file "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 111 3061 3075 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 111 3061 3079
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3136 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3148
+call(
+  stack
+)
+type(
+  in_channel
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 117 3281 3291 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 117 3281 3295
+type(
+  unit -> int * int
+)
+ident(
+  def loop "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 117 3281 3283 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3868
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 117 3281 3296 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 117 3281 3298
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3310 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3317
+type(
+  string
+)
+ident(
+  def stringa "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 120 3370 3374 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3620
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3320 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3330
+type(
+  in_channel -> string
+)
+ident(
+  ext_ref Pervasives.input_line
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3331 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3337
+type(
+  in_channel
+)
+ident(
+  int_ref inchan "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3127 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3133
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3320 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3337
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 120 3370 3377 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 120 3370 3384
+type(
+  string
+)
+ident(
+  int_ref stringa "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3310 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3317
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 120 3370 3385 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 120 3370 3386
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 120 3370 3387 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 120 3370 3390
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 120 3370 3377 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 120 3370 3390
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 123 3444 3452 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 123 3444 3460
+type(
+  in_channel -> unit
+)
+ident(
+  ext_ref Pervasives.close_in
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 123 3444 3461 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 123 3444 3467
+type(
+  in_channel
+)
+ident(
+  int_ref inchan "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3127 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3133
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 123 3444 3452 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 123 3444 3467
+call(
+  stack
+)
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 124 3505 3514 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 124 3505 3515
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 124 3505 3516 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 124 3505 3517
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 124 3505 3513 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 124 3505 3518
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 122 3430 3436 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 125 3520 3529
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3552 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3553
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3582 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3620
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3554 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3559
+type(
+  int
+)
+ident(
+  def somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3582 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3620
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3551 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3560
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3563 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3567
+type(
+  unit -> int * int
+)
+ident(
+  int_ref loop "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 117 3281 3291 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 117 3281 3295
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3568 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3570
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3563 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3570
+call(
+  stack
+)
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3583 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3584
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3552 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3553
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3584 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3585
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3585 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3586
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3583 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3586
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3588 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3593
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3554 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3559
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3594 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3595
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3597 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3610
+type(
+  string -> int
+)
+ident(
+  ext_ref Pervasives.int_of_string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3611 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3618
+type(
+  string
+)
+ident(
+  int_ref stringa "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3310 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3317
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3596 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3619
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3588 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3619
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3582 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3620
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 127 3541 3547 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3620
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 120 3370 3374 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3620
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 118 3302 3306 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 128 3573 3620
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3632 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3633
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3688 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3868
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3634 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3639
+type(
+  int
+)
+ident(
+  def somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3688 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3868
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3631 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3640
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3643 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3647
+type(
+  unit -> int * int
+)
+ident(
+  int_ref loop "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 117 3281 3291 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 117 3281 3295
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3648 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3650
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3643 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3650
+call(
+  stack
+)
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3688 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3700
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3702 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3710
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3710 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3711
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3712 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3725
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3726 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3727
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3632 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3633
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3711 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3728
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3728 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3729
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3733 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3751
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3751 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3752
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3753 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3766
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3767 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3772
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3634 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3639
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3752 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3773
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3773 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3774
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 133 3776 3778 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 133 3776 3789
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 133 3776 3789 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 133 3776 3790
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3795 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3810
+type(
+  float -> string
+)
+ident(
+  ext_ref Pervasives.string_of_float
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3813 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3825
+type(
+  int -> float
+)
+ident(
+  ext_ref Pervasives.float_of_int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3826 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3831
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3634 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3639
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3812 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3832
+type(
+  float
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3832 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3834
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3835 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3847
+type(
+  int -> float
+)
+ident(
+  ext_ref Pervasives.float_of_int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3848 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3849
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3632 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3633
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3834 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3850
+type(
+  float
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3811 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3851
+type(
+  float
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3794 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3852
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3862 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3863
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3863 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3867
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 134 3792 3794 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3867
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 133 3776 3778 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3867
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3752 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3867
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 132 3731 3733 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3867
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3711 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3867
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3701 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3868
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 131 3686 3688 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3868
+call(
+  tail
+)
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 129 3622 3627 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3868
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 117 3281 3283 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3868
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 113 3121 3123 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 135 3854 3868
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 140 3975 3983 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 140 3975 3987
+type(
+  int -> int
+)
+ident(
+  def fact "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 140 3975 3975 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 141 4000 4004 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 141 4000 4005
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 141 4000 4009 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 141 4000 4010
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4016 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4017
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4021 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4034
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4021 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4022
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4016 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4017
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4023 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4024
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4025 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4029
+type(
+  int -> int
+)
+ident(
+  int_ref fact "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 140 3975 3983 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 140 3975 3987
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4030 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4031
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4016 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4017
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4031 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4032
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4032 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4033
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4029 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4034
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4025 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4034
+call(
+  stack
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4021 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4034
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 140 3975 3990 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 142 4012 4034
+type(
+  int -> int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 168 4716 4724 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 168 4716 4729
+type(
+  int -> int
+)
+ident(
+  def fact' "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 168 4716 4716 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 168 4716 4730 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 168 4716 4731
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4821 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 174 4917 4929
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4829 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4832
+type(
+  int -> int -> int
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4821 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 174 4917 4929
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4833 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4834
+type(
+  int
+)
+ident(
+  def f "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4837 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4915
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 172 4848 4854 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 172 4848 4855
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 172 4848 4859 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 172 4848 4860
+type(
+  int
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4833 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4834
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4895 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4896
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4900 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4915
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4900 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4903
+type(
+  int -> int -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4829 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4832
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4905 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4906
+type(
+  int
+)
+ident(
+  int_ref f "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4833 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4834
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4906 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4907
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4907 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4908
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4895 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4896
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4904 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4909
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4911 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4912
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4895 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4896
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4912 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4913
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4913 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4914
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4910 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4915
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4900 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4915
+call(
+  tail
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4837 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 173 4889 4915
+type(
+  int -> int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 174 4917 4922 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 174 4917 4925
+type(
+  int -> int -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4829 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4832
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 174 4917 4926 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 174 4917 4927
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 174 4917 4928 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 174 4917 4929
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 168 4716 4730 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 168 4716 4731
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 174 4917 4922 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 174 4917 4929
+call(
+  tail
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 171 4819 4821 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 174 4917 4929
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 211 6165 6169 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 211 6165 6177
+type(
+  unit -> int
+)
+ident(
+  def leggi_it "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 222 6623 6623 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 211 6165 6178 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 211 6165 6180
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6194 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6197
+type(
+  int -> int
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6186 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 217 6443 6453
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6198 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6199
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6247 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6329
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6251 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6252
+type(
+  string
+)
+ident(
+  def s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6275 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6329
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6255 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6264
+type(
+  unit -> string
+)
+ident(
+  ext_ref Pervasives.read_line
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6264 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6266
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6255 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6266
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6278 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6279
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6251 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6252
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6279 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6280
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6280 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6283
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6278 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6283
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6289 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6290
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6198 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6199
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6320 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6323
+type(
+  int -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6194 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6197
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6325 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6326
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6198 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6199
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6326 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6327
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6327 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6328
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6324 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6329
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6320 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6329
+call(
+  tail
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 214 6268 6275 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6329
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 213 6243 6247 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 215 6311 6329
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 217 6443 6448 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 217 6443 6451
+type(
+  int -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6194 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6197
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 217 6443 6452 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 217 6443 6453
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 217 6443 6448 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 217 6443 6453
+call(
+  tail
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 212 6184 6186 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 217 6443 6453
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 222 6623 6627 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 222 6623 6635
+type(
+  unit -> int
+)
+ident(
+  def somma_it "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 231 6998 6998 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 222 6623 6636 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 222 6623 6638
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6652 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6655
+type(
+  int -> int
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6644 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 227 6858 6868
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6656 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6659
+type(
+  int
+)
+ident(
+  def tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6710 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6816
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6714 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6715
+type(
+  string
+)
+ident(
+  def s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6738 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6816
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6718 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6727
+type(
+  unit -> string
+)
+ident(
+  ext_ref Pervasives.read_line
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6727 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6729
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6718 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6729
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6741 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6742
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6714 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6715
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6742 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6743
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6743 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6746
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6741 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6746
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6752 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6755
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6656 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6659
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6787 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6790
+type(
+  int -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6652 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6655
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6792 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6795
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6656 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6659
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6796 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6797
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6799 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6812
+type(
+  string -> int
+)
+ident(
+  ext_ref Pervasives.int_of_string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6813 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6814
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6714 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6715
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6798 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6815
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6791 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6816
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6787 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6816
+call(
+  tail
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 225 6731 6738 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6816
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 224 6706 6710 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 226 6778 6816
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 227 6858 6863 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 227 6858 6866
+type(
+  int -> int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6652 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6655
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 227 6858 6867 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 227 6858 6868
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 227 6858 6863 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 227 6858 6868
+call(
+  tail
+)
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 223 6642 6644 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 227 6858 6868
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 231 6998 7002 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 231 6998 7009
+type(
+  unit -> int * int
+)
+ident(
+  def loop_it "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 245 7557 7557 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 231 6998 7010 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 231 6998 7012
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7064 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7067
+type(
+  int -> int -> int * int
+)
+ident(
+  def aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7056 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 238 7288 7300
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7068 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7071
+type(
+  int
+)
+ident(
+  def tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7072 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7233
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7072 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7077
+type(
+  int
+)
+ident(
+  def somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7110 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7233
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7114 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7115
+type(
+  string
+)
+ident(
+  def s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7139 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7233
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7118 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7127
+type(
+  unit -> string
+)
+ident(
+  ext_ref Pervasives.read_line
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7128 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7130
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7118 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7130
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7142 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7143
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7114 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7115
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7143 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7144
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7144 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7147
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7142 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7147
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7154 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7157
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7068 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7071
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7158 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7163
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7072 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7077
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7153 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7164
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7194 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7197
+type(
+  int -> int -> int * int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7064 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7067
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7199 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7202
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7068 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7071
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7202 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7203
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7203 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7204
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7198 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7205
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7207 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7212
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7072 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7077
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7213 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7214
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7216 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7229
+type(
+  string -> int
+)
+ident(
+  ext_ref Pervasives.int_of_string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7230 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7231
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7114 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7115
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7215 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7232
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7206 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7233
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7194 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7233
+call(
+  tail
+)
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 235 7132 7139 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7233
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 234 7106 7110 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 236 7185 7233
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 238 7288 7293 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 238 7288 7296
+type(
+  int -> int -> int * int
+)
+ident(
+  int_ref aux "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7064 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7067
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 238 7288 7297 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 238 7288 7298
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 238 7288 7299 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 238 7288 7300
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 238 7288 7293 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 238 7288 7300
+call(
+  tail
+)
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 233 7054 7056 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 238 7288 7300
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 245 7557 7565 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 245 7557 7573
+type(
+  string -> unit
+)
+ident(
+  def media_it "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 245 7557 7557 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 1 0 -1
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 245 7557 7574 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 245 7557 7578
+type(
+  string
+)
+ident(
+  def file "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7584 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8071
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7588 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7594
+type(
+  in_channel
+)
+ident(
+  def inchan "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7617 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8071
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7597 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7604
+type(
+  string -> in_channel
+)
+ident(
+  ext_ref Pervasives.open_in
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7605 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7609
+type(
+  string
+)
+ident(
+  int_ref file "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 245 7557 7574 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 245 7557 7578
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7597 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7609
+call(
+  stack
+)
+type(
+  in_channel
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7625 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7629
+type(
+  int -> int -> int * int
+)
+ident(
+  def loop "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7617 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8071
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7630 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7633
+type(
+  int
+)
+ident(
+  def tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7634 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7821
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7634 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7639
+type(
+  int
+)
+ident(
+  def somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7648 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7821
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7652 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7653
+type(
+  string
+)
+ident(
+  def s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 250 7684 7688 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7821
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7656 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7666
+type(
+  in_channel -> string
+)
+ident(
+  ext_ref Pervasives.input_line
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7667 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7673
+type(
+  in_channel
+)
+ident(
+  int_ref inchan "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7588 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7594
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7656 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7673
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 250 7684 7691 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 250 7684 7692
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7652 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7653
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 250 7684 7693 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 250 7684 7694
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 250 7684 7695 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 250 7684 7698
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 250 7684 7691 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 250 7684 7698
+type(
+  bool
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 253 7726 7727 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 253 7726 7735
+type(
+  in_channel -> unit
+)
+ident(
+  ext_ref Pervasives.close_in
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 253 7726 7736 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 253 7726 7742
+type(
+  in_channel
+)
+ident(
+  int_ref inchan "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7588 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7594
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 253 7726 7727 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 253 7726 7742
+call(
+  stack
+)
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 254 7746 7748 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 254 7746 7751
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7630 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7633
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 254 7746 7752 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 254 7746 7757
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7634 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7639
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 254 7746 7747 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 254 7746 7758
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 252 7712 7718 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 255 7760 7769
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7781 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7785
+type(
+  int -> int -> int * int
+)
+ident(
+  int_ref loop "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7625 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7629
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7787 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7790
+type(
+  int
+)
+ident(
+  int_ref tot "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7630 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7633
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7790 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7791
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7791 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7792
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7786 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7793
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7795 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7800
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7634 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7639
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7801 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7802
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7804 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7817
+type(
+  string -> int
+)
+ident(
+  ext_ref Pervasives.int_of_string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7818 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7819
+type(
+  string
+)
+ident(
+  int_ref s "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7652 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7653
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7803 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7820
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7794 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7821
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7781 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7821
+call(
+  tail
+)
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 250 7684 7688 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7821
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 248 7644 7648 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 256 7772 7821
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7833 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7834
+type(
+  int
+)
+ident(
+  def n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7891 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8071
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7835 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7840
+type(
+  int
+)
+ident(
+  def somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7891 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8071
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7832 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7841
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7844 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7848
+type(
+  int -> int -> int * int
+)
+ident(
+  int_ref loop "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7625 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7629
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7849 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7850
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7851 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7852
+type(
+  int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7844 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7852
+call(
+  stack
+)
+type(
+  int * int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7891 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7903
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7905 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7913
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7913 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7914
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7915 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7928
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7929 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7930
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7833 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7834
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7914 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7931
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7931 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7932
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7936 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7954
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7954 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7955
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7956 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7969
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7970 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7975
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7835 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7840
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7955 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7976
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7976 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7977
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 261 7979 7981 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 261 7979 7992
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 261 7979 7992 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 261 7979 7993
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 7998 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8013
+type(
+  float -> string
+)
+ident(
+  ext_ref Pervasives.string_of_float
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8016 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8028
+type(
+  int -> float
+)
+ident(
+  ext_ref Pervasives.float_of_int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8029 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8034
+type(
+  int
+)
+ident(
+  int_ref somma "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7835 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7840
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8015 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8035
+type(
+  float
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8035 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8037
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8038 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8050
+type(
+  int -> float
+)
+ident(
+  ext_ref Pervasives.float_of_int
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8051 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8052
+type(
+  int
+)
+ident(
+  int_ref n "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7833 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7834
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8037 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8053
+type(
+  float
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8014 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8054
+type(
+  float
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 7997 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 8055
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8065 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8066
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8066 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8070
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 262 7995 7997 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8070
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 261 7979 7981 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8070
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7955 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8070
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 260 7934 7936 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8070
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7914 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8070
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7904 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8071
+call(
+  stack
+)
+type(
+  string
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 259 7889 7891 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8071
+call(
+  tail
+)
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 257 7823 7828 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8071
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 247 7615 7617 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8071
+type(
+  unit
+)
+"EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 246 7582 7584 "EsercitazioniOCaml\\Codice Lezioni\\03 - cicli.ml" 263 8057 8071
+type(
+  unit
+)
